@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 80%;
+	font-family: "Times New Roman", Georgia, Serif;
 }
 nav ul, footer ul {
     font-family: "Times New Roman", Georgia, Serif;
@@ -29,12 +30,13 @@ p {
     color: #333;
 }
 footer {
-	clear: both;
-	height: 180px;
-	position: relative;
-    border-top: -3em;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
 	color: #d5d5d5;
-    font-size: .8em;
+	text-align: center;
 }
 
 ul.posts { 
