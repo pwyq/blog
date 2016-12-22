@@ -1,6 +1,9 @@
 body {
+	position: relative;
     margin: 60px auto;
     width: 80%;
+	min-height: 100%;
+	padding-bottom: 6rem;
 	font-family: "Times New Roman", Georgia, Serif;
 }
 nav ul, footer ul {
@@ -35,7 +38,8 @@ footer {
 	bottom: 0;
 	left: 0;
 	padding: 1rem;
-	color: #d5d5d5;
+	color: #848484;
+	background-color: #D4D4D4;
 	text-align: center;
 }
 
