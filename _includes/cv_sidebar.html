@@ -2,55 +2,55 @@
 
 <!-- Design credit to Xiaoying Riley -->
 
-<div class="sidebar-wrapper">
-	<div class="profile-container">
-	<img class="profile-img" src="{{site.baseurl}}/assets/images/{% if site.pic %}{{ site.pic }}{% else %}profile.png{% endif %}" alt="profile picture" />
-	<h1 class="name">{% if site.name %}{{site.name}}{% else %}Yanqing Wu{% endif %}</h1>
-	<h3 class="tagline">{% if site.tagline %}{{site.tagline}}{% else %}First Year Computer Engineering Student{% endif %}</h3>
-	</div><!--//profile-container-->
+	<div class="sidebar-wrapper">
+		<div class="profile-container">
+			<img class="profile-img" src="{{site.baseurl}}/assets/images/{% if site.pic %}{{ site.pic }}{% else %}profile.png{% endif %}" alt="profile picture" />
+			<h1 class="name">{% if site.name %}{{site.name}}{% else %}Yanqing Wu{% endif %}</h1>
+			<h3 class="tagline">{% if site.tagline %}{{site.tagline}}{% else %}First Year Computer Engineering Student{% endif %}</h3>
+		</div><!--//profile-container-->
 
-<div class="contact-container container-block">
-	<ul class="list-unstyled contact-list">
+		<div class="contact-container container-block">
+			<ul class="list-unstyled contact-list">
 
-	{% if site.email %}
-		<li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
-	{% else %}
-		<li class="email"><i class="fa fa-envelope"></i><a href="mailto:meet.yanqing.wu@gmail.com"></a>meet.yanqing.wu@gmail.com</li>
-	{% endif %}
+				{% if site.email %}
+					<li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
+				{% else %}
+					<li class="email"><i class="fa fa-envelope"></i><a href="mailto:meet.yanqing.wu@gmail.com"></a>meet.yanqing.wu@gmail.com</li>
+				{% endif %}
 
-	{% if site.phone %}
-		<li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
-	{% else %}
-		<li class="phone"><i class="fa fa-phone"></i><a href="tel:519 572 1997">519-572-1997</a></li>
-	{% endif %}
+				{% if site.phone %}
+					<li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
+				{% else %}
+					<li class="phone"><i class="fa fa-phone"></i><a href="tel:519 572 1997">519-572-1997</a></li>
+				{% endif %}
 
-	{% if site.website %}
-		<li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">{{site.website}}</a></li>
-	{% else %}
-		<li class="website"><i class="fa fa-globe"></i><a href="http://pwyq.github.io" target="_blank">pwyq.github.io</a></li>
-	{% endif %}
+				{% if site.website %}
+					<li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">{{site.website}}</a></li>
+				{% else %}
+					<li class="website"><i class="fa fa-globe"></i><a href="http://pwyq.github.io" target="_blank">pwyq.github.io</a></li>
+				{% endif %}
 
-	{% if site.linkedin %}
-		<li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/{{site.linkedin}}" target="_blank">linkedin.com/in/{{site.linkedin}}</a></li>
-	{% else %}
-		<li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/peteryanqingwu" target="_blank">linkedin.com/in/peteryanqingwu</a></li>
-	{% endif %}
+				{% if site.linkedin %}
+					<li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/{{site.linkedin}}" target="_blank">linkedin.com/in/{{site.linkedin}}</a></li>
+				{% else %}
+					<li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/peteryanqingwu" target="_blank">linkedin.com/in/peteryanqingwu</a></li>
+				{% endif %}
 
-	{% if site.github %}
-		<li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">github.com/{{site.github}}</a></li>
-	{% else %}
-		<li class="github"><i class="fa fa-github"></i><a href="https://github.com/pwyq" target="_blank">github.com/pwyq</a></li>
-	{% endif %}
+				{% if site.github %}
+					<li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">github.com/{{site.github}}</a></li>
+				{% else %}
+					<li class="github"><i class="fa fa-github"></i><a href="https://github.com/pwyq" target="_blank">github.com/pwyq</a></li>
+				{% endif %}
 
-	{% if site.twitter %}
-		<li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
-	{% else %}
-		<li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/P_WYQ?" target="_blank">@P_WYQ</a></li>
-	{% endif %}
+				{% if site.twitter %}
+					<li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
+				{% else %}
+					<li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/P_WYQ" target="_blank">@P_WYQ</a></li>
+				{% endif %}
 
-	</ul>
-</div><!--//contact-container-->
-	{% include cv_education.html %}
-	{% include cv_language.html %}
-	{% include cv_interests.html %}
-</div><!--//sidebar-wrapper-->
+				</ul>
+			</div><!--//contact-container-->
+			{% include cv_education.html %}
+			{% include cv_language.html %}
+			{% include cv_interests.html %}
+	</div><!--//sidebar-wrapper-->
