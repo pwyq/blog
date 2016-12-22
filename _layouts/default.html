@@ -2,34 +2,33 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
-    <!-- link to main stylesheet -->
+		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		  <style>
-		    body
-		    {
-		      background-color: hsl(85,48%,80%);
-		      color:black;
-		    }
-		  </style>
+		<style>
+		body{
+			background-color: hsl(85,48%,80%);
+			color:black;
+		}
+		</style>
+		{% include scripts.html %}
 	</head>
 	<body>
 		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/cv">CV</a></li>
+			<li><a href="/blog">Blog</a></li>
+		</ul>
 		</nav>
 		<div class="container">
 			{{ content }}
 		</div><!-- /.container -->
-		{% include scripts.html %}
 		<footer>
-    		<ul>
-        		<li><a href="mailto:meet.yanqing.wu@gmail.com">Email</a>  |  
-			    <a href="https://github.com/pwyq">Github</a>  |  
-			    <a href="https://www.linkedin.com/in/meetyanqingwu?trk=hp-identity-name">Linkedin</a></li>
+		<ul>
+			<li><a href="mailto:meet.yanqing.wu@gmail.com">Email</a>  |  
+			<a href="https://github.com/pwyq">Github</a>  |  
+			<a href="https://www.linkedin.com/in/meetyanqingwu?trk=hp-identity-name">Linkedin</a></li>
 			</ul>
 		</footer>
 	</body>
