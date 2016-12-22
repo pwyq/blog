@@ -17,3 +17,4 @@ All I want at the beginning was, <strong>just</strong> a place created by my own
 Many thanks also give to other guiders for creating your tutorials on github pages. I may not fully success on creating this cite following your tutorials, but I also learnt a lot! That's also a kind of success, isn't it?</p>
 <br>
 有志者，事竟成。
+<p>second update: why the font of second paragraph is bigger than the first paragraph?</p>
