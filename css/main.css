@@ -1,18 +1,32 @@
 body {
 	position: relative;
+	font-size: 16px;
     margin: 30px auto;
     width: 80%;
 	min-height: 100%;
 	padding-bottom: 60px;	/* Height of the footer */
 	font-family: "Times New Roman", Georgia, Serif;
 }
-nav ul, footer ul {
+nav ul {
     font-family: "Times New Roman", Georgia, Serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+
+footer ul {
+    font-family: "Times New Roman", Georgia, Serif;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+footer ul li {
     display: inline;
     margin-right: 20px;
 }
@@ -40,6 +54,7 @@ footer {
 	color: #00663f;
 	background-color: #b3ffe2;
 	text-align: center;
+	font-size: 0.8rem;
 }
 
 ul.posts { 
