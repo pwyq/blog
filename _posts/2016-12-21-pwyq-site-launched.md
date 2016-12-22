@@ -7,7 +7,7 @@ date: 2016-12-21
 Well, if this one success, I may really cry out. 
 I mean, the previous ones I built were either only with the .github.io working or only have the post function.<br>
 Today and yesterday I've commited more than a hundred times and re-created the github page for idk-how-many-times.<br>
-All I want at the beginning was, <strong>just</strong> a place created by my own to post some articles I like; however, those attempts just didn't work :( <del>yeah, may be I am too dumb to deal with github</del>, <strong>I still got here</strong> : ) with some newly learnt HTML and git knowledge.<br>
+All I want at the beginning was, <strong>just</strong> a place created by my own to post some articles I like; however, those attempts just didn't work :( <del>yeah, may be I am too dumb to deal with github</del>, <strong>but I still got here</strong> : ) with some newly learnt HTML and git knowledge!<br>
 <quote><i>Qui audet adipiscitur</i></quote>
 <br>
 <hr>
