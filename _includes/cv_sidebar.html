@@ -1,7 +1,5 @@
 <!-- Use icons from fontawesome when you are adding new item in the contact list  -->             
 
-<!-- Design credit to Xiaoying Riley -->
-
 	<div class="sidebar-wrapper">
 		<div class="profile-container">
 			<img class="profile-img" src="{{site.baseurl}}/assets/images/{% if site.pic %}{{ site.pic }}{% else %}profile.png{% endif %}" alt="profile picture" />
@@ -33,13 +31,17 @@
 				{% if site.linkedin %}
 					<li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/{{site.linkedin}}" target="_blank">linkedin.com/in/{{site.linkedin}}</a></li>
 				{% else %}
-					<li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/peteryanqingwu" target="_blank">linkedin.com/in/peteryanqingwu</a></li>
+					<li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/wuyanqing" target="_blank">linkedin.com/in/wuyanqing</a></li>
 				{% endif %}
 				
 				{% if site.github %}
-				<li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">github.com/{{site.github}}</a></li>
+				<!--<li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">github.com/{{site.github}}</a></li>
+				-->
+				<p>This is a test</p>
 				{% else %}
-				<li class="github"><i class="fa fa-github"></i><a href="https://github.com/pwyq" target="_blank">github.com/pwyq</a></li>
+				<!--<li class="github"><i class="fa fa-github"></i><a href="https://github.com/pwyq" target="_blank">github.com/pwyq</a></li>
+				-->
+				<p>Second test</p>
 				{% endif %}
 
 				{% if site.twitter %}
