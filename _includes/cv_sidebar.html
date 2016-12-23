@@ -35,13 +35,11 @@
 				{% endif %}
 				
 				{% if site.github %}
-				<!--<li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">github.com/{{site.github}}</a></li>
-				-->
-				<p>This is a test</p>
-				{% else %}
-				<!--<li class="github"><i class="fa fa-github"></i><a href="https://github.com/pwyq" target="_blank">github.com/pwyq</a></li>
-				-->
-				<p>Second test</p>
+				<li class="github"><i class="fa fa-github"></i><a href="http://github.com/pwyq" target="_blank">github.com/pwyq</a></li>
+				{% else %}<!-- Above line has a bug, if I put github.com/{{site.github}} and there will appear a bunch of links, idk why for now. 
+							Maybe is because my website has a direct link to github?! But I also has a link directly links to my homepage, nothing wrong at the above...
+							Also, previously the {{site.title}}shows the url rather the actual title-->
+				<li class="github"><i class="fa fa-github"></i><a href="https://github.com/pwyq" target="_blank">github.com/pwyq</a></li>
 				{% endif %}
 
 				{% if site.twitter %}
