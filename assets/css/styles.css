@@ -251,7 +251,8 @@ p {
 .footer .copyright {
   line-height: 1.6;
   color: #545E6C;
-  font-size: 13px;
+  font-size: 11px;
+  opacity: 0.7;
 }
 .footer .fa-heart {
   color: #fb866a;

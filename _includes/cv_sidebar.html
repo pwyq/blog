@@ -4,17 +4,14 @@
 		<div class="profile-container">
 			<img class="profile-img" src="{{site.baseurl}}/assets/images/{% if site.pic %}{{ site.pic }}{% else %}profile.png{% endif %}" alt="profile picture" />
 			<h1 class="name">Yanqing Wu</h1>
-			<h3 class="tagline">{% if site.tagline %}{{site.tagline}}{% else %}First Year Computer Engineering Student{% endif %}</h3>
+			<h3 class="tagline">{% if site.tagline %}{{site.tagline}}{% else %}Computer Engineering - 1B{% endif %}</h3>
 		</div><!--//profile-container-->
 
 		<div class="contact-container container-block">
 			<ul class="list-unstyled contact-list">
 
-				{% if site.email %}
-					<li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
-				{% else %}
-					<li class="email"><i class="fa fa-envelope"></i><a href="mailto:meet.yanqing.wu@gmail.com"></a>meet.yanqing.wu@gmail</li>
-				{% endif %}
+
+				<li class="email"><i class="fa fa-envelope"></i><a href="mailto:meet.yanqing.wu@gmail.com"></a>meet.yanqing.wu@gmail</li>
 
 				{% if site.phone %}
 					<li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
@@ -34,13 +31,10 @@
 					<li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/wuyanqing" target="_blank">linkedin.com/in/wuyanqing</a></li>
 				{% endif %}
 				
-				{% if site.github %}
 				<li class="github"><i class="fa fa-github"></i><a href="http://github.com/pwyq" target="_blank">github.com/pwyq</a></li>
-				{% else %}<!-- Above line has a bug, if I put github.com/{{site.github}} and there will appear a bunch of links, idk why for now. 
-							Maybe is because my website has a direct link to github?! But I also has a link directly links to my homepage, nothing wrong at the above...
-							Also, previously the {{site.title}}shows the url rather the actual title-->
-				<li class="github"><i class="fa fa-github"></i><a href="https://github.com/pwyq" target="_blank">github.com/pwyq</a></li>
-				{% endif %}
+				<!-- Above line has a bug, if I put github.com/{{site.github}} and there will appear a bunch of links, idk why for now. 
+				Maybe is because my website has a direct link to github?! But I also has a link directly links to my homepage, nothing wrong at the above...
+				Also, previously the {{site.title}}shows the url rather the actual title//{{site.email}}also not working-->
 
 				{% if site.twitter %}
 					<li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
