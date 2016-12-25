@@ -23,7 +23,8 @@ footer ul {
 
 nav ul li {
     display: inline;
-    margin-right: 20px;
+	margin-left: 10px;
+    margin-right: 10px;
 	margin-top: 5px;
 }
 
@@ -39,7 +40,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 25px;
     font-family: Times new roman,-apple-system,BlinkMacSystemFont,SimSun,sans-serif;
 }
 p {
@@ -65,8 +66,6 @@ ul.posts li {
 
 .header-img {
   max-width: 30px;
-  margin-left: 30px;
-  margin-top: 10px;
   margin-bottom: 15px;
   border: 0px solid #fff;
   border-radius: 100%;
