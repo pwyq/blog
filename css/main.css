@@ -61,3 +61,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.header-img {
+  max-width: 100px;
+  margin-bottom: 15px;
+  border: 0px solid #fff;
+  border-radius: 100%;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
