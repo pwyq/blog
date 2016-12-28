@@ -3,7 +3,7 @@
 	{% include header.html %}
 	<body>
 		<nav>
-			<ul class="nav-bar">
+			<ul>
 				<!--- Use the Dog to replace the HOME button -->
 				<a href="/" class="logo-link"><img class="header-img" src="/assets/images/header_dog.png"></a>
 				<li><a href="/blog" target="_self">BLOG</a></li>
@@ -13,6 +13,7 @@
 				<li><a href="/cv" target="_self">CV</a></li>
 			</ul>
 		</nav>
+		
 		<div class="container">
 			{{ content }}
 		{% include footer.html %}
