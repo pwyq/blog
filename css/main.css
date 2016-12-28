@@ -23,6 +23,7 @@ footer ul {
 
 nav ul li {
     display: inline;
+	align: center;
 	margin-left: 10px;
     margin-right: 10px;
 	margin-bottom: 10px;
@@ -65,8 +66,8 @@ ul.posts li {
 }
 
 .header-img {
-  max-width: 40px;
-  border: 0px solid #fff;
-  border-radius: 100%;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+	max-width: 50px;
+	border: 0px solid #fff;
+	border-radius: 100%;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
