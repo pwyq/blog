@@ -38,7 +38,7 @@ nav ul li a:hover {
 footer {
 	position: absolute;
     border-top: 0 solid #00663f;
-    font-size: 0.6em;
+    font-size: 0.65em;
 }
 footer ul {
     font-family: Times, Lucida, Tahoma, Arial;
@@ -63,15 +63,16 @@ h1, h2, h3, h4, h5 {
     font-family: Times, Lucida, Tahoma, Arial;
 }
 p {
-    font-size: 1em;
+    font-size: 0.9em;
     line-height: 1.2em;
+    text-decoration: none;
     color: #000000;
 }
 
 /*	Post List Settings  */
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.4em;
+    font-size: 1.2em;
     line-height: 1.2em;
 }
 ul.posts li {
