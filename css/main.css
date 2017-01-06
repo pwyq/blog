@@ -51,7 +51,7 @@ footer ul li {
     margin-right: 20px;
 }
 
-/* General Settings - Affect All Site  */
+/* General Settings - Affect !! All !! Site  */
 a {
     text-decoration: none;
     color: #999;
@@ -63,13 +63,13 @@ h1, h2, h3, h4, h5 {
     font-family: Times, Lucida, Tahoma, Arial;
 }
 p {
-    font-size: 0.9em;
+    font-size: 1.4em;
     line-height: 1.2em;
     text-decoration: none;
     color: #000000;
 }
 
-/*	Post List Settings  */
+/*	Blog-Post List Settings  */
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.2em;
@@ -78,4 +78,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
+p.posts {
+    font-size: 0.9em;
+    line-height: 1.2em;
+    text-decoration: none;
+    color: #000000;
+}

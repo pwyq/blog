@@ -4,7 +4,7 @@ title: "Hello World From Ubuntu"
 date: 2017-01-02
 ---
 
-# Happy New Year!
+## Happy New Year!
 
 <p>(lol, please forgive my naive writing style)</p>
 
