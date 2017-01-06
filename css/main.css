@@ -58,13 +58,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 25px;
+h1, h2, h3, h4, h5 {
     font-family: Times, Lucida, Tahoma, Arial;
 }
 p {
-    font-size: 2em;
-    line-height: 1.1em;
+    font-size: 1em;
+    line-height: 10em;
     color: #333;
 }
 
