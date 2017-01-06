@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--[if lt IE 7]> <html class="ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
 	{% include header.html %}
 	<body>
 		<nav>
 			<ul>
 				<!--- Use the Dog to replace the HOME button -->
-				<a href="/" class="logo-link"><img class="header-img" src="/assets/images/header_dog.png"></a>
+				<li><a href="/" class="logo-link"><img class="header-img" src="/assets/images/header_dog.png"></a></li>
 				<li><a href="/blog" target="_self">BLOG</a></li>
 				<li><a href="/archives" target="_self">ARCHIVE</a></li>
 				<li><a href="/about" target="_self">ABOUT</a></li>
