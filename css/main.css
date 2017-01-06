@@ -1,13 +1,13 @@
 body {
 	position: relative;
-	font-size: 16px;
+	font-size: 16px; /* Note: Affect the nav-bar font-size */
     margin: 60px auto;
     width: 80%;
 	min-height: 100%;
 	padding-bottom: 60px;	/* Height of the footer */
     font-family: Times, Lucida, Tahoma, Arial;
 }
-/*	Navigation Bar  */
+/*	Navigation Bar Settings  */
 nav ul {
     font-family: Times, Lucida, Tahoma, Arial;
     padding: 0;
@@ -51,6 +51,7 @@ footer ul li {
     margin-right: 20px;
 }
 
+/* General Settings - Affect All Site  */
 a {
     text-decoration: none;
     color: #999;
@@ -63,16 +64,16 @@ h1, h2, h3, h4, h5 {
 }
 p {
     font-size: 1em;
-    line-height: 10em;
-    color: #333;
+    line-height: 1.2em;
+    color: #000000;
 }
 
+/*	Post List Settings  */
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.4em;
     line-height: 1.2em;
 }
-
 ul.posts li {
     list-style: none;
 }
