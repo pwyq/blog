@@ -63,6 +63,7 @@ h1, h2, h3, h4, h5 {
     font-family: Times, Lucida, Tahoma, Arial;
 }
 p {
+	font-family: Times, Lucida, Tahoma, Arial;
     font-size: 1.4em;
     line-height: 1.2em;
     text-decoration: none;
@@ -78,9 +79,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-p.posts {
+
+.post-wrapper .post-single .post-body p{
+	font-family: Times, Lucida, Tahoma, Arial;
     font-size: 0.9em;
     line-height: 1.2em;
     text-decoration: none;
     color: #000000;
 }
+
