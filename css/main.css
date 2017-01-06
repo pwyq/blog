@@ -7,6 +7,7 @@ body {
 	padding-bottom: 60px;	/* Height of the footer */
 	font-family: Times new roman,-apple-system,BlinkMacSystemFont,SimSun,sans-serif;
 }
+/*	Navigation Bar  */
 nav ul {
     font-family: Times new roman,-apple-system,BlinkMacSystemFont,SimSun,sans-serif;
     padding: 0;
@@ -16,13 +17,11 @@ nav ul {
     font-weight: bold;
 	background-color: #00cc44;
 }
-
 nav ul li {
     display: inline;
 	float: left;
 	text-decoration: none;
 }
-
 nav ul li a {
 	display: block;
 	color: #ffffff;
@@ -30,25 +29,23 @@ nav ul li a {
 	text-align: center;
 	text-decoration: none;
 }
-
 nav ul li a:hover {
 	background-color: #00802b;
 	text-decoration: none;
 }
 
+/*	Footer Settings  */
 footer {
 	position: absolute;
     border-top: 0 solid #00663f;
     font-size: 0.6em;
 }
-
 footer ul {
     font-family: Times new roman,-apple-system,BlinkMacSystemFont,SimSun,sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-
 footer ul li {
     display: inline;
     margin-right: 20px;
@@ -66,8 +63,8 @@ h1 {
     font-family: Times new roman,-apple-system,BlinkMacSystemFont,SimSun,sans-serif;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1em;
+    line-height: 0.8em;
     color: #333;
 }
 
