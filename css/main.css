@@ -72,12 +72,18 @@ p {
 
 /*	Blog-Post List Settings  */
 ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.2em;
-    line-height: 1.2em;
+	margin: 20px auto 40px; 
+	font-size: 1.2em;
+	line-height: 1.2em;
 }
 ul.posts li {
     list-style: none;
+}
+
+.post-wrapper{
+	max-width: 960px;
+	margin: 0 auto;
+	position: relative;
 }
 
 .post-wrapper .post-single .post-body p{
@@ -87,4 +93,3 @@ ul.posts li {
     text-decoration: none;
     color: #000000;
 }
-

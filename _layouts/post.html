@@ -1,6 +1,6 @@
 ---
 layout: default
-Posts: true
+post-wrapper: true
 PostComments: true
 ---
 
@@ -12,17 +12,17 @@ PostComments: true
 			{{page.date | date_to_string }} {% if page.author %} by {{ page.author }} {% endif %}
 		</info></h2>
 		
-		<!-- Post content -->
-		<div class = "post-body">
+		<!-- post-content -->
+		<div class="post-body">
 			{{ content }}
 		</div>
 
-		<!-- Post info-->
+		<!-- post-info-->
 		<div class="post-info">
 		<!-- Include categories and tags in the future -->
 		</div>
-	</div><!-- / .Posts .single -->
-</div><!-- /.Posts -->
+	</div><!-- / .post-wrapper .post-single -->
+</div><!-- /.post-wrapper -->
 
 <hr>
 
