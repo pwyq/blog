@@ -221,6 +221,9 @@ p {
   margin-top: 0;
   margin-bottom: 5px;
 }
+.main-wrapper .project-tagline{
+  font-style: italic;
+}
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
 }
