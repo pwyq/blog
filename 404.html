@@ -7,25 +7,34 @@ permalink: /404.html
 <!-- Page Header -->
 
 <header>
-<!-- 	<style>
-		body{
-			background-image: url("/assets/images/404.jpg");
-		}
-	</style> -->
 	<body background="/assets/images/404.jpg">
 	<div class="container">
 		<center>
 			<h2 style="color:White">Lost in Space... Underconstruction...</h2>
 			</br>
 			<!-- <p>Wait, play Tetris?</p> -->
-			if (confirm('Wait, play Tetris?'))
+			<script>
+			$( function() {$( "#dialog-confirm" ).dialog(
+				{
+					resizable: false,
+					height: "auto",
+					width: 400,
+					modal: true,
+					buttons: {
+						"Delete all items": function() {$( this ).dialog( "close" );},
+						Cancel: function() {$( this ).dialog( "close" );}
+					}
+				});
+			});
+			</script>
+			<!-- if (confirm('Wait, play Tetris?'))
 			{
 				<meta http-equiv="refresh" content="0; url=/Tetris.html" />
 			}
 			else
 			{
 				<a href="#" onclick="return false;">
-			}
+			 -->}
 		</center>
 	</div>
 	</body>
