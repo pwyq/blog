@@ -5,20 +5,6 @@ permalink: /404.html
 ---
 
 <!-- Page Header -->
-
-<head>
-	<script>
-	window.onload = function(){
-	  // Change this value to however many seconds you want to delay the text by.
-	  var theDelay = 2;
-	  var timer = setTimeout("showText()",theDelay*1000)
-	}
-	function showText(){
-	  document.getElementById("delayedText").style.visibility = "visible";
-	}
-	</script>
-</head>
-
 <header>
 	<body background="/assets/images/404.jpg">
 	<div class="container">
@@ -45,6 +31,21 @@ permalink: /404.html
 			<script>
 			function myFunction() {
 			    confirm("Press a button!");
+			}
+			</script>
+
+<button onclick="{ if(confirm('jump to another page?'))location.href='body/location.html'}">get current position</button>
+
+<input type="button" value="go" onclick="if(confirm('jump to another page?')){location.href='/Tetris.html'}">
+
+			<script>
+			window.onload = function(){
+			  // Change this value to however many seconds you want to delay the text by.
+			  var theDelay = 2;
+			  var timer = setTimeout("showText()",theDelay*1000)
+			}
+			function showText(){
+			  document.getElementById("delayedText").style.visibility = "visible";
 			}
 			</script>
 
