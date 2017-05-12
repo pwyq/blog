@@ -26,22 +26,22 @@ permalink: /404.html
 				});
 			});
 			</script> -->
-			<button onclick="myFunction()">Wait, play Tetris?</button>
+			<!-- <button onclick="myFunction()">Wait, play Tetris?</button> -->
 
 			<script>
 			function myFunction() {
-			    confirm("Press a button!");
+			    confirm("Test111111111111111111");
 			}
 			</script>
 
-<button onclick="{ if(confirm('jump to another page?'))location.href='body/location.html'}">get current position</button>
+			<button onclick="{ if(confirm('jump to another page?'))location.href='body/location.html'}">get current position</button>
 
-<input type="button" value="go" onclick="if(confirm('jump to another page?')){location.href='/Tetris.html'}">
+			<input type="button" value="go" onclick="if(confirm('jump to another page?')){location.href='/Tetris.html'}">
 
 			<script>
 			window.onload = function(){
 			  // Change this value to however many seconds you want to delay the text by.
-			  var theDelay = 2;
+			  var theDelay = 0.6;
 			  var timer = setTimeout("showText()",theDelay*1000)
 			}
 			function showText(){
@@ -60,7 +60,7 @@ permalink: /404.html
 		</center>
 	</div>
 
-	<div id="delayedText" style="visibility:hidden"> <p style="color: White">This is some delayed text</p></div>
+	<div id="delayedText" style="visibility:hidden"> <p style="color: White" onclick="myFunction()">Wait, play Tetris?</p></div>
 	</body>
 </header>
 
