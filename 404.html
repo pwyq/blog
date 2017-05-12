@@ -7,60 +7,41 @@ permalink: /404.html
 <!-- Page Header -->
 <header>
 	<body background="/assets/images/404.jpg">
-	<div class="container">
-		<center>
-			<h2 style="color:White">Lost in Space... Underconstruction...</h2>
-			</br>
-			<!-- <p>Wait, play Tetris?</p> -->
-<!-- 			<script>
-			$(function() {$( "#dialog-confirm" ).dialog(
-				{
-					resizable: false,
-					height: "auto",
-					width: 400,
-					modal: true,
-					buttons: {
-						"Delete all items": function() {$( this ).dialog( "close" );},
-						Cancel: function() {$( this ).dialog( "close" );}
+		<div class="container">
+			<center>
+				<h2 style="color:White">Lost in Space... Underconstruction...</h2>
+				</br>
+			</center>
+
+				<button onclick="goBack()">Go Back</button>
+
+				<input type="button" value="Tetris!" onclick="if(confirm('Tetris?')){location.href='/Tetris.html'}">
+
+				<script>
+					function goBack()
+					{
+						window.history.back();
 					}
-				});
-			});
-			</script> -->
-			<!-- <button onclick="myFunction()">Wait, play Tetris?</button> -->
+				</script>
 
-			<script>
-			function myFunction() {
-			    confirm("Test111111111111111111");
-			}
-			</script>
+				<script>
+					window.onload = function(){
+					  // Change this value to however many seconds you want to delay the text by.
+					  var theDelay = 1.2;
+					  var timer = setTimeout("showText()",theDelay*1000)
+					}
+					function showText(){
+					  document.getElementById("delayedText").style.visibility = "visible";
+					}
+				</script>
+				}
+		</div>
 
-			<button onclick="{ if(confirm('jump to another page?'))location.href='body/location.html'}">get current position</button>
-
-			<input type="button" value="go" onclick="if(confirm('jump to another page?')){location.href='/Tetris.html'}">
-
-			<script>
-			window.onload = function(){
-			  // Change this value to however many seconds you want to delay the text by.
-			  var theDelay = 0.6;
-			  var timer = setTimeout("showText()",theDelay*1000)
-			}
-			function showText(){
-			  document.getElementById("delayedText").style.visibility = "visible";
-			}
-			</script>
-
-			<!-- if (confirm('Wait, play Tetris?'))
-			{
-				<meta http-equiv="refresh" content="0; url=/Tetris.html" />
-			}
-			else
-			{
-				<a href="#" onclick="return false;">
-			 -->}
-		</center>
-	</div>
-
-	<div id="delayedText" style="visibility:hidden"> <p style="color: White" onclick="myFunction()">Wait, play Tetris?</p></div>
+		<div id="delayedText" style="visibility:hidden">
+			<center>
+				<p style="color: White" onclick="myFunction()">Wait, play Tetris?</p>
+			</center>
+		</div>
 	</body>
 </header>
 
