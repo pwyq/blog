@@ -3,14 +3,24 @@
 <!--[if IE 7]>    <html class="ie7 oldie" lang="en"> <![endif]-->
 <!--[if IE 8]>    <html class="ie8 oldie" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<style>
+	#main-logo
+	{
+		font-size: 50px; 
+		font-size: 4vw;
+		background: -webkit-linear-gradient(#0000ff, #99ccff);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+</style>
 	{% include header.html %}
 	<body>
 		<nav>
 			<ul>
-				<li><a href="/" target="_self"><span title="Home Page">PWYQ'S SPACE</span></a></li>
+				<li><a href="/archives" target="_self"><span title="Blogs' Home">ARCHIVE</span></a></li>
 				<li><a href="/blog" target="_self"><span title="pwyq's Blog">BLOG</span></a></li>
 				<li><a href="/project" target="_self"><span title="pwyq's Project">PROJECT</span></a></li>
-				<li><a href="/archives" target="_self"><span title="Blogs' Home">ARCHIVE</span></a></li>
+				<li><a href="/" target="_self"><span title="Home Page" id="main-logo">PWYQ'S SPACE</span></a></li>
 				<li><a href="/about" target="_self"><span title="Know me a bit">ABOUT</span></a></li>
 				<li><a href="https://github.com/pwyq" target="_blank" onclick="alert('Leaving this space...')"><span title="Go to My Github Page">GITHUB</span></a></li>
 				<li><a href="/cv" target="_self"><span title="My Resume">CV</span></a></li>
