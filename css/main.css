@@ -16,7 +16,7 @@ nav ul {
 	overflow: hidden;
     list-style-type: none;
     font-weight: bold;
-	background-color: #00cc44;
+	background-color: #00802b;
 }
 nav ul li {
     display: inline;
@@ -31,7 +31,10 @@ nav ul li a {
 	text-decoration: none;
 }
 nav ul li a:hover {
-	background-color: #00802b;
+    background: -webkit-linear-gradient(#00cc99, #f2f2f2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+	background-color: #00cc44;
 	text-decoration: none;
 }
 
