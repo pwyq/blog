@@ -21,14 +21,17 @@ nav ul {
 /*        background: -webkit-linear-gradient(#00cc99, #f2f2f2);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;*/
-nav ul:hover {
-    background-color: #00cc44;
-}
+/*#00802b - darker, #00cc44 - lighter*/
 nav ul li {
     display: inline;
 	float: left;
 	text-decoration: none;
 }
+
+nav ul li:hover {
+    background-color: #00cc44;
+}
+
 nav ul li a {
 	display: block;
 	color: #ffffff;
@@ -37,7 +40,9 @@ nav ul li a {
 	text-decoration: none;
 }
 nav ul li a:hover {
-	background-color: #00802b;
+    background: -webkit-linear-gradient(#00cc99, #f2f2f2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 	text-decoration: none;
 }
 
