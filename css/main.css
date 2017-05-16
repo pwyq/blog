@@ -19,7 +19,7 @@ nav ul {
 	background-color: #00b33c;
 }
 
-/*#00b33c - darker, #00e64d - lighter*/
+/*#00b33c - darker, #00ff55 - lighter*/
 nav ul li {
     display: inline;
 	float: left;
@@ -27,7 +27,7 @@ nav ul li {
 }
 
 nav ul li:hover {
-    background-color: #00e64d;
+    background-color: #00ff55;
 }
 
 nav ul li a {
