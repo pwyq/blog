@@ -14,7 +14,7 @@
 	{% include header.html %}
 	<body>
 		<nav>
-			<ul>
+			<center><ul>
 				<li><a href="/archives" target="_self"><span title="Blogs' Home">ARCHIVE</span></a></li>
 				<li><a href="/blog" target="_self"><span title="pwyq's Blog">BLOG</span></a></li>
 				<li><a href="/project" target="_self"><span title="pwyq's Project">PROJECT</span></a></li>
@@ -22,12 +22,12 @@
 				<li><a href="/about" target="_self"><span title="Know me a bit">ABOUT</span></a></li>
 				<li><a href="https://github.com/pwyq" target="_blank" onclick="alert('Leaving this space...')"><span title="Go to My Github Page">GITHUB</span></a></li>
 				<li><a href="/cv" target="_self"><span title="My Resume">CV</span></a></li>
-			</ul>
+			</ul></center>
 		</nav>
 		
 		<div class="container">
 			{{ content }}
-		{% include footer.html %}
+			{% include footer.html %}
 		</div><!-- /.container -->
 		<!-- MathJax -->
 		<script async src="//cdn.bootcss.com/mathjax/2.6.1/MathJax.js?config=TeX-MML-AM_CHTML">
