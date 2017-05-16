@@ -7,11 +7,13 @@ body {
 	padding-bottom: 60px;	/* Height of the footer */
     font-family: Times, Lucida, Tahoma, Arial;
 }
+
 /*	Navigation Bar Settings  */
 nav ul {
     font-family: Times, Lucida, Tahoma, Arial;
     padding: 0;
 	margin: 0;
+    margin-left: 10
 	overflow: hidden;
     list-style-type: none;
     font-weight: bold;
