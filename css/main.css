@@ -19,7 +19,7 @@ nav ul {
 }
 nav ul li {
     display: inline;
-	float: left;
+	float: center;
 	text-decoration: none;
 }
 nav ul li a {
