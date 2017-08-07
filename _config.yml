@@ -374,7 +374,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: pwyq
+  shortname: pwyqblog
   count: true
 
 # Hypercomments
