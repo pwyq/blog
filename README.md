@@ -13,5 +13,5 @@
     * Added Tetris.html on 404.html
 * 2017.05.14
     * Added Project Subpage
-* 2017.08.07
-    * **pwyq'S Space** was fully rebuilt with Jekyll Theme [Next](https://github.com/simpleyyt/jekyll-theme-next)!
+* 2017.08.07 - Rebuilt Day 1
+    * Started to fully rebuild the site with Jekyll Theme [Next](https://github.com/simpleyyt/jekyll-theme-next)!
