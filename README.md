@@ -15,3 +15,7 @@
     * Added Project Subpage
 * 2017.08.07 - Rebuilt Day 1
     * Started to fully rebuild the site with Jekyll Theme [Next](https://github.com/simpleyyt/jekyll-theme-next)!
+    
+    
+#### TODO
+1. Chinese Version
