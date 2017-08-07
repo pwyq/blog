@@ -1,6 +1,6 @@
 # Site
 title: pwyq's Space
-subtitle:
+subtitle: Yanqing's Blog
 description: A Space With Thoughts
 author: Yanqing Wu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -72,7 +72,7 @@ gems:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Jekyll, NexT, pwyq's Space, Yanqing"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -80,7 +80,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2016
 
 # icon between year and author @Footer
 authoricon: heart
@@ -102,7 +102,7 @@ seo: false
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
-index_with_subtitle: false
+index_with_subtitle: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -115,8 +115,8 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
-  commonweal: /404.html
+#  sitemap: /sitemap.xml
+  commonweal: 404.html
 
 
 # Enable/Disable menu icons.
@@ -207,7 +207,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
-  #LinkLabel: Link
+  GitHub: https://github.com/pwyq
 
 
 # Social Links Icons
@@ -226,7 +226,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/author_dog.png
 
 
 # Table Of Contents in the Sidebar
@@ -274,11 +274,11 @@ sidebar:
 
 
 # Blog rolls
-#links_title: Links
-#links_layout: block
-#links_layout: inline
+links_title: Links
+links_layout: block
+links_layout: inline
 #links:
-  #Title: http://example.com/
+  Title: https://www.google.ca
 
 
 # ---------------------------------------------------------------
@@ -289,7 +289,7 @@ sidebar:
 scroll_to_more: true
 
 # Automatically saving scroll position on each post/page in cookies.
-save_scroll: false
+save_scroll: true
 
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true
@@ -322,7 +322,7 @@ post_wordcount:
 
 # Declare license on posts
 post_copyright:
-  enable: false
+  enable: true
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
@@ -355,8 +355,8 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: false
-  per_page: false
+  enable: true
+  per_page: true
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
@@ -373,8 +373,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: pwyq
   count: true
 
 # Hypercomments
@@ -417,7 +417,7 @@ changyan:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-89371373-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
@@ -541,7 +541,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
