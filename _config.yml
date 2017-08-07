@@ -1,3 +1,4 @@
 name: pwyq's Space
 markdown: kramdown
+scheme: Mist
 permalink: /blog/:year/:month/:day/:title
