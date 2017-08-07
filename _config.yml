@@ -1,7 +1,7 @@
 # Site
 title: pwyq's Space
 subtitle:
-description:
+description: A Space With Thoughts
 author: Yanqing Wu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en, zh-Hans, ja
@@ -39,7 +39,6 @@ highlighter: rouge
 #### Markdown Processors
 ## 'redcarpet' is unsupported on GitHub Pages now.
 markdown: kramdown
-<<<<<<< HEAD
 kramdown:
     input: GFM
 
@@ -145,9 +144,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-# scheme: Muse
-scheme: Mist
-# scheme: Pisces
+scheme: Muse
+#scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
