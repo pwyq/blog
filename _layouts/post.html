@@ -1,32 +1,6 @@
 ---
-layout: default
-post-wrapper: true
-PostComments: true
+layout: layout
 ---
 
-<div class="post-wrapper">
-	<div class="post-single">
-		<h1 class="title">{{ page.title }}</h1>
-		
-		<h2 class="date"><info datetime="{{ page.date }}>
-			{{page.date | date_to_string }} {% if page.author %} by {{ page.author }} {% endif %}
-		</info></h2>
-		
-		<!-- post-content -->
-		<div class="post-body">
-			{{ content }}
-		</div>
-
-		<!-- post-info-->
-		<div class="post-info">
-		<!-- Include categories and tags in the future -->
-		</div>
-	</div><!-- / .post-wrapper .post-single -->
-</div><!-- /.post-wrapper -->
-
-<hr>
-
-<!-- Post Comments -->
-<div class="PostComments">
-	{% include disqus.html %}
-</div>
+{% assign __ = site.data.languages[site.language] %}
+{% include post.html %}
