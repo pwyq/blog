@@ -1,7 +1,7 @@
 # Site
 title: pwyq's Space
 subtitle: Yanqing's Blog
-description: A Space With Thoughts
+description: A Space with Thoughts
 author: Yanqing Wu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -72,7 +72,7 @@ gems:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT, pwyq's Space, Yanqing"
+keywords: "Jekyll, NexT, pwyq, Yanqing"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -111,12 +111,12 @@ index_with_subtitle: true
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
-  about: /about/
   archives: /archives/
+  categories: /categories/
   tags: /tags/
+  about: /about/
 #  sitemap: /sitemap.xml
-  commonweal: 404.html
+#  commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -250,7 +250,7 @@ toc:
 sidebar:
   # Sidebar Position, available value: left | right
   position: left
-  #position: right
+#  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -270,15 +270,15 @@ sidebar:
   b2t: false
 
   # Scroll percent label in b2t button
-  scrollpercent: false
+  scrollpercent: true
 
 
 # Blog rolls
-links_title: Links
-links_layout: block
-links_layout: inline
-#links:
-  Title: https://www.google.ca
+#links_title: Links
+#links_layout: block
+#links_layout: inline
+##links:
+#  Title: https://www.google.ca
 
 
 # ---------------------------------------------------------------
