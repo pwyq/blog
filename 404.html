@@ -7,6 +7,10 @@
     <link href="//fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
     <style>
+        @font-face {
+            font-family: ErrorPage;
+            src: url('assets/fonts/404_font/1942.ttf');
+            font-weight: bold; }
         html, body {
             height: 100%;
         }
@@ -17,7 +21,7 @@
             color: #B0BEC5;
             display: table;
             font-weight: 100;
-            font-family: 'Lato';
+            font-family: ErrorPage;
         }
         .container {
             text-align: center;
@@ -29,16 +33,21 @@
             display: inline-block;
         }
         .title {
-            font-size: 72px;
+            font-size: 60px;
             margin-bottom: 40px;
+        }
+        .message {
+            font-size: 48px;
         }
     </style>
 </head>
 <body>
 <div class="container">
     <div class="content">
-        <div class="title">404 NO FOUND</div>
-        <a href="http://pwyq.github.io" target="_blank" rel="external">Back to Home Page</a>
+        <div class="title">404 NOT FOUND</div>
+        <p style="font-size: 48px">Uh, Houston, we've had a problem.</p>
+        <br><br>
+        <a href="https://www.pwyqspace.com" target="_blank" rel="external" style="font-size: 32px;">Back to Home Page</a>
     </div>
 </div>
 </body>
