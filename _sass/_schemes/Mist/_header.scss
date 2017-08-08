@@ -1,5 +1,10 @@
 // Header
 // --------------------------------------------------
+@font-face {
+  font-family: SiteTitleFont;
+  src: url('/assets/fonts/logo_font/UrbanJungleDEMO.otf');
+  font-weight: bold;
+}
 .header { background: $whitesmoke; }
 .header-inner {
   padding: 25px 0 20px;
@@ -31,8 +36,9 @@
   .logo { display: none; }
 
   .site-title {
-    font-size: 22px;
+    font-size: 26px;
     font-weight: bolder;
+    font-family: SiteTitleFont;
 
     @include mobile() { line-height: 34px; }
   }
@@ -58,6 +64,6 @@
 }
 
 .use-motion {
-  .logo-line-before i { left: -100%; }
-  .logo-line-after i { right: -100%; }
+  .logo-line-before i { left: -60%; }
+  .logo-line-after i { right: -60%; }
 }
