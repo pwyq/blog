@@ -16,6 +16,8 @@
 * 2017.08.07 - Rebuilt Day 1
     * Started to fully rebuild the site with Jekyll Theme [Next](https://github.com/simpleyyt/jekyll-theme-next)!
     * Officially change domain to `pwyqspace.com`
+* 2017.08.08 - Rebuilt Day 2
+    * Redirecting every request to HTTPS instead of HTTP
     
 #### TODO
 1. Chinese Version
