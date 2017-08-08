@@ -5,18 +5,18 @@
   <span class="with-love">
     <i class="fa fa-{{ site.authoricon }}"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">{{ site.author }}</span>
-</div>
+  <span class="author" itemprop="copyrightHolder">{{ site.author }}  &nbsp; &nbsp;|  &nbsp; &nbsp;</span>
+  <!--`&nbsp;` is the extra whitespace-->
+  {% if site.copyright %}
+  <div class="powered-by">
+    {{ __.footer.powered | replace: '%s', '<a class="theme-link" href="https://jekyllrb.com">Jekyll</a>') }}
+  </div>
 
-{% if site.copyright %}
-<div class="powered-by">
-  {{ __.footer.powered | replace: '%s', '<a class="theme-link" href="https://jekyllrb.com">Jekyll</a>') }}
+  <div class="theme-info">
+    {{ __.footer.theme }} -
+    <a class="theme-link" href="https://github.com/simpleyyt/jekyll-theme-next">
+      NexT.{{ site.scheme }}
+    </a>
+  </div>
+  {% endif %}
 </div>
-
-<div class="theme-info">
-  {{ __.footer.theme }} -
-  <a class="theme-link" href="https://github.com/simpleyyt/jekyll-theme-next">
-    NexT.{{ site.scheme }}
-  </a>
-</div>
-{% endif %}
