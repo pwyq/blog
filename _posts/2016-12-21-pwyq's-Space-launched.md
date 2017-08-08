@@ -2,6 +2,8 @@
 title: pwyq's Space, Launched!
 description: My first blog on my first self-built website!
 categories:
+    - posts
+tags:
     - life
     - pwyq's Space
 date: 2016-12-21

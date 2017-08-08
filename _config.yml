@@ -115,6 +115,7 @@ menu:
   categories: /categories/
   tags: /tags/
   about: /about/
+  resume: /resume/
 #  sitemap: /sitemap.xml
 #  commonweal: /404.html
 
@@ -133,6 +134,7 @@ menu_icons:
   schedule: calendar
   tags: tags
   archives: archive
+  resume: mortar-board
   sitemap: sitemap
   commonweal: heartbeat
 
@@ -272,7 +274,7 @@ sidebar:
   # Scroll percent label in b2t button
   scrollpercent: true
 
-
+# By pwyq: Is this Friendly links (You Lian)?
 # Blog rolls
 #links_title: Links
 #links_layout: block
@@ -346,7 +348,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night bright
 
 
 # ---------------------------------------------------------------

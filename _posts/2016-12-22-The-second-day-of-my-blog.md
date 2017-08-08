@@ -2,6 +2,8 @@
 title: The second day of my blog
 date: 2016-12-22
 categories:
+    - posts
+tags:
     - pwyq's Space
 ---
 

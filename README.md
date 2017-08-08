@@ -1,4 +1,4 @@
-## [pwyq's Space](http://pwyqspace.com/) - A Work in Progress
+## [pwyq's Space](https://www.pwyqspace.com/) - A Work in Progress
 
 > Timetable of Development
 
@@ -15,9 +15,11 @@
     * Added Project Subpage
 * 2017.08.07 - Rebuilt Day 1
     * Started to fully rebuild the site with Jekyll Theme [Next](https://github.com/simpleyyt/jekyll-theme-next)!
-    * Officially change domain to `pwyqspace.com`
+    * Officially change domain to `https://www.pwyqspace.com`
 * 2017.08.08 - Rebuilt Day 2
-    * Redirecting every request to HTTPS instead of HTTP
+    * Redirecting every request to HTTPS instead of HTTP using Cloudflare
+    * Migrated old resume-page to current site
     
 #### TODO
 1. Chinese Version
+2. Delete Unnecessary files
