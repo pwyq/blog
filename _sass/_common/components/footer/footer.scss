@@ -5,7 +5,10 @@
   img { border: none; }
 }
 
-.footer-inner { text-align: center; }
+.footer-inner {
+  text-align: center;
+  opacity: 0.6;
+}
 
 .with-love {
   display: inline-block;
