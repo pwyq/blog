@@ -377,6 +377,7 @@ han: false
 # Disqus
 disqus:
   enable: true
+  hide: true
   shortname: pwyqblog
   count: true
 
