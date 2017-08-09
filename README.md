@@ -1,6 +1,6 @@
 ## [pwyq's Space](https://www.pwyqspace.com/) - A Work in Progress
 
-> Timetable of Development
+> Timeline and Milestones
 
 * 2016.12.21
     * **pwyq's Space** was first established!
@@ -17,9 +17,5 @@
     * Started to fully rebuild the site with Jekyll Theme [Next](https://github.com/simpleyyt/jekyll-theme-next)!
     * Officially change domain to `www.pwyqspace.com`
 * 2017.08.08 - Rebuilt Day 2
-    * Redirecting every request to HTTPS instead of HTTP using Cloudflare
+    * Redirecting every request to HTTPS instead of HTTP, enhancing the security of data transformation
     * Migrated old resume-page to current site
-    
-#### TODO
-1. Chinese Version
-2. Clean up the project (Delete Unnecessary files)
