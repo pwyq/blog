@@ -314,7 +314,7 @@ post_meta:
 post_wordcount:
   item_text: true
   wordcount: false
-  min2read: false
+  min2read: true
   separated_meta: true
 
 # Wechat Subscriber
@@ -375,6 +375,8 @@ han: false
 #duoshuo_shortname:
 
 # Disqus
+# hide: true  - hide comments (visitors need to click to load the comments)
+#       false - default
 disqus:
   enable: true
   hide: true
@@ -570,7 +572,7 @@ use_motion: true
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
