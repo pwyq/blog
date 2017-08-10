@@ -3,7 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="03f49c31-c9f6-41f9-be9e-5e43f0d8bfbc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_macro/post.html" afterPath="$PROJECT_DIR$/_includes/_macro/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-barber-shop.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-barber-shop.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-bounce.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-bounce.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-atom.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-atom.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-radar.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-radar.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-simple.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-simple.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-corner-indicator.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-corner-indicator.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-flash.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-flash.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-loading-bar.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-loading-bar.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-minimal.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-minimal.min.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,31 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/404.html">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/assets/cv_plugins/bootstrap/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="4829" column="17" lean-forward="false" selection-start-line="4829" selection-start-column="17" selection-end-line="4829" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/_macro/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="386" column="36" lean-forward="false" selection-start-line="386" selection-start-column="36" selection-end-line="386" selection-end-column="36" />
+            <state relative-caret-position="513">
+              <caret line="589" column="28" lean-forward="false" selection-start-line="589" selection-start-column="28" selection-end-line="589" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -51,14 +40,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>powered</find>
-      <find>author</find>
-      <find>feed</find>
-      <find>menu</find>
-      <find>resume</find>
-      <find>font</find>
-      <find>logo</find>
-      <find>site-title</find>
       <find>custom-logo-site-title</find>
       <find>scheme</find>
       <find>fermi</find>
@@ -81,9 +62,18 @@
       <find>post-nav</find>
       <find>site.disqus.hide</find>
       <find>.previous</find>
+      <find>prev</find>
+      <find>min2read</find>
+      <find>site.pace</find>
+      <find>pace-theme</find>
+      <find>pace-theme-center</find>
+      <find>pace-progress</find>
+      <find>#29d</find>
+      <find>pace</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>#006600</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/assets/cv_plugins</dir>
@@ -96,15 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_site/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/about/index.html" />
-        <option value="$PROJECT_DIR$/_posts/2016-12-21-pwyq's-Space-launched.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-12-22-The-second-day-of-my-blog.md" />
-        <option value="$PROJECT_DIR$/_data/languages/zh-Hans.yml" />
-        <option value="$PROJECT_DIR$/resume/index.html" />
-        <option value="$PROJECT_DIR$/_layouts/cv_default.html" />
-        <option value="$PROJECT_DIR$/_includes/_resume/cv_Summary-of-Qualifications.html" />
         <option value="$PROJECT_DIR$/_includes/_resume/cv_scripts.html" />
         <option value="$PROJECT_DIR$/_site/resume/index.html" />
         <option value="$PROJECT_DIR$/_includes/_resume/cv_sidebar.html" />
@@ -135,8 +116,27 @@
         <option value="$PROJECT_DIR$/_posts/2017-08-09-Site-second-test-post.md" />
         <option value="$PROJECT_DIR$/_sass/_common/components/post/post-nav.scss" />
         <option value="$PROJECT_DIR$/_includes/_third-party/comments/disqus.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/_macro/post.html" />
+        <option value="$PROJECT_DIR$/../CelesCraft/CelesCraft_Design_Plan.md" />
+        <option value="$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-barber-shop.min.css" />
+        <option value="$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-bounce.min.css" />
+        <option value="$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-center-atom.min.css" />
+        <option value="$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-center-radar.min.css" />
+        <option value="$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-center-simple.min.css" />
+        <option value="$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-corner-indicator.min.css" />
+        <option value="$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-flash.min.css" />
+        <option value="$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-loading-bar.min.css" />
+        <option value="$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-minimal.min.css" />
+        <option value="$PROJECT_DIR$/assets/lib/pace/pace-theme-barber-shop.min.css" />
+        <option value="$PROJECT_DIR$/assets/lib/pace/pace-theme-bounce.min.css" />
+        <option value="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-atom.min.css" />
+        <option value="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-radar.min.css" />
+        <option value="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-simple.min.css" />
+        <option value="$PROJECT_DIR$/assets/lib/pace/pace-theme-corner-indicator.min.css" />
+        <option value="$PROJECT_DIR$/assets/lib/pace/pace-theme-flash.min.css" />
+        <option value="$PROJECT_DIR$/assets/lib/pace/pace-theme-loading-bar.min.css" />
+        <option value="$PROJECT_DIR$/assets/lib/pace/pace-theme-minimal.min.css" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -153,11 +153,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1330" />
-    <option name="y" value="36" />
-    <option name="width" value="1230" />
-    <option name="height" value="1404" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="101" />
+    <option name="y" value="-6" />
+    <option name="width" value="2459" />
+    <option name="height" value="1446" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -194,6 +194,11 @@
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
               <item name="_macro" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pwyq.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwyq.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -202,7 +207,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/My Origin Website" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CelesCraft/CelesCraft_Design_Plan.md" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
   </component>
@@ -239,24 +244,24 @@
       <workItem from="1502248565239" duration="1101000" />
       <workItem from="1502293295527" duration="15355000" />
       <workItem from="1502309675002" duration="760000" />
-      <workItem from="1502330309367" duration="821000" />
+      <workItem from="1502330309367" duration="4163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50274000" />
+    <option name="totallyTimeSpent" value="53616000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1330" y="36" width="1230" height="1404" extended-state="4" />
+    <frame x="101" y="-6" width="2459" height="1446" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3159664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16122365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964224" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2725724" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2631579" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -276,7 +281,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976973" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2631579" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24307565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16122365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964224" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -296,163 +301,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="377">
-            <caret line="13" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="46" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.en.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="423">
-            <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="250" column="9" lean-forward="false" selection-start-line="250" selection-start-column="9" selection-end-line="250" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_common/components/footer/footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/000000000000000000000000000/css/hide.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/000000000000000000000000000/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_resume/cv_head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_variables/base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="306" column="4" lean-forward="false" selection-start-line="306" selection-start-column="3" selection-end-line="306" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/000000000000000000000000000/js/hide.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_common/components/third-party/third-party.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_partials/comments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_third-party/comments/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_common/outline/outline.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1479">
-          <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_common/components/third-party/algolia-search.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2784">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_common/components/third-party/duoshuo.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_common/components/third-party/busuanzi-counter.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_common/components/third-party/baidushare.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_common/components/third-party/gentie.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_common/components/third-party/disqus.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_partials/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_partials/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -582,17 +434,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="382" column="21" lean-forward="false" selection-start-line="382" selection-start-column="21" selection-end-line="382" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_third-party/comments/disqus.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CelesCraft/CelesCraft_Design_Plan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="174">
+            <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/cv_plugins/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="6447" column="30" lean-forward="false" selection-start-line="6447" selection-start-column="26" selection-end-line="6447" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_macro/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="209" column="69" lean-forward="false" selection-start-line="209" selection-start-column="69" selection-end-line="209" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_partials/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -604,18 +492,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/assets/cv_plugins/bootstrap/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-barber-shop.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="4829" column="17" lean-forward="false" selection-start-line="4829" selection-start-column="17" selection-end-line="4829" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="334" lean-forward="false" selection-start-line="0" selection-start-column="334" selection-end-line="0" selection-end-column="334" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_macro/post.html">
+    <entry file="file://$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-bounce.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="386" column="36" lean-forward="false" selection-start-line="386" selection-start-column="36" selection-end-line="386" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="532" lean-forward="false" selection-start-line="0" selection-start-column="532" selection-end-line="0" selection-end-column="532" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-center-atom.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1573" lean-forward="false" selection-start-line="0" selection-start-column="1573" selection-end-line="0" selection-end-column="1573" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-center-radar.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="380" lean-forward="false" selection-start-line="0" selection-start-column="380" selection-end-line="0" selection-end-column="380" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-center-simple.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="244" lean-forward="false" selection-start-line="0" selection-start-column="244" selection-end-line="0" selection-end-column="244" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-corner-indicator.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="231" lean-forward="false" selection-start-line="0" selection-start-column="231" selection-end-line="0" selection-end-column="231" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-flash.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="178" lean-forward="false" selection-start-line="0" selection-start-column="178" selection-end-line="0" selection-end-column="178" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-loading-bar.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="990" lean-forward="false" selection-start-line="0" selection-start-column="990" selection-end-line="0" selection-end-column="990" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/pace/pace-theme-corner-indicator.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="231" lean-forward="false" selection-start-line="0" selection-start-column="231" selection-end-line="0" selection-end-column="231" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/pace/pace-theme-minimal.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="178" lean-forward="false" selection-start-line="0" selection-start-column="178" selection-end-line="0" selection-end-column="178" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/pace/pace-theme-loading-bar.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="990" lean-forward="false" selection-start-line="0" selection-start-column="990" selection-end-line="0" selection-end-column="990" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/pace/pace-theme-flash.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="178" lean-forward="false" selection-start-line="0" selection-start-column="178" selection-end-line="0" selection-end-column="178" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/pace/pace-theme-center-simple.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="183" lean-forward="true" selection-start-line="0" selection-start-column="183" selection-end-line="0" selection-end-column="183" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/pace/pace-theme-center-radar.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="380" lean-forward="false" selection-start-line="0" selection-start-column="380" selection-end-line="0" selection-end-column="380" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/pace/pace-theme-center-atom.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="640" lean-forward="false" selection-start-line="0" selection-start-column="640" selection-end-line="0" selection-end-column="640" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/pace/pace-theme-bounce.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="532" lean-forward="false" selection-start-line="0" selection-start-column="532" selection-end-line="0" selection-end-column="532" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/pace/pace-theme-barber-shop.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="334" lean-forward="false" selection-start-line="0" selection-start-column="334" selection-end-line="0" selection-end-column="334" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/lib/pace/pace-theme-minimal.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="178" lean-forward="false" selection-start-line="0" selection-start-column="178" selection-end-line="0" selection-end-column="178" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="589" column="28" lean-forward="false" selection-start-line="589" selection-start-column="28" selection-end-line="589" selection-end-column="28" />
           <folding />
         </state>
       </provider>
