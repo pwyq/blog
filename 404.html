@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link href="//fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> <!--Supports the slow typing function-->
     <style>
         @font-face {
             font-family: ErrorPageFont;
@@ -19,7 +19,6 @@
             margin: 0;
             padding: 0;
             width: 100%;
-            color: #B0BEC5;
             display: table;
             font-weight: 100;
             font-family: ErrorPageFont;
@@ -37,8 +36,13 @@
             font-size: 60px;
             margin-bottom: 40px;
         }
-        .message {
-            font-size: 48px;
+        #error-text {
+            border: none;
+            border-width: 0px;
+            color: #B0BEC5;
+            text-align: center;
+            font-size: 24px;
+            font-family: ErrorPageFont;
         }
     </style>
 </head>
@@ -46,10 +50,26 @@
 <div class="container">
     <div class="content">
         <div class="title">404 NOT FOUND</div>
-        <p style="font-size: 48px">Uh, Houston, we've had a problem.</p>
+        <input id="error-text" size="55" readonly="readonly"><br><br>
         <br><br>
         <a href="https://www.pwyqspace.com" target="_blank" rel="external" style="font-size: 32px;">Back to Home Page</a>
     </div>
 </div>
+<!--showing error message on time interval-->
+<script type="text/javascript">
+    var text = "U-h, Hou--ston, we've had -a problem.";
+    var input = $("#error-text");
+    input.select();
+    setTimeout(startTyping, 1000, input, text);
+    function startTyping(input, text) {
+        for ( var i = 0; i < text.length; i++ ) {
+            setTimeout(addText, 120*i, input, text.charAt(i));
+        }
+    }
+    function addText(i,c) {
+        if (c !== "-")
+            i.val( i.val() + c );
+    }
+</script>
 </body>
 </html>
