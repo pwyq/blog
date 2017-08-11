@@ -22,8 +22,7 @@
               App.commentsButton.innerHTML = 'Show Comments';
 
               // Append button to body
-              document.body.appendChild( App.commentsButton );
-//              document.getElementsByClassName('post-tags').appendChild( App.commentsButton );
+              parent.document.getElementById("post-nav-id").firstElementChild.appendChild(App.commentsButton);
 
               // Click event handler
               App.commentsButton.onclick = function () {
