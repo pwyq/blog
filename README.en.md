@@ -19,3 +19,6 @@
 * 2017.08.08 - Rebuilt Day 2
     * Redirecting every request to HTTPS instead of HTTP, enhancing the security of data transformation
     * Migrated old resume-page to current site
+* 2017.08.11 - Rebuilt Day 5
+    * Add AddThis Sharing Links
+    * Rebuilt Completed
