@@ -7,10 +7,10 @@ layout: page
 		-webkit-appearance: none;
 		margin-top: 15px;
         margin-bottom: 20px;
-		color: #337ab7;
+		color: #5b51fd;
 		border-color: #618eae;
 		padding: 0em 0.4em;
-		background: white;
+		background: rgb(244, 244, 244);
 	}
 	select.sel-lang {
 		min-height: 28px;
@@ -20,15 +20,16 @@ layout: page
 
 <!-- Language Selector -->
 <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-	<option value="0" selected> English 英文 </option>
-	<option value="1"> Chinese 中文 </option>
+	<option value="0" selected> English </option>
+	<option value="1"> 中文 </option>
 </select>
 
 <!-- English Version -->
 <div class="en">
     <!--{% capture about_en %}{% include _about/en.md %}{% endcapture %}-->
     <!--{{ about_en | markdownify }}-->
-    <br><br><br><br>
+    <!--<p>You should not see this line</p>-->
+    <br><br>
     <p>Hi! Nice to have you HERE!</p>
 
     <p> I&#8217m Yanqing Wu, a carbon based living creature currently live on the lovely Earth.</p>
@@ -39,8 +40,10 @@ layout: page
     <ul style="list-syle-type:square">
         <li>The applications of strong <b>AI</b> in robotics</li>
         <li><b>Science!</b></li>
+        <li><b>Sports!!</b></li>
         <li>Anything related to <b>DETECTIVE</b></li>
         <li>Would like to see <b>Galactic Civilization</b> comes true</li>
+        <li>Exciting aobut the world settings in <b>The Matrix</b> / <b>Ghost in the Shell</b>(攻殻機動隊)</li>
     </ul>
     </p>
 </div>
@@ -49,7 +52,7 @@ layout: page
 <div class="zh">
     <h3>自帖标签</h3>
     <p>
-        鶸鸡 | ECE | 枫叶某不入流技校生 | 理工科原教旨主义 | 听过C++/Python/HTML/Java | 目标AI Engineer | 推理 | 篮球 | Clippers | 素描 | 伪军迷 | 不懂貳刺螈 | 柯哀 | 退役提督 | 键盘政治家 | SC2 | 蛤 | S1 | 甜豆腐脑咸肉粽子 | 静若死宅动若线虫| 想次米粉 | 社会主义好
+        鶸鸡 | ECE | 枫叶某不入流技校生 | 理工科原教旨主义 | 听过C++/Swift/Python/HTML/VHDL/Java | 目标Robotics AI Engineer | 推理 | 篮球 | 2012-2014 Clippers | 素描 | 伪军迷 | 不懂貳刺螈 | 柯哀 | <strike>退役</strike>养老提督 | 键政圈屁民 | SC2 | 蛤 | S1 | 甜豆腐脑咸肉粽子 | 静若死宅动若线虫| 想次米粉 | 社会主义好
     </p>
 </div>
 
