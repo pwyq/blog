@@ -1,34 +1,93 @@
 ---
-title: About Me | Yanqing Wu
+title: About
 layout: page
 ---
+<style>
+	select {
+		-webkit-appearance: none;
+		margin-top: 15px;
+		color: #337ab7;
+		border-color: #337ab7;
+		padding: 0em 0.4em;
+		background: white;
+	}
+	select.sel-lang {
+		min-height: 28px;
+		font-size: 14px;
+	}
+</style>
 
-<p>Hi! Nice to have you HERE!</p>
+<!-- Language Selector -->
+<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+	<option value="0" selected> English 英文 </option>
+	<option value="1"> Chinese 中文 </option>
+</select>
 
-<p> I&#8217m Yanqing Wu, a carbon based living creature currently live on the lovely Earth.</p>
+<!-- English Version -->
+<div class="en">
+    {% capture about_en %}{% include _about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+    <br><br><br><br>
+    <p>Hi! Nice to have you HERE!</p>
 
-<p>More specifically, I&#8217m now a first year Computer Engineering student at the University of Waterloo, Canada.</p>
+    <p> I&#8217m Yanqing Wu, a carbon based living creature currently live on the lovely Earth.</p>
 
-<p>Personal Interests: 
-	<ul style="list-syle-type:square">
-		<li>The applications of strong <b>AI</b> in robotics</li>
-		<li><b>Science!</b></li>
-		<li>Anything related to <b>DETECTIVE</b></li>
-		<li>Would like to see <b>Galactic Civilization</b> comes true</li>
-	</ul>
-</p>
-<br>
+    <p>More specifically, I&#8217m now a first year Computer Engineering student at the University of Waterloo, Canada.</p>
 
-<hr>
+    <p>Personal Interests:
+    <ul style="list-syle-type:square">
+        <li>The applications of strong <b>AI</b> in robotics</li>
+        <li><b>Science!</b></li>
+        <li>Anything related to <b>DETECTIVE</b></li>
+        <li>Would like to see <b>Galactic Civilization</b> comes true</li>
+    </ul>
+    </p>
+</div>
 
-<br>
-<h3>自帖标签</h3>
-<p>
-鶸鸡 | ECE | 枫叶某不入流技校生 | 理工科原教旨主义 | 听过C++/Python/HTML/Java | 目标AI Engineer | 推理 | 篮球 | Clippers | 素描 | 伪军迷 | 不懂貳刺螈 | 柯哀 | 退役提督 | 键盘政治家 | SC2 | 蛤 | S1 | 甜豆腐脑咸肉粽子 | 静若死宅动若线虫| 想次米粉 | 社会主义好
-</p>
-<br>
-<hr>
-<h3>Personal Sites</h3> - 
-<a href="https://github.com/pwyq">Github</a> | 
-<a href="https://www.linkedin.com/in/meetyanqingwu?trk=hp-identity-name">Linkedin</a> | 
-<a href="https://devpost.com/pwyq?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Devpost</a>.
+<!-- Chinese Version -->
+<div class="zh">
+    <h3>自帖标签</h3>
+    <p>
+        鶸鸡 | ECE | 枫叶某不入流技校生 | 理工科原教旨主义 | 听过C++/Python/HTML/Java | 目标AI Engineer | 推理 | 篮球 | Clippers | 素描 | 伪军迷 | 不懂貳刺螈 | 柯哀 | 退役提督 | 键盘政治家 | SC2 | 蛤 | S1 | 甜豆腐脑咸肉粽子 | 静若死宅动若线虫| 想次米粉 | 社会主义好
+    </p>
+</div>
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+
+    // bind hashchange event
+    window.addEventListener('hashchange', pageRender);
+
+    // handle render
+    function pageRender(){
+        var _hash = window.location.hash;
+        // en
+        if(_hash == "#zh"){
+            $select.selectedIndex = 1;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+            // en by default
+        }else{
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $en.style.display = "block";
+            $zh.style.display = "none"
+        }
+    }
+
+    // handle select change
+    function onLanChange(index){
+        if(index == 0){
+            window.location.hash = "#en"
+        }else{
+            window.location.hash = "#zh"
+        }
+    }
+
+    // init
+    pageRender();
+</script>
