@@ -19,7 +19,7 @@
     * Started to fully rebuild the site with Jekyll Theme [Next][3]!
     * Officially changed domain to `www.pwyqspace.com`
 * 2017.08.08 - Rebuilt Day 2
-    * Redirecting every request to HTTPS instead of HTTP, enhancing the security of data transformation
+    * Redirecting every request to HTTPS instead of HTTP, enhancing the security of data transformation (via Cloudflare)
     * Migrated old resume-page to current site
 * 2017.08.09 - Rebuilt Day 3
     * Determined the font of site logo and 404.html
@@ -27,7 +27,7 @@
     * Contributed hide-comment (switchable) button to Theme [Next][3] (First contribution to open-source community)
     * Added animation effect on 404.html
 * 2017.08.11 - Rebuilt Day 5
-    * Add AddThis Sharing Links
+    * Added AddThis Sharing Links
     * Basic Rebuilt Completed!
 * 2017.08.13
     * Officially changed site name to `PWYQ Space`
