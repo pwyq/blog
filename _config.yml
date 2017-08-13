@@ -381,7 +381,7 @@ disqus:
   enable: true
   hide: true
   shortname: pwyqblog
-  count: true
+  count: false
 
 # Hypercomments
 #hypercomments_id:

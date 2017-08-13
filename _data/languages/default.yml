@@ -74,7 +74,7 @@ state:
   categories: categories
 
 search:
-  placeholder: Searching...
+  placeholder: Searching posts with keyword...
 
 cheers:
   um: Um..
