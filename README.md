@@ -22,15 +22,15 @@
     * Redirecting every request to HTTPS instead of HTTP, enhancing the security of data transformation
     * Migrated old resume-page to current site
 * 2017.08.09 - Rebuilt Day 3
-    * Determined the font for site logo and 404.html
+    * Determined the font of site logo and 404.html
 * 2017.08.10 - Rebuilt Day 4
-    * Contributed hide-comment (switchable) function to Theme [Next][3] (First contribution to open-source community)
+    * Contributed hide-comment (switchable) button to Theme [Next][3] (First contribution to open-source community)
     * Added animation effect on 404.html
 * 2017.08.11 - Rebuilt Day 5
     * Add AddThis Sharing Links
     * Basic Rebuilt Completed!
 * 2017.08.13
-    * Officially changed site name to `PWYQ Space`
+    * Officially changed site name to `PWYQ Space`
 
 
 
