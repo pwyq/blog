@@ -17,7 +17,7 @@
     * Added Project Subpage
 * 2017.08.07 - Rebuilt Day 1
     * Started to fully rebuild the site with Jekyll Theme [Next][3]!
-    * Officially changed domain to `www.pwyqspace.com`
+    * Officially changed domain to `www.pwyqspace.com`
 * 2017.08.08 - Rebuilt Day 2
     * Redirecting every request to HTTPS instead of HTTP, enhancing the security of data transformation
     * Migrated old resume-page to current site
