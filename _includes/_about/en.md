@@ -1,1 +1,13 @@
-This is a English test
+Hi! Nice to have you HERE!
+
+I'm Yanqing Wu, a carbon based living creature currently live on the lovely Earth.
+
+More specifically, I'm now a first year Computer Engineering student at the University of Waterloo, Canada.
+
+Personal Interests:
+- The applications of strong **AI** in robotics
+- **Science!**
+- **Sports!!**
+- Anything related to **DETECTIVE**
+- Would like to see **Galactic Civilization** comes true
+- Exciting aobut the world settings in **The Matrix** / **Ghost in the Shell**(攻殻機動隊)

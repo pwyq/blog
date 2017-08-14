@@ -1,0 +1,2 @@
+## 中二式自帖标签
+鶸鸡 | ECE | 枫叶某不入流技校生 | 理工科原教旨主义 | 听过C++/Swift/Python/HTML/VHDL/Java | 目标Robotics AI Engineer | 推理 | 篮球 | 2012-2014 Clippers | 素描 | 伪军迷 | 不懂貳刺螈 | 柯哀 | <strike>退役</strike>养老提督 | 键政圈屁民 | SC2 | 蛤 | S1 | 甜豆腐脑咸肉粽子 | 静若死宅动若线虫| 想次米粉 | 社会主义好
