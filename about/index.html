@@ -26,9 +26,8 @@ layout: page
 
 <!-- English Version -->
 <div class="en">
-    <!--{% capture about_en %}{% include _about/en.md %}{% endcapture %}-->
-    <!--{{ about_en | markdownify }}-->
-    <!--<p>You should not see this line</p>-->
+    {% capture about_en %}{% include _about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
     <br><br>
     <p>Hi! Nice to have you HERE!</p>
 
