@@ -1,0 +1,13 @@
+select {
+    -webkit-appearance: none;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #5b51fd;
+    border-color: #618eae;
+    padding: 0em 0.4em;
+    background: rgb(244, 244, 244);
+}
+select.sel-lang {
+    min-height: 28px;
+    font-size: 14px;
+}
