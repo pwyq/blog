@@ -34,7 +34,9 @@ Also, Google Analytics and Disqus were implemented on my site. Ah, It just looke
 You can tell I was very proud of my first web project at that time.
 
 And, I proudly added this project to my resume, along with a line-following music player robot project, an [Android app][2] done at EC-Hacks and an object tracking algorithm for [UWRT][1] Mars Rover.
-All projects were completed after I entered university of waterloo while I maintaining my GPA at an excellent level. Honestly, I thought I was able to work at some big-name tech companies.
+All projects were completed after I entered university of waterloo while I maintaining my GPA at an excellent level.
+Look at that time-management, that execution.
+Honestly, I thought I was able to work at some big-name tech companies.
 
 And, I proudly submitted my resume to those tech giants, even with some in USA.
 
@@ -156,7 +158,7 @@ Thanks to Webstorm, my every commit counts now.
 
 #### Extra Notes
 
-Though the process of rebuilding, I found some interesting questions/concepts to consider or new technology to use in the future:
+Through the process of rebuilding, I found some interesting questions/concepts to consider or new technology to use in the future:
 
 - [Cache-Control][15]
 - [What's the difference between Cache-Control: max-age=0 and no-cache?][16]
@@ -173,7 +175,7 @@ Though the process of rebuilding, I found some interesting questions/concepts to
 
 My first rebuilt of the site came earlier than it ought to be.
 I once thought I would have a 100% self-built site, but this fragile dream only lasted half-year.
-But hey, thank you, ruthless reality, you also contributed to my first rebuilt :).
+But hey, thank you, ruthless reality, you also contributed to my first rebuilt :)
 
 I just started looking forward to a second rebuilt.
 By then, what my mindset and programming level will be?
