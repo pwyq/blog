@@ -2,10 +2,10 @@
 title: pwyq's Space, Launched!
 description: My first blog on my first self-built website!
 categories:
-    - posts
+    - blog
 tags:
-    - life
-    - pwyq's Space
+    - PWYQ Space
+    - Jekyll
 date: 2016-12-21
 ---
 

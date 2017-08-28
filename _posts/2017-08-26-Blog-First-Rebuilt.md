@@ -2,10 +2,12 @@
 title: PWYQ Space First Rebuilt
 date: 2017-08-26
 categories:
-    - posts
+    - blog
 tags:
-    - pwyq's Space
-    - life
+    - PWYQ Space
+    - Cloudflare
+    - Jekyll
+    - HTTPs
 ---
 
 Now, it was actually two weeks ago since my site had been fully rebuilt, yet, I haven't wrote a single post.

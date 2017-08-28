@@ -2,9 +2,9 @@
 title: The second day of my blog
 date: 2016-12-22
 categories:
-    - posts
+    - blog
 tags:
-    - pwyq's Space
+    - PWYQ Space
 ---
 
 Ah, just made the google stat analysis and disqus comments online.
