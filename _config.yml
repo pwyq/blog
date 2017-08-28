@@ -112,7 +112,7 @@ index_with_subtitle: true
 menu:
   home: /
   archives: /archives/
-  categories: /categories/
+#  categories: /categories/
   tags: /tags/
   about: /about/
   resume: /resume/
