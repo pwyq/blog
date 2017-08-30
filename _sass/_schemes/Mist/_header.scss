@@ -39,6 +39,7 @@
     font-size: 26px;
     font-weight: bolder;
     font-family: SiteTitleFont;
+    word-spacing: 6px;
 
     @include mobile() { line-height: 34px; }
   }
