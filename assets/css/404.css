@@ -13,6 +13,7 @@ body {
     display: table;
     font-weight: 100;
     font-family: ErrorPageFont;
+    background-color: #d7d7d7;
 }
 .container {
     text-align: center;
