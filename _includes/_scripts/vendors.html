@@ -46,5 +46,18 @@
   {% assign name = name_internal[0] | strip  %}
   {% assign internal = name_internal[1] | strip  %}
   {% assign internal_script = site.vendors._internal | append: '/' | append: internal | relative_url %}
-  <script type="text/javascript" src="{{ site.vendors[name] | default: internal_script }}"></script>
+  {% if name != 'canvas_nest' %}
+    {% comment %} Load every script except `canvas_nest` {% endcomment %}
+    <script type="text/javascript" src="{{ site.vendors[name] | default: internal_script }}"></script>
+  {% else %}
+    {% comment %} If user uses mobile device, stop loading the background script `canvas_nest` {% endcomment %}
+    <script>
+        if (!( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))) {
+            //dynamic load js file
+            var script = document.createElement('script');
+            script.src = "{{ site.vendors[name] | default: internal_script }}";
+            document.head.appendChild(script);
+        }
+    </script>
+  {% endif %}
 {% endfor %}
