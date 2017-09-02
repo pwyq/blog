@@ -13,7 +13,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 
 #### Random Facts About Me
 1. I cut my own hair since high school.
-2. I sprained my right ankle four times; all hurt and all related to basketball :)
+2. I sprained my right ankle five times; all hurt and all related to basketball :)
 3. I can grab a basketball hoop at a standard height, like the one used in NBA.
 4. Favourite colors are blue and green. Must be these two together, can't choose only one.
 5. I practised martial art for 7 years when I was a kid, cause my mom thought I was too weak at that time.
