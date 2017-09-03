@@ -1,6 +1,6 @@
 Hi! Nice to have you HERE!
 
-I'm **Yanqing Wu (吴 彦庆)**, a carbon-based living creature currently live on the lovely Earth.  
+I'm **Yan-Qing Wu (pron: [iɛn-tɕʰiŋ u], Chinese: 彦庆 吴)**, a carbon-based living creature currently live on the lovely Earth.  
 More specifically, I'm now a sophomore in Computer Engineering at the University of Waterloo, Canada.
 
 #### Personal Interests
