@@ -73,14 +73,16 @@ Lie To Me：小学二年级识破人贩子并逃脱✔
 <br>
 
 ### 仰望菊苣区
-实力水平不分先后，反正都比现在的我强 :P (努力吧，少年)  
-~~虽然垠神说过不要神话任何人，可看见比自己厉害很多的人还是会不由自主地顶礼膜拜Orz~~
+这里是从四处搜刮来的大牛们的博客地址。实力水平不分先后，反正都比现在的我强 :P (努力吧，少年)  
+~~虽然垠神说过不要神话任何人，可看见比自己厉害很多的人还是会不由自主地顶礼膜拜Orz~~  
+（如果下面的朋友不方便被列出来，请联系我删除。对您带来的不便，深感抱歉（鞠躬））
 
 [Milo的游戏开发][1] | [Phoenix Island][2] |
 [plum's blog][3] | [王垠][5] |
 [技术宅男子][7] | [戴天宇][8] |
 [Minterest][9] | [BYVoid][10] |
-[胡伯涛][11]
+[胡伯涛][11] | [MaskRay][12] |
+[Yuxin's Blog][13]
 
 [1]: http://www.cnblogs.com/miloyip/
 [2]: https://blog.phoenixlzx.com/
@@ -93,3 +95,5 @@ Lie To Me：小学二年级识破人贩子并逃脱✔
 [9]: http://www.minterest.com/
 [10]: https://www.byvoid.com/
 [11]: http://botao.hu/
+[12]: http://maskray.me/
+[13]: http://ppwwyyxx.com/

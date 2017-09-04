@@ -29,6 +29,9 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 15. I dislike people who use a lot of internet slang in daily life.
 16. I enjoy watching the process of constructing buildings in RTS games.
 
-##### Others
-You may noticed that some posts are written in strange languages; relax, that's (mostly) Chinese.
-When I write something non-technical, I use my mother tongue as it's the best way to present my feelings.
+#### Others
+You may notice that some posts are written in strange languages; relax, that's (mostly) Chinese.
+When I write non-technical stuff, I use my mother tongue as it's the best way to present my feelings.
+
+In addition, if you find some incorrect use of words (or simply feel weird), it will be very kind of you if you can let me know :) 
+Thanks in advance!
