@@ -9,7 +9,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 - **Sports!!**
 - Anything related to **DETECTIVE**
 - Would like to see **Galactic Civilization** comes true
-- Exciting aobut the world settings in **The Matrix** / **Ghost in the Shell**(攻殻機動隊)
+- Exciting about the world settings in **The Matrix** / **Ghost in the Shell**(攻殻機動隊)
 
 #### Random Facts About Me
 1. I cut my own hair since high school.
@@ -22,7 +22,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 8. Finished *Friends* in two weeks; can't recall anything right now though.
 9. My longest underwater swimming distance nears 30 meters, created at middle school. But haven't got a chance to a swimming pool after that.
 10. My initial choice for college's major wasn't ECE; I changed that until I actually entered the school.
-11. I prefer listening/reading overing talking.
+11. I prefer listening/reading over talking.
 12. Top 3 professions I wanted to be at childhood: Agent (like Jason Bourne), Private Crime Detective, Linguist.
 13. I can spend whole day on Wikipedia.
 14. I rarely watch films or tv shows that related to magic or fantasy.

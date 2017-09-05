@@ -82,7 +82,7 @@ I bought a domain at GoDaddy, and hosted DNS on Cloudflare.
     Next, you should see a page like `Set up Websites`.
     ![alt text][5]
     Enter your domain name in the blank and click `Begin Scan`.
-    It will automatically add your domain name after successfully scanning your doamin records.
+    It will automatically add your domain name after successfully scanning your domain records.
     (This may take about 1 minute)
     
 4. Edit the IP addresses records
@@ -151,7 +151,7 @@ I still remember how I built my first version of website.
 I coded everything in Notepad at first; no IDE was involved.
 Though I switched to Sublime and Vim later, still not saving my coding efficiency.
 Moreover, I didn't know to use `localhost` or any local simulations.
-So, everytime I changed a bit `css` file or `html` page, I needed to commit to Github.
+So, every time I changed a bit `css` file or `html` page, I needed to commit to Github.
 Then, eagerly refreshed the page and waited to see the compiled result on browser.
 If you go to my earlier commit history, you can find a lot of useless commits like `test` or `modify`.
 What a waste of time!
