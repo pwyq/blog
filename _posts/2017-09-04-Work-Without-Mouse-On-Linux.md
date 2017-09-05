@@ -90,8 +90,8 @@ Note: following commands are case-sensitive.
     `Ctrl + Super + right` - move window to the right
 3. To open & close terminal
 
-    `Ctrl + Alt + t` - open a new terminal
-    `Ctrl + Shift + t` - open a new terminal tab
+    `Ctrl + Alt + t` - open a new terminal  
+    `Ctrl + Shift + t` - open a new terminal tab  
     `Ctrl + Shift + w` - close terminal tab
 4. Use `cd` to travel everywhere (file system) on your Linux
 
@@ -118,7 +118,7 @@ Note: following commands are case-sensitive.
 
 ### Vimium
 
-With `Vimium`, you can enable keyboard shortcut for navigation and control on any web-pages.
+With `Vimium`, you can enable keyboard shortcuts for navigation and control on any web-pages.
 
 #### Most used commands:
 
@@ -185,7 +185,7 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 	`V`, then move cursor to select line
 6. To copy & paste
 
-    `dd` - cut current line
+    `dd` - cut current line  
 	`p` - paste the line after the cursor  
 	`P` - paste the line before the cursor
 7. To move to the end of a line.
