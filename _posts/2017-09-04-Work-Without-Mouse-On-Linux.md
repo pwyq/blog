@@ -1,5 +1,5 @@
 ---
-title: Work Without Mouse or Trackpad On Linux
+title: Working Without Mouse or Trackpad On Linux
 date: 2017-09-04
 categories:
     - tech
@@ -10,42 +10,44 @@ tags:
 ---
 
 A significant improvement on my working efficiency has been observed, since the day I started to work with only a keyboard.
-As this working style makes me feel so delighted, I thus decided to share my thoughts and some basic techniques about it.
+As this working style makes me feel so delighted (and has many advantages),
+I thus consider this is a must to share my thoughts and some basic techniques about how to work without a mouse.
 
-Sidenotes:
- 
-> 1. Some techniques in this post can also be applied to Windows and Mac OS.
-> 2. As I'm still learning, I will keep updating this post from time to time.
+> Note:    
+> 1. Some techniques in this post can also be applied to **Windows** and **Mac OS**.
+> 2. As I am still learning, I may update this post occasionally.
 
 ## Benefits
-The major benefits of working without mouse are:
+After you gain some techniques from this post, you will find the major benefits of working without a mouse are:
 
-- **Saving time** of moving your hands as they never leave the main area of the keyboard
-- Saving manipulating time of most software with powerful commands (using the least amount of keystrokes)
+- **Saving time** of moving your hands as they almost never leave the main area of the keyboard
+- **Alleviating** wrist and finger **pain** <sup>1</sup>
 - Improving your working **efficiency** and **productivity**
-- **Alleviating** wrist and finger **pain** of using mouse
 - Enhancing your **typing speed** subconsciously
-- It looks **coooool** <= *this one is more than enough, isn't it?*
+- It looks **coooooooool**
 
-## Am I Suitable To Work Without Mouse?
+1: A research conducted by Foye et al. (2002) states that "repetitive or prolonged" using a computer mouse may contribute to Tenosynovitis.
+According to AAOS (American Academy of Orthopaedic Surgeons), Tenosynovitis is the inflammation of the sheath that suurounds the tendon,
+which can cause chronic pain and "tenderness along the thumb side of the wrist".
+
+## Who Is Suitable To Work Without A Mouse?
 Not every type of work is suitable with this working style, so choose your style wisely.
 For instance, if you are a `CSS+HTML` developer, then go with IDEs and mouse; those are your good friends.  
 If you satisfy most following conditions, this post going to boost your efficiency like a Saturn-V Rocket.  
 
 - You rarely do front-end developing
-- You rarely do graphical design
-- You prefer working with command line than GUI (graphic user interface)
-- You are existing about learning new technologies
-- coding/writing accounts for your most working time
+- You rarely do graphic design / research
+- You prefer working with command line than GUI (Graphical User Interface)
+- You are exciting about learning new technologies
+- Coding/writing accounts for your most working time
 
 ## Tools That Help You Leave Your Mouse
-Since you're already here, I assume you have a Linux OS on your machine (FYI: I use Ubuntu 16.04).
-If you haven't installed Linux, then this may be a good opportunity to have one.
+Since you are already here, I assume you have a Linux OS on your machine (FYI: I use Ubuntu 16.04).
+If you have not installed Linux, then this may be a good opportunity to have one.
 
 Some tools I will talk about:
 
 - A mechnical keyboard (recommend `brown` or `blue` switch for long-time typing)
-    - I heard `Dvorak` layout keyboard is even incredible for typing
 - [Vimium][1] (an extension for browsing, availbe on Chrome)
 - [Vim][5] (a highly-configurable text editor)
 - [wasavi][6] (an extension that changes a textarea element to virtual vi editor, available on Chrome, Opera and Firefox)
@@ -67,7 +69,7 @@ So give yourself some time to let ten-finger typing be one of your friends :)
 
 ### Common Shortcut Keys On General
 
-Note: following commands are case-sensitive
+Note: following commands are case-sensitive.
 
 1. To view Keyboard Shortcuts manual
 
@@ -86,14 +88,16 @@ Note: following commands are case-sensitive
     `Ctrl + Super + down`&nbsp;&nbsp;&nbsp; - minimize (to default / until it minimized to luncher)  
     `Ctrl + Super + left`&nbsp;&nbsp;&nbsp; - move window to the left  
     `Ctrl + Super + right` - move window to the right
-3. To open terminal
+3. To open & close terminal
 
-    `Ctrl + Shift + t`
+    `Ctrl + Alt + t` - open a new terminal
+    `Ctrl + Shift + t` - open a new terminal tab
+    `Ctrl + Shift + w` - close terminal tab
 4. Use `cd` to travel everywhere (file system) on your Linux
 
 5. Remap `CapsLock` to `Ctrl` to increase effiency, and to ease finger pain
 
-    If you're comfortable with current `Ctrl` position, then stay with it.
+    If you are comfortable with current `Ctrl` position, then stay with it.
 6. To switch software
 
     `Alt+Tab`
@@ -108,19 +112,19 @@ Note: following commands are case-sensitive
     > This also works with the file system.
 9. Open files in GUI
 
-    > Type the filename; a small box will then apear on the right bottom of your scrren;
-    > Corresponding file will be highlighted;
+    > Type the filename; a small box will then apear on the right bottom of your scrren;  
+    > Corresponding file will be highlighted;  
     > Hit `Enter` to open.
 
 ### Vimium
 
-With Vimium, you can enable keyboard shortcut for navigation and control on web-pages.
+With `Vimium`, you can enable keyboard shortcut for navigation and control on any web-pages.
 
 #### Most used commands:
 
 > `f` - open link on current page  
 > `F` - open link on a new page  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alternatively, `f` + `Shift` + corresponding char
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alternatively, `f` + `Shift` + corresponding char  
 > `h` - move screen left  
 > `l` - move screen right  
 > `j` - move screen down  
@@ -145,11 +149,11 @@ In fact, `Vimium` is built in the spirit of `Vim`. Hence, you can find some comm
 > Then why introduce `Vim` after `Vimium`?
     
 Because `Vim` is really a tool for life-long learning, and moreover, I just used it for few weeks,
-the stuff I know about vim is only the tip of an iceberg. 
+the stuff I know is merely the tip of an iceberg. 
 
 Through the process of finding infomation about Vim,  
-I found somebody said he uses Vim **over 15 years and still learning**;  
-I found somebody has his vimrc **over 1500 lines**;  
+I found somebody said he has been using Vim **over 15 years and still learning**;  
+I found somebody has his vimrc (Vim configuration file) **over 1500 lines**;  
 I also found a joke says: "A highly-configured `Vim` can reach **one-third** performance of `Visual Studio.`" :)
 
 #### Basic commands (case-sensitive):
@@ -163,9 +167,9 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 2. To move screen
 
     `Shift + PageUP/PageDown`
-3. Search words in vim
+3. To search word/phrases
 
-	`/` + the word you're searching  
+	`/` + the word you are searching  
 	
 	`*` - next occurence of the word  
 	`#` - previous occurence of the word
@@ -176,7 +180,7 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 	`:wq!` - save & quit  
 	`:w !sudo tee %` - top permission to save & quit
 	> `!` stands for overwrite
-5. To enter visual mode
+5. To enter Visual mode
 	
 	`V`, then move cursor to select line
 6. To copy & paste
@@ -202,9 +206,9 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 > wasavi is a clone of vi editor and extends a TEXTAREA element.  
 > If you focus TEXTAREA element and press `Ctrl+Enter`, TEXTAREA turns into `vi` editor.
 
-A browser extension by japanese developers. Similar commands as the `Vim` text editor. 
+A browser extension wrote by Japanese developers. It has similar commands as the `Vim` text editor. 
 
-P.S.: Can anyone tell me what `wasavi` means in japanese? I couldn't find an answer...
+P.S. Can anyone tell me what `wasavi` means in Japanese? I could not find an answer...
 
 ### Browser (Chrome)
 
@@ -212,12 +216,14 @@ Below are some shortcut keys that works with Chrome.
 I believed these are common for most browsers, but I only tested with Chrome.
 Due to responsibility, I suggest you play these commands with blank pages first.
 
-Additionally, these commands are still useful even you have `Vimium` installed, since you may use `Incognito` mode sometimes (unless you turn on extension on `Incognito` mode).
+Additionally, these commands are still useful even you have `Vimium` installed,
+since you may use `Incognito` mode sometimes (unless you enable extension on `Incognito` mode).
 
 #### Useful commands:
 
 `Ctrl + w` - close current tab  
-`Ctrl + n` - open a new tab  
+`Ctrl + n` - open a new tab
+
 `Shift + 9` - go to the last tab  
 `Shift + w` - show current tab in a new window.  
 `Shift + number key` - go to the corresponding tab (counts form left)
@@ -235,6 +241,10 @@ Additionally, these commands are still useful even you have `Vimium` installed, 
 - [Vimium - Github][3]
 - [wasavi - Github][6]
 
+## References
+1. Foye, P. M., Cianca, J. C., & Prather, H. (2002). Cumulative trauma disorders of the upper limb in computer users. Archives of Physical Medicine and Rehabilitation, 83. doi:10.1053/apmr.2002.32144  
+Retrieved from http://www.archives-pmr.org/article/S0003-9993(02)80005-3/pdf
+2. De Quervain's Tendinosis. (n.d.). American Academy of Orthopaedic Surgeons, Retrieved from http://orthoinfo.aaos.org/topic.cfm?topic=A00007
 
 [1]: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en
 [2]: https://vimium.github.io/
@@ -245,4 +255,4 @@ Additionally, these commands are still useful even you have `Vimium` installed, 
 
 [7]: /assets/images/posts/Work-Without-Mouse/linux_keyboard_shortcuts.jpg "Ubuntu Keyboard Shortcut"
 [8]: /assets/images/posts/Work-Without-Mouse/vimium-cheatsheet-big.png "Vimium Cheat Sheet"
-[9]: /assets/images/posts/Work-Without-Mouse/vim-cheatsheet.png
+[9]: /assets/images/posts/Work-Without-Mouse/vim-cheatsheet.png "Vim Cheat Sheet"

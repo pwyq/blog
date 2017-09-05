@@ -379,9 +379,9 @@ han: false
 #       false - default
 disqus:
   enable: true
-  hide: true
+  hide: false
   shortname: pwyqblog
-  count: false
+  count: true
 
 # Hypercomments
 #hypercomments_id:
