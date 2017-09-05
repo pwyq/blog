@@ -9,7 +9,7 @@ tags:
     - Efficiency
 ---
 
-A significant improvement on my working efficiency has been observed, since the day I started to work with only a keyboard.
+A significant and continuous improvement on my working efficiency has been observed, since the day I started to work with only a keyboard.
 As this working style makes me feel so delighted (and has many advantages),
 I thus consider this is a must to share my thoughts and some basic techniques about how to work without a mouse.
 
@@ -61,8 +61,8 @@ I realized if I let typing be the obstacle on my study career, then that would b
 Therefore, I settled down and started practising typing like a kid who get access to a computer for the first time.
 Beginning with single letters, to short prefixes, suffixes and phrases until long sentences.
 Believe it or not, it was really tough for the first few days.
-My fingers was so dump as if I could not control it.
-After over a month of practising, my wpm (word per minute) increased from 30 to 80.
+My fingers were so dump as if I could not control it.
+After over a month of practising, my average wpm (word per minute) increased from 30 to 80.
 
 So give yourself some time to let ten-finger typing be one of your friends :)
   
@@ -80,7 +80,7 @@ Note: following commands are case-sensitive.
 2. To select software from the left-side launcher
 
     > Long press `Super` until number shows on the left-side launcher;  
-    > Press corresponding number to open the software.   
+    > Press the corresponding number to open the software.   
 
 3. To maximize/minimize or share screen
 
@@ -104,7 +104,7 @@ Note: following commands are case-sensitive.
 7. To open window menu
 
     `Alt + space`
-    > For example, I can press `Alt + space` to see the drop down menu, then type `c` to close a software. 
+    > For example, I can press `Alt + space` to see a drop down menu, then type `c` to close the selected software. 
 8. To access top drop down menu (file menu) for most software
     
     `Alt + ` corresponding letter
@@ -122,20 +122,20 @@ With `Vimium`, you can enable keyboard shortcuts for navigation and control on a
 
 #### Most used commands:
 
-> `f` - open link on current page  
-> `F` - open link on a new page  
+> `f` - open a link on current page  
+> `F` - open a link on a new page  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alternatively, `f` + `Shift` + corresponding char  
-> `h` - move screen left  
-> `l` - move screen right  
-> `j` - move screen down  
-> `k` - move screen up  
+> `h` - scroll screen left  
+> `l` - scroll screen right  
+> `j` - scroll screen down  
+> `k` - scroll screen up  
 > `u` - scroll page up  
 > `d` - scroll page down
   
-> `gg` - move to the top of page  
+> `gg` - move to the top of the page  
 `G`&nbsp;&nbsp;&nbsp; - move down to the bottom of the page  
 
-> `Shift + h` - go back to previous page  
+> `Shift + h` - go back to the previous page  
 > `Shift + l` - go to the next page  
 > `Shift + j` - move to one left tab  
 > `Shift + k` - move to one right tab
@@ -146,7 +146,7 @@ With `Vimium`, you can enable keyboard shortcuts for navigation and control on a
 ### Vim
 
 In fact, `Vimium` is built in the spirit of `Vim`. Hence, you can find some commands in common.
-> Then why introduce `Vim` after `Vimium`?
+> Then why introduced `Vim` after `Vimium`?
     
 Because `Vim` is really a tool for life-long learning, and moreover, I just used it for few weeks,
 the stuff I know is merely the tip of an iceberg. 
@@ -182,7 +182,7 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 	> `!` stands for overwrite
 5. To enter Visual mode
 	
-	`V`, then move cursor to select line
+	`V`, then move cursor to select line(s)
 6. To copy & paste
 
     `dd` - cut current line  
@@ -191,7 +191,7 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 7. To move to the end of a line.
 
     `$` - simply move to the end of the line  
-    `A` - appending at end of line. (auto enter `insert` mode)
+    `A` - appending at the end of the line. (i.e. this auto enters `insert` mode)
 8. To delete
 
     `x` - delete the single character at the cursor  
@@ -204,7 +204,7 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 ### Wasavi
 
 > wasavi is a clone of vi editor and extends a TEXT-AREA element.  
-> If you focus TEXT-AREA element and press `Ctrl+Enter`, TEXT-AREA turns into `vi` editor.
+> If you focus a TEXT-AREA element and press `Ctrl+Enter`, TEXT-AREA turns into `vi` editor.
 
 A browser extension wrote by Japanese developers. It has similar commands as the `Vim` text editor. 
 
@@ -214,10 +214,10 @@ P.S. Can anyone tell me what `wasavi` means in Japanese? I could not find an ans
 
 Below are some shortcut keys that works with Chrome.
 I believed these are common for most browsers, but I only tested with Chrome.
-Due to responsibility, I suggest you play these commands with blank pages first.
+Taken responsibilities into account, I suggest you play these commands with blank pages first to avoid potential losses.
 
-Additionally, these commands are still useful even you have `Vimium` installed,
-since you may use `Incognito` mode sometimes (unless you enable extension on `Incognito` mode).
+Additionally, these commands are still useful even when you have `Vimium` installed,
+because you may use `Incognito` mode sometimes (unless you enable extension on `Incognito` mode).
 
 #### Useful commands:
 
@@ -231,7 +231,7 @@ since you may use `Incognito` mode sometimes (unless you enable extension on `In
 `Ctrl + Shift + t` - open last closed tab  
 `Ctrl + Shift + n` - enter `Incognito` mode
 
-`Alt + left` - go back to previous page  
+`Alt + left` - go back to the previous page  
 `Alt + right` - go to the next page
 
 ## Useful Links
