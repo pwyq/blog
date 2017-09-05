@@ -18,7 +18,7 @@ I thus consider this is a must to share my thoughts and some basic techniques ab
 > 2. As I am still learning, I may update this post occasionally.
 
 ## Benefits
-After you gain some techniques from this post, you will find the major benefits of working without a mouse are:
+After you gained some techniques from this post, you will find the major benefits of working without a mouse are:
 
 - **Saving time** of moving your hands as they almost never leave the main area of the keyboard
 - **Alleviating** wrist and finger **pain** <sup>1</sup>
@@ -27,7 +27,7 @@ After you gain some techniques from this post, you will find the major benefits 
 - It looks **coooooooool**
 
 1: A research conducted by Foye et al. (2002) states that "repetitive or prolonged" using a computer mouse may contribute to Tenosynovitis.
-According to AAOS (American Academy of Orthopaedic Surgeons), Tenosynovitis is the inflammation of the sheath that suurounds the tendon,
+According to AAOS (American Academy of Orthopaedic Surgeons), Tenosynovitis is the inflammation of the sheath that surrounds the tendon,
 which can cause chronic pain and "tenderness along the thumb side of the wrist".
 
 ## Who Is Suitable To Work Without A Mouse?
@@ -47,10 +47,10 @@ If you have not installed Linux, then this may be a good opportunity to have one
 
 Some tools I will talk about:
 
-- A mechnical keyboard (recommend `brown` or `blue` switch for long-time typing)
-- [Vimium][1] (an extension for browsing, availbe on Chrome)
+- A mechanical keyboard (recommend `brown` or `blue` switch for long-time typing)
+- [Vimium][1] (an extension for browsing, available on Chrome)
 - [Vim][5] (a highly-configurable text editor)
-- [wasavi][6] (an extension that changes a textarea element to virtual vi editor, available on Chrome, Opera and Firefox)
+- [wasavi][6] (an extension that changes a text-area element to virtual vi editor, available on Chrome, Opera and Firefox)
 
 In addition to the tools mentioned above, I strongly encourage you to use ten fingers for typing.
 If you are struggling with it, there are a lot of great online resources that can help you practising your typing skill (search with keywords like: `typing practise` or `typing game`).
@@ -85,7 +85,7 @@ Note: following commands are case-sensitive.
 3. To maximize/minimize or share screen
 
     `Ctrl + Super + up`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - maximize (until full screen)  
-    `Ctrl + Super + down`&nbsp;&nbsp;&nbsp; - minimize (to default / until it minimized to luncher)  
+    `Ctrl + Super + down`&nbsp;&nbsp;&nbsp; - minimize (to default / until it minimized to launcher)  
     `Ctrl + Super + left`&nbsp;&nbsp;&nbsp; - move window to the left  
     `Ctrl + Super + right` - move window to the right
 3. To open & close terminal
@@ -95,7 +95,7 @@ Note: following commands are case-sensitive.
     `Ctrl + Shift + w` - close terminal tab
 4. Use `cd` to travel everywhere (file system) on your Linux
 
-5. Remap `CapsLock` to `Ctrl` to increase effiency, and to ease finger pain
+5. Remap `CapsLock` to `Ctrl` to increase efficiency, and to ease finger pain
 
     If you are comfortable with current `Ctrl` position, then stay with it.
 6. To switch software
@@ -112,7 +112,7 @@ Note: following commands are case-sensitive.
     > This also works with the file system.
 9. Open files in GUI
 
-    > Type the filename; a small box will then apear on the right bottom of your scrren;  
+    > Type the filename; a small box will then appear on the right bottom of your screen;  
     > Corresponding file will be highlighted;  
     > Hit `Enter` to open.
 
@@ -151,7 +151,7 @@ In fact, `Vimium` is built in the spirit of `Vim`. Hence, you can find some comm
 Because `Vim` is really a tool for life-long learning, and moreover, I just used it for few weeks,
 the stuff I know is merely the tip of an iceberg. 
 
-Through the process of finding infomation about Vim,  
+Through the process of finding information about Vim,  
 I found somebody said he has been using Vim **over 15 years and still learning**;  
 I found somebody has his vimrc (Vim configuration file) **over 1500 lines**;  
 I also found a joke says: "A highly-configured `Vim` can reach **one-third** performance of `Visual Studio.`" :)
@@ -171,8 +171,8 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 
 	`/` + the word you are searching  
 	
-	`*` - next occurence of the word  
-	`#` - previous occurence of the word
+	`*` - next occurrence of the word  
+	`#` - previous occurrence of the word
 4. To save & quit
 
     `:w!` - save  
@@ -203,8 +203,8 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 
 ### Wasavi
 
-> wasavi is a clone of vi editor and extends a TEXTAREA element.  
-> If you focus TEXTAREA element and press `Ctrl+Enter`, TEXTAREA turns into `vi` editor.
+> wasavi is a clone of vi editor and extends a TEXT-AREA element.  
+> If you focus TEXT-AREA element and press `Ctrl+Enter`, TEXT-AREA turns into `vi` editor.
 
 A browser extension wrote by Japanese developers. It has similar commands as the `Vim` text editor. 
 
