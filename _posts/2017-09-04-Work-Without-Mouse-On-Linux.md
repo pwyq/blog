@@ -33,7 +33,7 @@ which can cause chronic pain and "tenderness along the thumb side of the wrist".
 ## Who Is Suitable To Work Without A Mouse?
 Not every type of work is suitable with this working style, so choose your style wisely.
 For instance, if you are a `CSS+HTML` developer, then go with IDEs and mouse; those are your good friends.  
-If you satisfy most following conditions, this post going to boost your efficiency like a Saturn-V Rocket.  
+If you satisfy most following conditions, this post is going to boost your efficiency like a Saturn-V Rocket.  
 
 - You rarely do front-end developing
 - You rarely do graphic design / research
@@ -48,9 +48,9 @@ If you have not installed Linux, then this may be a good opportunity to have one
 Some tools I will talk about:
 
 - A mechanical keyboard (recommend `brown` or `blue` switch for long-time typing)
-- [Vimium][1] (an extension for browsing, available on Chrome)
-- [Vim][5] (a highly-configurable text editor)
-- [wasavi][6] (an extension that changes a text-area element to virtual vi editor, available on Chrome, Opera and Firefox)
+- [Vimium](#loc_vimium) (an extension for browsing, available on Chrome)
+- [Vim](#loc_vim) (a highly-configurable text editor)
+- [wasavi](#loc_wasavi) (an extension that changes a text-area element to virtual vi editor, available on Chrome, Opera and Firefox)
 
 In addition to the tools mentioned above, I strongly encourage you to use ten fingers for typing.
 If you are struggling with it, there are a lot of great online resources that can help you practising your typing skill (search with keywords like: `typing practise` or `typing game`).
@@ -61,7 +61,7 @@ I realized if I let typing be the obstacle on my study career, then that would b
 Therefore, I settled down and started practising typing like a kid who get access to a computer for the first time.
 Beginning with single letters, to short prefixes, suffixes and phrases until long sentences.
 Believe it or not, it was really tough for the first few days.
-My fingers were so dump as if I could not control it.
+My fingers were so dump as if I could not control them.
 After over a month of practising, my average wpm (word per minute) increased from 30 to 80.
 
 So give yourself some time to let ten-finger typing be one of your friends :)
@@ -69,43 +69,44 @@ So give yourself some time to let ten-finger typing be one of your friends :)
 
 ### Common Shortcut Keys On General
 
-Note: following commands are case-sensitive.
+Note: following commands are **case-sensitive**.
 
-1. To view Keyboard Shortcuts manual
+1. View Keyboard Shortcuts manual
 
     > long press `Super`; `Super` is another name of `Win` key on Linux.
     
     ![alt text][7]
     
-2. To select software from the left-side launcher
+2. Select software from the left-side launcher
 
-    > Long press `Super` until number shows on the left-side launcher;  
-    > Press the corresponding number to open the software.   
+    > Method-1: Long press `Super` until number shows on the left-side launcher; press the corresponding number to open the software.  
+    > Method-2: use `Super + Tab` to switch (like how you use `Alt + Tab` to switch program)  
+    > Method-3: use `Super + Shift + number`.
 
-3. To maximize/minimize or share screen
+3. Maximize/minimize or share screen
 
     `Ctrl + Super + up`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - maximize (until full screen)  
     `Ctrl + Super + down`&nbsp;&nbsp;&nbsp; - minimize (to default / until it minimized to launcher)  
     `Ctrl + Super + left`&nbsp;&nbsp;&nbsp; - move window to the left  
     `Ctrl + Super + right` - move window to the right
-3. To open & close terminal
+3. Open & close terminal
 
     `Ctrl + Alt + t` - open a new terminal  
     `Ctrl + Shift + t` - open a new terminal tab  
-    `Ctrl + Shift + w` - close terminal tab
+    `Ctrl + Shift + w` - close current terminal tab
 4. Use `cd` to travel everywhere (file system) on your Linux
 
-5. Remap `CapsLock` to `Ctrl` to increase efficiency, and to ease finger pain
+5. Remap `CapsLock` to `Ctrl` to increase efficiency, and to ease finger pain; a guide -> [How To Remap][10]
 
     If you are comfortable with current `Ctrl` position, then stay with it.
-6. To switch software
+6. Switch software
 
     `Alt+Tab`
-7. To open window menu
+7. Open window menu
 
     `Alt + space`
     > For example, I can press `Alt + space` to see a drop down menu, then type `c` to close the selected software. 
-8. To access top drop down menu (file menu) for most software
+8. Access top drop down menu (file menu) for most software
     
     `Alt + ` corresponding letter
     > When you press `Alt`, there will be a underline of a letter for each option in the top menu.  
@@ -116,7 +117,8 @@ Note: following commands are case-sensitive.
     > Corresponding file will be highlighted;  
     > Hit `Enter` to open.
 
-### Vimium
+<a name="loc_vimium"></a>
+### [Vimium][1]
 
 With `Vimium`, you can enable keyboard shortcuts for navigation and control on any web-pages.
 
@@ -143,7 +145,8 @@ With `Vimium`, you can enable keyboard shortcuts for navigation and control on a
 #### Detailed Cheat Sheet:
 ![alt text][8]
 
-### Vim
+<a name="loc_vim"></a>
+### [Vim][5]
 
 In fact, `Vimium` is built in the spirit of `Vim`. Hence, you can find some commands in common.
 > Then why introduced `Vim` after `Vimium`?
@@ -158,41 +161,41 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 
 #### Basic commands (case-sensitive):
 
-1. To move cursor
+1. Move cursor
 
 	`h` - moving left for one unit  
 	`l` - moving right for one unit  
 	`j` - moving down for one line  
 	`k` - moving up for one line
-2. To move screen
+2. Move screen
 
     `Shift + PageUP/PageDown`
-3. To search word/phrases
+3. Search word/phrases
 
 	`/` + the word you are searching  
 	
 	`*` - next occurrence of the word  
 	`#` - previous occurrence of the word
-4. To save & quit
+4. Save & quit
 
     `:w!` - save  
 	`:q!` - quit  
 	`:wq!` - save & quit  
 	`:w !sudo tee %` - top permission to save & quit
 	> `!` stands for overwrite
-5. To enter Visual mode
+5. Enter Visual mode
 	
 	`V`, then move cursor to select line(s)
-6. To copy & paste
+6. Copy & paste
 
     `dd` - cut current line  
 	`p` - paste the line after the cursor  
 	`P` - paste the line before the cursor
-7. To move to the end of a line.
+7. Move to the end of a line.
 
     `$` - simply move to the end of the line  
     `A` - appending at the end of the line. (i.e. this auto enters `insert` mode)
-8. To delete
+8. Delete
 
     `x` - delete the single character at the cursor  
     `dw` - delete all characters of a word that after the cursor  
@@ -201,7 +204,8 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
 #### Detailed Cheat Sheet
 ![alt text][9]
 
-### Wasavi
+<a name="loc_wasavi"></a>
+### [Wasavi][6]
 
 > wasavi is a clone of vi editor and extends a TEXT-AREA element.  
 > If you focus a TEXT-AREA element and press `Ctrl+Enter`, TEXT-AREA turns into `vi` editor.
@@ -256,3 +260,5 @@ Retrieved from http://www.archives-pmr.org/article/S0003-9993(02)80005-3/pdf
 [7]: /assets/images/posts/Work-Without-Mouse/linux_keyboard_shortcuts.jpg "Ubuntu Keyboard Shortcut"
 [8]: /assets/images/posts/Work-Without-Mouse/vimium-cheatsheet-big.png "Vimium Cheat Sheet"
 [9]: /assets/images/posts/Work-Without-Mouse/vim-cheatsheet.png "Vim Cheat Sheet"
+
+[10]: https://askubuntu.com/questions/33774/how-do-i-remap-the-caps-lock-and-ctrl-keys
