@@ -379,9 +379,9 @@ han: false
 #       false - default
 disqus:
   enable: true
-  hide: false
+  hide: true
   shortname: pwyqblog
-  count: true
+  count: false
 
 # Hypercomments
 #hypercomments_id:
@@ -590,7 +590,7 @@ pace: true
 pace_theme: pace-theme-flash
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # three_waves
 three_waves: false
