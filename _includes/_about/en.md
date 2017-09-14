@@ -1,4 +1,4 @@
-Hi! Nice to have you HERE!
+Greetings! Nice to have you HERE!
 
 I'm **Yan-Qing Wu (pron: [iɛn-tɕʰiŋ u], Chinese: 彦庆 吴)**, a carbon-based living creature currently live on the lovely Earth.  
 More specifically, I'm now a sophomore in Computer Engineering at the University of Waterloo, Canada.
@@ -21,13 +21,15 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 7. I don't drink coffee; as one drink can make me awake for two days.
 8. Finished *Friends* in two weeks; can't recall anything right now though.
 9. My longest underwater swimming distance nears 30 meters, created at middle school. But haven't got a chance to a swimming pool after that.
-10. My initial choice for college's major wasn't ECE; I changed that until I actually entered the school.
+10. My initial choice for college's major wasn't ECE; I changed that until I actually entered college.
 11. I prefer listening/reading over talking.
 12. Top 3 professions I wanted to be at childhood: Agent (like Jason Bourne), Private Crime Detective, Linguist.
 13. I can spend whole day on Wikipedia.
 14. I rarely watch films or tv shows that related to magic or fantasy.
 15. I dislike people who use a lot of internet slang in daily life.
 16. I enjoy watching the process of constructing buildings in RTS games.
+17. I am from [Guilin][1], a small city in the southern China. I spent 18 years there and I love there.
+18. My birthday is on one of the most horrible and the most important days for Chinese high school students.
 
 #### Others
 You may notice that some posts are written in strange languages; relax, that's (mostly) Chinese.
@@ -35,3 +37,5 @@ When I write non-technical stuff, I use my mother tongue as it's the best way to
 
 In addition, if you find some incorrect use of words (or simply feel weird), it will be very kind of you if you can let me know :) 
 Thanks in advance!
+
+[1]: https://en.wikipedia.org/wiki/Guilin
