@@ -1,7 +1,7 @@
 Greetings! Nice to have you HERE!
 
-I'm **Yan-Qing Wu (pron: [iɛn-tɕʰiŋ u], Chinese: 彦庆 吴)**, a carbon-based living creature currently live on the lovely Earth.  
-More specifically, I'm now a sophomore in Computer Engineering at the University of Waterloo, Canada.
+I'm **Yan-Qing Wu (Chinese: 彦庆 吴)**, a carbon-based living creature currently live on the lovely Earth.  
+More specifically, I'm now a sophomore in Computer Engineering at the University of Waterloo, Canada ([résumé][2]).
 
 #### Personal Interests
 - The applications of strong **AI** in robotics
@@ -33,9 +33,11 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 
 #### Others
 You may notice that some posts are written in strange languages; relax, that's (mostly) Chinese.
-When I write non-technical stuff, I use my mother tongue as it's the best way to present my feelings.
+When I write non-technical stuff, I use my mother tongue as it's the best way to convey my feelings.
 
 In addition, if you find some incorrect use of words (or simply feel weird), it will be very kind of you if you can let me know :) 
-Thanks in advance!
+
+Thank you again for visiting my site!
 
 [1]: https://en.wikipedia.org/wiki/Guilin
+[2]: https://www.pwyqspace.com/resume/

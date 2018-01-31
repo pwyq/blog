@@ -10,7 +10,7 @@
 <br>
 
 ## 中二式自帖标签
-鶸鸡 | ECE | 枫叶某不入流技校生 | STEM原教旨主义 | 听过C++/Swift/Python/VHDL/Java |
+鶸鸡 | ECE | 枫叶某不入流技校生 | STEM原教旨主义 | 编程？听过的水平 |
 目标Robotics AI Engineer | 推理 | 篮球 | 2012-2014 Clippers | 素描 | 伪军迷 | 不懂貳刺螈 |
 柯哀 | ~~退役~~养老提督 | 毒舌？ | 键政圈屁民 | SC2 | 蛤 | S1 | 甜豆腐脑咸肉粽子 |
 静若死宅动若线虫| 想次米粉 | 社会主义好 | 想养只大狗狗 | 论坛潜水 | 纪录片&博物馆 | 理论型完美主义者 |
@@ -80,12 +80,9 @@ Lie To Me：小学二年级识破人贩子并逃脱✔
 ~~虽然垠神说过不要神话任何人，可看见比自己厉害很多的人还是会不由自主地顶礼膜拜Orz~~  
 注: 如果下面的朋友不方便被列出来，请联系我删除。给您带来的不便，深感抱歉（鞠躬）。
 
-[Milo的游戏开发][1] | [Phoenix Island][2] |
-[plum's blog][3] | [王垠][5] |
-[技术宅男子][7] | [戴天宇][8] |
-[Minterest][9] | [BYVoid][10] |
-[胡伯涛][11] | [MaskRay][12] |
-[Yuxin's Blog][13]
+[Milo的游戏开发][1] [Phoenix Island][2] [plum's blog][3] [王垠][5]
+[技术宅男子][7] [戴天宇][8] [Minterest][9] [BYVoid][10]
+[胡伯涛][11] [MaskRay][12] [Yuxin's Blog][13] [Zeyu Zhao][14]
 
 [1]: http://www.cnblogs.com/miloyip/
 [2]: https://blog.phoenixlzx.com/
@@ -100,3 +97,4 @@ Lie To Me：小学二年级识破人贩子并逃脱✔
 [11]: http://botao.hu/
 [12]: http://maskray.me/
 [13]: http://ppwwyyxx.com/
+[14]: http://zzeyu.com/en/
