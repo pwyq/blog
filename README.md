@@ -31,6 +31,8 @@
     * Basic Rebuilt Completed!
 * 2017.08.13
     * Officially changed site name to `PWYQ Space`
+* 2018.02.02
+    * Move develop environment from Ubuntu to Arch
 
 
 
