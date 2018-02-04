@@ -1,5 +1,5 @@
 ---
-title: First Rebuilt Of The Site
+title: First Fully Rebuilt Of The Site
 date: 2017-08-26
 categories:
     - blog
