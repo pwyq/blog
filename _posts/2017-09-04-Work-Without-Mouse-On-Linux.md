@@ -4,6 +4,7 @@ date: 2017-09-04
 categories:
     - tech
 tags:
+    - Ubuntu
     - Linux
     - Vim
     - Efficiency
