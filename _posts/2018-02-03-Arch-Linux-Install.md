@@ -137,6 +137,13 @@ google-chrome-stable --force-device-scale-factor=1
 5. start Google Chrome in terminal using `google-chrome`
     - I find that if I start Chrome from menu, it remains the old settings. I assume this must be a path problem.
     Will try to find a workaround so that I don't need to start Chrome from terminal every time.
+    
+### Setting Wallpaper
+**Note**: I only tested this with my configuration (as listed above)
+There are a lot third parties application can also achieve this (just google it!).
+
+`System Settings -> Desktop Behavior -> Wallpaper`  
+`System Settings -> Start up and Shutdown -> Login Screen (SDDM) -> Background`
 
 ## Recommended Software (Updating)
 I'm still exploring.w
