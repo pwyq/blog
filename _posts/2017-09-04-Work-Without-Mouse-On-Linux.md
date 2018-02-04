@@ -16,8 +16,8 @@ I thus consider this is a must to share my thoughts and some basic techniques ab
 
 > Note:    
 > 1. Some techniques in this post can also be applied to **Windows** and **Mac OS**.
-> 2. As I am still learning, I may update this post occasionally.
-> 3. When I talking about Linux in this post, I mainly refer to `Ubuntu`.
+> 2. ~~As I am still learning, I may update this post occasionally.~~
+> 3. While I am talking about Linux in this post, I mainly refer to `Ubuntu` distribution.
 
 ## Benefits
 After you gained some techniques from this post, you will find the major benefits of working without a mouse are:
