@@ -17,6 +17,7 @@ I thus consider this is a must to share my thoughts and some basic techniques ab
 > Note:    
 > 1. Some techniques in this post can also be applied to **Windows** and **Mac OS**.
 > 2. As I am still learning, I may update this post occasionally.
+> 3. When I talking about Linux in this post, I mainly refer to `Ubuntu`.
 
 ## Benefits
 After you gained some techniques from this post, you will find the major benefits of working without a mouse are:
@@ -33,7 +34,7 @@ which can cause chronic pain and "tenderness along the thumb side of the wrist".
 
 ## Who Is Suitable To Work Without A Mouse?
 Not every type of work is suitable with this working style, so choose your style wisely.
-For instance, if you are a `CSS+HTML` developer, then go with IDEs and mouse; those are your good friends.  
+For instance, if you are a UI developer, then go with IDEs and mouse; those are your good friends.  
 If you satisfy most following conditions, this post is going to boost your efficiency like a Saturn-V Rocket.  
 
 - You rarely do front-end developing
@@ -43,7 +44,7 @@ If you satisfy most following conditions, this post is going to boost your effic
 - Coding/writing accounts for your most working time
 
 ## Tools That Help You Leave Your Mouse
-Since you are already here, I assume you have a Linux OS on your machine (FYI: I use Ubuntu 16.04).
+Since you are already here, I assume you have a Linux OS on your machine (FYI: I use Ubuntu 16.04 when I wrote the post).
 If you have not installed Linux, then this may be a good opportunity to have one.
 
 Some tools I will talk about:

@@ -36,7 +36,7 @@ Also, Google Analytics and Disqus were implemented on my site. Ah, It just looke
 You can tell I was very proud of my first web project at that time.
 
 And, I proudly added this project to my resume, along with a line-following music player robot project, an [Android app][2] done at EC-Hacks and an object tracking algorithm for [UWRT][1] Mars Rover.
-All projects were completed after I entered university of waterloo while I maintaining my GPA at an excellent level.
+All projects were completed after I entering University of Waterloo while I maintaining my GPA at an excellent level.
 Look at that time-management, that execution.
 Honestly, I thought I was able to work at some big-name tech companies.
 

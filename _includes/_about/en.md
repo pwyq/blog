@@ -7,6 +7,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 - The applications of strong **AI** in robotics
 - **Science!**
 - **Sports!!**
+- **Paintings!**
 - Anything related to **DETECTIVE**
 - Would like to see **Galactic Civilization** comes true
 - Exciting about the world settings in **The Matrix** / **Ghost in the Shell**(攻殻機動隊)
@@ -31,7 +32,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 17. I am from [Guilin][1], a small city in the southern China. I spent 18 years there and I love there.
 18. My birthday is on one of the most horrible and the most important days for Chinese high school students.
 
-#### Others
+#### Something Else I'd like to say
 You may notice that some posts are written in strange languages; relax, that's (mostly) Chinese.
 When I write non-technical stuff, I use my mother tongue as it's the best way to convey my feelings.
 
