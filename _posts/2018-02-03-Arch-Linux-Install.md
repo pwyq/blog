@@ -8,13 +8,13 @@ tags:
     - Linux
 ---
 
-I blew my Ubuntu OS three days ago.  
+My Ubuntu OS was blown up three days ago (ㄒoㄒ).  
 
-Long story short, I stuck in an infinite and helpless login loop, and I couldn't find a feasible workaround to address the problem (with 2-hour intensive googling). 
+Long story short, I stuck in an infinite and helpless login loop in Ubuntu, and there is no feasible workaround to address the problem (with 2-hour intensive googling). 
 Well, since I need to re-install my system anyway, why not try something new.
 Though I've spent more than one year on Ubuntu Linux (daily use and at work), it's still took me two nights + one day to configure everything in Arch.
 
-> I would definitely NOT recommend a total newbie to Linux to try *Arch Linux*. IT'S TOO "LIGHT"!
+> I would definitely NOT recommend a total Linux newbie to try *Arch Linux*. IT'S TOO "LIGHT"!
 
 
 ## Installation & Configuration
@@ -22,7 +22,7 @@ Since there are plenty of decent and mature online tutorials, it would be pointl
 I will recommend some of them below that I followed with.  
 **Notes**:  
 > 1. Make sure you understand how each command works (use `man <cmd>` or `<cmd> --help` to display commands' descriptions)
-> 2. *Always* refer to [Arch Wiki][6] first when you are confused
+> 2. *Always* refer to [Arch Wiki][6] when you are confused
 
 
 ### Tutorial in English
@@ -35,17 +35,19 @@ I will recommend some of them below that I followed with.
 - [ArchLinux你可能需要知道的操作与软件包推荐「持续更新」][3]
 - [配置和美化Arch Linux][5]
 
-I really like Thinkpad, as it doesn't require me to spend extra time to configure hardware.
-Everything works out of box!
+### Everything works out of box
+My installation was really smooth, thanks to above authors' hard work on their posts.
+I want to thank Thinkpad as well, since it doesn't require me to spend extra time to configure hardware ^_^
 
-My arch-linux configuration:
+My arch-linux configurations:
 
-| Service Name | Type/Version |
+| Service Name | Type / Version |
 | ------- |:----:|
 | Display server | Xorg |
 | Desktop Environment | KDE Plasma 5 |
 | Display Manager | SDDM |
 | Window Manager | KDE |
+| File Manager | Dolphin |
 | Shell | zsh + oh-my-zsh |
 | Terminal emulator | Konsole |
 | Widget toolkit | gtk5-base |
@@ -164,18 +166,20 @@ For Login Screen:
 
 
 ## Recommended Software (Updating)
-I'm still exploring.w
+I'm still exploring on this part. QAQ
 
-A full list of applications can be found at [here][11]
+A full list of applications can be found at [here (Arch Wiki)][11].
 
 - Network Manager: `NetworkManager`
 - Maths: `octave`
 - VPN clients: `OpenVPN`
 - Webcam: `guvcview` (work for X1C, haven't check for other machines)
+- Office suites: `libreoffice-fresh`
 
 
-## Thoughts
-Yeahhh, finally done the configuration and post.  
+## Random Thoughts
+Yeahhh, finally done the configuration and post.
+Let me first show something:  
 ![alt text][12]
 ![alt text][13]
 
@@ -183,10 +187,14 @@ I've set so many personal first-time during this week:
 - first time to encounter an un-fixable system bug in Ubuntu
 - first time to use a terminal in `tty` mode in Ubuntu (the entire machine just have no GUI, and terminal font size is like 2mm large)
 - first time to install Arch from scratch!
-- first time to write own installation script
+- first time to write scripts for installation & configuration
 - ...
 
-Linux is so much fun!
+In addition, I found myself have become much more sensitive and picky on the installation of application/dependency/package since I started using Arch.
+For instance, I once installed an undesired application.
+When I wanted to delete it later, I unconsciously wanted to compare all installed related dependencies one by one with the `pacman Rcns xxx` list.
+Honestly, I was feeling quite uncomfortable until I was certain that every redundant dependency had been removed. Oops, am I becoming software mysophobia?
+
 
 <div style="text-align: right"> At Markham, 3:44 PM </div>
 
