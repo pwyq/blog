@@ -10,7 +10,7 @@ tags:
     - HTTPs
 ---
 
-Now, it was actually two weeks ago since my site had been fully rebuilt, yet, I haven't wrote a single post.
+Now, it has actually passed two weeks since my site had been fully rebuilt, yet, I haven't wrote a single post.
 "Um-huh, this is not good. People will go to a blog site for meaningful posts, not for the code behind the site." I thought to myself.
 Right, I thus fi--nally force myself to wrote down the first post after rebuilding.
 

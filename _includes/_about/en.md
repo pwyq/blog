@@ -42,9 +42,10 @@ Well, `PWYQ` is the ID I used most frequently in online communities, `Space` is 
 You may notice that some posts are written in strange languages; relax, that's (mostly) simplified Chinese.
 When I write non-technical stuff, I use my mother tongue as it's the best way to convey my feelings.
 
-In addition, if you find some incorrect use of words (or simply feel weird), it will be very kind of you if you can let me know :) 
+In addition, if you find any incorrect use of word/punctuation (or simply feel weird), it will be very kind of you to inform me (I'm still learning English~) ^_^
 
-Thank you again for visiting my site!
+
+*Thank you again for visiting my site! Enjoy your stay!*
 
 [1]: https://en.wikipedia.org/wiki/Guilin
 [2]: https://www.pwyqspace.com/resume/
