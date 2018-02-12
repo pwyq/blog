@@ -7,8 +7,8 @@ tags:
     - booklist
 ---
 
-Documenting (including but not limited to) books, journals and conference papers that I read seriously.  
-记录我所认真读过的（包括但不限于）书籍，刊物和会议论文。
+Documenting (including but not limited to) books, journals and (conference) papers that I read seriously.  
+记录我所认真读过的（包括但不限于）书籍，刊物和(会议)论文。
 
 Status: **Updating** \| **长期更新**
 
