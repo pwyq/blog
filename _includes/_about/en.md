@@ -10,7 +10,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 - **Paintings!**
 - Anything related to **DETECTIVE**
 - Would like to see **Galactic Civilization** comes true
-- Exciting about the world settings in **The Matrix** / **Ghost in the Shell**(攻殻機動隊)
+- Exciting about the world settings in **The Matrix** and **Ghost in the Shell**(攻殻機動隊)
 
 #### Random Facts About Me
 1. I cut my own hair since high school.
@@ -19,7 +19,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 4. Favourite colors are blue and green. Must be these two together, can't choose only one.
 5. I practised martial art for 7 years when I was a kid, cause my mom thought I was too weak at that time.
 6. I love pencil sketching, oh I love it.
-7. ~~I don't drink coffee; as one drink can make me awake for two days.~~ GIVE ME COFFEE!
+7. ~~I don't drink coffee; as one drink can make me awake for two days.~~ GIVE ME COFFEE! MORE!
 8. Finished *Friends* in two weeks; can't recall anything right now though.
 9. My longest underwater swimming distance nears 30 meters, created at middle school. But haven't got a chance to a swimming pool after that.
 10. My initial choice for college's major wasn't ECE; I changed that until I actually entered college.
