@@ -7,8 +7,8 @@ tags:
     - booklist
 ---
 
-Documenting (including but not limited to) books, journals and (conference) papers that I read seriously.  
-记录我所认真读过的（包括但不限于）书籍，刊物和(会议)论文。
+Documenting (including but not limited to) books, journals and (conference) papers that I valued.  
+记录我认为有价值的（包括但不限于）书籍，刊物和(会议)论文。
 
 Status: **Updating** \| **长期更新**
 
@@ -21,18 +21,12 @@ Principles:
      为节省空间，简要介绍一栏用到中文 和/或者 英文
 
 
-| Subject | Type | Title & 1st Author | Link(s) | Brief Intro | Date Read |
-|:-------:|:----:|:-----:|:-------:|:-----------:|:---------:|
-| AI | paper | Concrete Problems in AI Safety; Dario Amodei et al | [arXiv][1] | 讨论了由于劣质设计导致的无意且有害的AI行为问题 | Jan 2018 |
-| AI | paper | Deep Reinforcement Learning: An Overview; Yuxi Li | [arXiv][2] | | Jan 2018 |
-| ROS | Textbook | ROS Robot Programming; YoonSeok Pyo et al | [link][3] | Using C++ | Reading |
-| ROS | Textbook | Programming Robots with ROS; Morgan Quigley et al | [link][4] | More Advanced | Reading |
-
-
-
-
-
-
+| Subject | Type | Title & 1st Author | Link(s) | Brief Intro |
+|:-------:|:----:|:------------------:|:-------:|:-----------:|
+| AI | paper | Concrete Problems in AI Safety; Dario Amodei et al | [arXiv][1] | 讨论了由于劣质设计导致的无意且有害的AI行为问题 |
+| AI | paper | Deep Reinforcement Learning: An Overview; Yuxi Li | [arXiv][2] |
+| ROS | Textbook | ROS Robot Programming; YoonSeok Pyo et al | [link][3] | Using C++ |
+| ROS | Textbook | Programming Robots with ROS; Morgan Quigley et al | [link][4] | More Advanced |
 
 
 
