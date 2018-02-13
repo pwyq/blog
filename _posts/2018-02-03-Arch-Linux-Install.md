@@ -37,7 +37,7 @@ I will recommend some of them below that I followed with.
 
 ### Everything works out of box
 My installation was really smooth, thanks to above authors' hard work on their posts.
-I want to thank Thinkpad as well, since it doesn't require me to spend extra time to configure hardware ^_^
+I'd like to thank Thinkpad as well, since it doesn't require extra time to configure hardware ^_^
 
 My arch-linux configurations:
 
