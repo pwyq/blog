@@ -1,15 +1,16 @@
 # ML-Pedia
 
-I was thrown, recklessly, into the center of an AI project all of a sudden.
+I was thrown, recklessly (and luckily), into the center of an AI project all of a sudden.
 In recent days, my stupid and tiny brain was being continuously bombed by an unstoppable series of high-end abbreviation, 
-like DQfD, CNN, RNN, DNN, HRL, DQL, IRL...(Stop!)
-Oh dear, I could barely distinguish supervised learning and unsupervised learning!
+like DQfD, CNN, RNN, D-DQN, HRL, DQL, IRL...(Stop!)
+Oh dear, I could barely distinguish supervised learning and unsupervised learning at the time!
 
-Hence, an encyclopedia-liked post will (hopefully) help me to better understand all those `Learning`s and `Neural Network`s.
+Hence, an encyclopedia-liked post will (hopefully) help me to better embrace all those `Learning`s and `Neural Network`s.
 
 *If you find any mistake in this post, please comment or email me without hesitation! Sincerely, thank you!*
 
-```
+
+Some terms to consider when recording each term
 - Links / Sources / Papers
 - When the concept first occurred
 - By who (individual/organization)
@@ -17,7 +18,37 @@ Hence, an encyclopedia-liked post will (hopefully) help me to better understand 
 - Algorithm(s)
 - Example(s)
 - Application(s)
-```
+
+# Contents
+
+- [Machine Learning](#machine-learning)
+- [Rule-based Machine Learning](#rule-based-machine-learning)
+    - [Rules](#rules)
+- [Supervised Learning](#supervised-learning)
+    - [Semi-supervised Learning](#semi-supervised-learning)
+- [Unsupervised Learning](#unsupervised-learning)
+- [Deep Learning](#deep-learning)
+- [Deep Neural Networks](#deep-neural-networks)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Temporal Difference Learning](#temporal-difference-learning)
+- [Q-learning](#q-learning)
+- [Deep Reinforcement Learning](#deep-reinforcement-learning)
+- [Hierachical Reinforcement Learning](#hierachical-reinforcement-learning)
+- [Deep Q-Learning](#deep-q-learning)
+- [Deep Q-learning from Demonstrations](#deep-q-learning-from-demonstrations)
+- [Feature Learning](#feature-learning)
+- [Online Machine Learning](#online-machine-learning)
+- [One-shot Learning](#one-shot-learning)
+- [Meta Learning](#meta-learning)
+- [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
+- [Bayesian Inverse Reinforcement Learning](#bayesian-inverse-reinforcement-learning)
+- [Maximum Entropy Inverse Reinforcement Learning](#maximum-entropy-inverse-reinforcement-learning)
+- [Convolutional Neural Network](#convolutional-neural-network)
+- [Recurrent Neural Network](#recurrent-neural-network)
+- [Deep Q-Network](#deep-q-network)
+- [Double DQN](#double-dqn)
+- [State-Action-Reward-State-Action](#state-action-reward-state-action)
+
 
 ## Machine Learning
     - Can be categorized as Supervised Learning, Unsupervised Learning and Reinforcement Learning.
@@ -40,32 +71,40 @@ Rules typically take the form of an `{IF:ELSE}` expression. Rule-based ML method
     - [Wiki][5]
     - Unsupervised Learning deals with no labeled data.
 
-## Deep Learning (Deep Neural Networks)
+## Deep Learning
     - is a particular ML scheme.
 
-## Reinforcement Learning (RL)
+## Deep Neural Networks
+
+## Reinforcement Learning
+    - RL
     - [Wiki][8]
     "RL is about an agent interacting with the environment, learning an optimal policy, by trail and error, for sequential desicion making problems in a wide range of fields in both natural and social sciences, and engineering" (Li, 2017).
 
-## Temporal Difference Learning (TD Learning)
+## Temporal Difference Learning
+    - TD Learning
     - [Wiki][11]: a prediciton-based ML method; it has been primarily been used for RL problem. It is central for RL [1].
     - SARSA and Q-learning are regarded as temporal difference learning [1].
 
 ## Q-learning
     - [Wiki][9]
 
-## Deep Reinforcement Learning (DRL)
+## Deep Reinforcement Learning 
+    - DRL
     - [Deep Reinforcement Learning: An Overview][1]
     - use deep neural networks (DL) to approximate components of RL (such as value function, state transition function and reward function) [1].
 
-## Hierachical Reinforcement Learning (HRL)
+## Hierachical Reinforcement Learning
+    - HRL
     - see the `HRL-intro.pptx`
 
 ## Deep Q-Learning
 
-## Deep Q-learning from Demonstrations [DQfD][2]
+## Deep Q-learning from Demonstrations 
+    - [DQfD][2]
 
-## Feature Learning (Representation Learning)
+## Feature Learning 
+    - Representation Learning
     - [Wiki][3]
     - Supervised feature learning
     - Unsupervised feature learning
@@ -77,7 +116,8 @@ Rules typically take the form of an `{IF:ELSE}` expression. Rule-based ML method
     - [Wiki][14]
     - One-shot learning is an object categorization problem in computer vision. Whereas most machine learning based object categorization algorithms require training on hundreds or thousands of images and very large datasets, one-shot learning aims to learn information about object categories from one, or only a few, training images.
 
-## Meta Learning / Learning to learn
+## Meta Learning
+    - Learning to learn
     - [wiki][15]
     - Meta learning is a subfield of machine learning where automatic learning algorithms are applied on metadata about machine learning experiments.
 
@@ -92,19 +132,23 @@ Rules typically take the form of an `{IF:ELSE}` expression. Rule-based ML method
     - [Maximum Entropy IRL][18]
     - [Principle of maximum entropy][19]
 
-## Convolutional Neural Network (CNN)
+## Convolutional Neural Network
+    - CNN
     - A deep learning model
     - A feedforward deep neural network, with convolutional layers, pooling layers and fully connected layers [1].
 
-## Recurrent Neural Network (RNN)
+## Recurrent Neural Network
+    - RNN
     - is often used to process sequential inputs like speech and language, element by element, with hidden units to store history of past elements [1].
 
+## Deep Q-Network
+    - DQN
 
-## Deep Q-Network (DQN)
+## Double DQN
+    - D-DQN
 
-## Double DQN (D-DQN)
-
-## State-Action-Reward-State-Action (SARSA)
+## State-Action-Reward-State-Action
+    - SARSA
     - [Wiki][12]
     - an algorithm for learning a [Markov Decision Process] policy, used in RL
 
