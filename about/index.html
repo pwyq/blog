@@ -5,10 +5,13 @@ comments: true
 ---
 <head>
     <link rel="stylesheet" type="text/css" href="/assets/css/about.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 </head>
 
+<div id="visitor_ip"></div>
+
 <!-- Language Selector -->
-<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+<select class="sel-lang" id="auto-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
 	<option value="0" selected> English 英语 </option>
 	<option value="1"> 中文 Chinese </option>
 </select>
@@ -65,6 +68,17 @@ comments: true
 
     // init
     pageRender();
+
+    $.get("https://ipinfo.io", function(response) {
+
+        $("#visitor_ip").html("Greetings! Friend from "+response.city+", "+response.region+". Nice to have you HERE! (＾o＾)ﾉ");
+        if(response.country == "CN") {
+            $("#auto-lang").val(1);
+        }
+        else {
+            $("#auto-lang").val(0);
+        }
+    }, "jsonp");
 </script>
 
 {% if page.comments %}
