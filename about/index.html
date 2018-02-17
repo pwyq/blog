@@ -8,13 +8,13 @@ comments: true
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 </head>
 
-<div id="visitor_ip"></div>
-
 <!-- Language Selector -->
 <select class="sel-lang" id="auto-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
 	<option value="0" selected> English 英语 </option>
 	<option value="1"> 中文 Chinese </option>
 </select>
+
+<div id="visitor_ip"></div>
 
 <!-- English Version -->
 <!--Two classes here: `en` & `about-lang`; later class will overwrite the prior class-->
@@ -70,13 +70,13 @@ comments: true
     pageRender();
 
     $.get("https://ipinfo.io", function(response) {
-
-        $("#visitor_ip").html("Greetings! Friend from "+response.city+", "+response.region+". Nice to have you HERE! (＾o＾)ﾉ");
         if(response.country == "CN") {
-            $("#auto-lang").val(1);
+            $("#visitor_ip").html("你好呀！来自"+response.region+""+response.city+"的小伙伴。这里自动切到中文了哟(＾o＾)ﾉ");
+            $("#auto-lang").val("1");
         }
         else {
-            $("#auto-lang").val(0);
+            $("#visitor_ip").html("Greetings! Friend from "+response.city+", "+response.region+". Nice to have you HERE! (＾o＾)ﾉ");
+            $("#auto-lang").val("0");
         }
     }, "jsonp");
 </script>
