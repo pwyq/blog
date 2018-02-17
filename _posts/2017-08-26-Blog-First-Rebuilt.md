@@ -142,6 +142,10 @@ As you may noticed, the font of `PWYQ Space` logo and my 404 page looks quite di
 - Next, create a test file with all downloaded fonts. If you don't know how to use custom fonts, look at [Using a custom (ttf) font in CSS][12].
 - Last step, compare all fonts and choose one that best suits you theme or need.
 
+<p align="center">
+    <img src="/assets/images/PWYQSpace_logo.png">
+</p>
+
 ##### WebStorm
 [WebStorm Download Link][14]
 

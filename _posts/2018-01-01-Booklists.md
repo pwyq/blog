@@ -22,23 +22,24 @@ Principles:
 
 # Read
 
-| Subject | Type | Title & 1st Author | Link(s) | Brief Intro |
+| Subject | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
-| AI | paper | **Concrete Problems in AI Safety**; Dario Amodei et al | [arXiv][1] | 讨论了由于劣质设计导致的无意且有害的AI行为问题 |
-| AI | paper | **Deep Reinforcement Learning: An Overview**; Yuxi Li | [arXiv][2] |
+| AI | Paper | **Concrete Problems in AI Safety**; Dario Amodei et al | [arXiv][1] | 讨论了由于劣质设计导致的无意且有害的AI行为问题 |
+| AI | Paper | **Deep Reinforcement Learning: An Overview**; Yuxi Li | [arXiv][2] |
 
 # Reading
 
 | Subject | Type | Title & 1st Author | Link(s) | Brief Intro |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
-| ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3] | Using C++ |
+| ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3] | Using C++; Entry Level |
 | ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4] | More Advanced |
 
 # To Read
 
 | Subject | Type | Title & 1st Author | Link(s) | Brief Intro |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
-| Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | Kevin Mitnick | |
+| Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | [Link][5] | |
+| Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6] | by [ZOOX][7] |
 
 
 
@@ -47,3 +48,5 @@ Principles:
 [3]: http://community.robotsource.org/t/download-the-ros-robot-programming-book-for-free/51
 [4]: http://marte.aslab.upm.es/redmine/files/dmsf/p_drone-testbed/170324115730_268_Quigley_-_Programming_Robots_with_ROS.pdf
 [5]: http://sbisc.ut.ac.ir/wp-content/uploads/2015/10/mitnick.pdf
+[6]: https://arxiv.org/abs/1703.07887
+[7]: http://zoox.com/

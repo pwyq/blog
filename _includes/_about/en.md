@@ -15,6 +15,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 #### Random Facts About Me
 1. I cut my own hair since high school.
 2. My right ankle sprained five times; all thanks to basketball :)
+14. The number of facts == the number of times I travelled around the Sun
 3. I can grab a basketball hoop at a standard height, like an NBA one.
 4. Favourite colours are blue and green. These two must come together.
 5. I practised martial art for 7 years in childhood, cause my mom thought I was too weak at that time.
@@ -26,9 +27,8 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 11. I prefer listening/reading over talking.
 12. Top 3 dream professions in childhood: Agent (like Jason Bourne), Private Crime Detective and Linguist.
 13. I can spend whole day on Wikipedia.
-14. The number of facts == the number of times I travelled around the Sun
 15. I rarely watch magic/fantasy films or tv shows.
-16. Dislike people who use a lot of internet slang in ~~daily~~ real life.
+16. Dislike people who uses a lot of internet slang in ~~daily~~ real life.
 17. I really enjoy watching the process of constructing buildings in RTS games.
 18. I come from [Guilin][1], where is a small city in the southern China. I spent 95%+ of my pre-college life there (　ﾟ 3ﾟ).
 19. I was born on one of the most important (and horrible?) days for Chinese high school students.
