@@ -1,12 +1,12 @@
 ---
-title: pwyq's Space, Launched!
-description: My first blog on my first self-built website!
+title: "pwyq's Space, Launched!"
+date: 2016-12-21
 categories:
     - blog
 tags:
     - PWYQ Space
     - Jekyll
-date: 2016-12-21
+description: My first blog on my first self-built website!
 ---
 
 <p>Well, if this one success, I may really cry out. <p>
@@ -24,3 +24,31 @@ Many thanks to other guiders for creating your tutorials on github pages as well
 <br>
 
 <p>有志者，事竟成。</p>
+
+<hr>
+<style>
+img.resize {
+  max-width:70%;
+  max-height:70%;
+}
+</style>
+<p>
+<b>An update after 427 days! (Feb 18th, 2018)</b>:
+<br />
+Today I was going to deprecate some old github repositories, I found following:
+
+<img class="resize" src="/assets/images/posts/First-Post/wth.png" alt="What???" align="middle">
+<p style="font-size: 16px" align="center">
+    <b> (((　ﾟдﾟ))) What? <i>"Your site is published at..."</i> WHAT???</b><br />
+    I mean, I didn't touch that repo for more than a year! How it is being online? WHATTT?
+    I bought current domain name on August, 2017, which is 8 months later for that repo.
+    How is it possible it is being auto online?? The `gh-pages`?
+</p>
+<img class="resize" src="/assets/images/posts/First-Post/abolish-blog.png" alt="abolish-blog" align="middle">
+<br />
+<b><p style="font-size: 20px" align="center"> Now vs. Past</p></b>
+<img src="/assets/images/posts/First-Post/now_vs_past.png" alt="Now vs. Past" align="middle">
+
+Anyway, this is amazing! Just like finding an Easter egg!
+<a href="http://www.pwyqspace.com/abolish--blog/">It's still working! Click Me!</a>
+</p>
