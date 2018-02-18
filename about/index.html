@@ -14,9 +14,10 @@ comments: true
 	<option value="1"> 中文 Chinese </option>
 </select>
 
+<!-- auto detect IP -->
 <div id="visitor_ip"></div>
 
-<!-- English Version -->
+<!-- English Version of About -->
 <!--Two classes here: `en` & `about-lang`; later class will overwrite the prior class-->
 <div class="en about-lang">
     {% capture about_en %}{% include _about/en.md %}{% endcapture %}
@@ -24,7 +25,7 @@ comments: true
     <br>
 </div>
 
-<!-- Chinese Version -->
+<!-- Chinese Version of About -->
 <div class="zh about-lang">
     <br>
     {% capture about_zh %}{% include _about/zh.md %}{% endcapture %}
