@@ -21,11 +21,12 @@ comments: true
 <div class="en about-lang">
     {% capture about_en %}{% include _about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
-    <br><br>
+    <br>
 </div>
 
 <!-- Chinese Version -->
 <div class="zh about-lang">
+    <br>
     {% capture about_zh %}{% include _about/zh.md %}{% endcapture %}
     {{ about_zh | markdownify }}
 </div>
@@ -71,12 +72,10 @@ comments: true
 
     $.get("https://ipinfo.io", function(response) {
         if(response.country == "CN") {
-            $("#visitor_ip").html("你好呀！来自"+response.region+""+response.city+"的小伙伴。这里自动切到中文了哟(＾o＾)ﾉ");
-            $("#auto-lang").val("1");
+            $("#visitor_ip").html("你好！来自"+response.region+"，"+response.city+"的朋友 (＾o＾)ﾉ");
         }
         else {
             $("#visitor_ip").html("Greetings! Friend from "+response.city+", "+response.region+". Nice to have you HERE! (＾o＾)ﾉ");
-            $("#auto-lang").val("0");
         }
     }, "jsonp");
 </script>
