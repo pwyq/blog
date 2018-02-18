@@ -117,7 +117,6 @@ menu:
   about: /about/
 #  categories: /categories/
 #  tags: /tags/
-#  resume: /resume/
 #  sitemap: /sitemap.xml
 #  commonweal: /404.html
 
@@ -137,7 +136,6 @@ menu_icons:
 #  categories: th
 #  schedule: calendar
 #  tags: tags
-#  resume: mortar-board
 #  sitemap: sitemap
 #  commonweal: heartbeat
 
@@ -232,7 +230,6 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
 avatar: /assets/images/author_dog.png
 
 
