@@ -1,6 +1,6 @@
 > A collection of links to other bloggers.
 
-For English speakers, if you wanna exchange blog link with me, feel free to contact me as long as you satisfied:  
+For English speakers, if you wanna exchange blog link with me, feel free to contact me as long as you satisfied ﾟ∀ﾟ)σ following:  
 -> personal blog (no commercial pls)  
 -> original posts account for 80%+  
 
@@ -47,11 +47,11 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 - [MaskRay][12]  
     算法（我视奸这么多THU的搞毛哦
 - [Yuxin's Blog][13]  
-    Machine Learning, Computer Vision (THUCMU)
+    Machine Learning, Computer Vision (THU+CMU)
 - [Zeyu Zhao][14]  
     ZJU+SFU->Harvard
 - [Lijie Chen][15]  
-    嘿嘿嘿
+    嘿嘿嘿，“青年计算机科学家”（非blog）
 - [依云's Blog][16]  
     Orz
 - [无证程序员PT桑][17]  
