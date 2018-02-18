@@ -2,14 +2,16 @@
 
 For English speakers, if you wanna exchange blog link with me, feel free to contact me as long as you satisfied ﾟ∀ﾟ)σ following:  
 -> personal blog (no commercial pls)  
--> original posts account for 80%+  
-
----
+-> original posts account for 90%+ and tech-oriented  
+-> Enables `HTTPS` for all pages （`HSTS` is better but optional)
 
 本来是用来放小伙伴的链接的，然而现在(180213，2好友vs18大牛)却变成了我对一堆大牛的~~视奸~~膜拜列表了( ﾟ∀。)  
 所以，来几个人一起玩耍呐！我要求不高的!  
 -> 个人博客  
--> 原创内容80%+
+-> 原创内容90%+，技术向（如果你对某些非技术向领域有深入研究，也欢迎哦）  
+-> 全站启用`HTTPS` (有`HSTS`就更棒啦)
+
+---
 
 ### 友链区
 - [Airing][4]  
@@ -19,10 +21,13 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
     
 ### 一些好玩的人
 想勾搭这些人(*ﾟ∀ﾟ*)
-- [FiveYellowMice's Blog][19]
+- [FiveYellowMice's Blog][19]  
+    会发水表文的澳洲小朋友
 - [WWY'S BLOG][21]
 - [吐槽大王部落格][22]
-
+- [neoFelhz][23]  
+    用心发博的萌萌前端Hexo博主
+    
 ### 仰望菊苣区
 这里是从四处搜刮来的大牛们的（博客）地址。实力水平不分先后，反正都比现在的我强 :P (努力吧，少年，去创造奇迹)  
 ~~虽然垠神说过不要神话任何人，可看见比自己厉害很多的人还是会不由自主地顶礼膜拜Orz~~  
@@ -83,3 +88,4 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [20]: http://www.ruanyifeng.com
 [21]: https://wwyqianqian.github.io
 [22]: https://www.tcdw.net
+[23]: https://blog.nfz.moe/

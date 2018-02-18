@@ -3,6 +3,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 
 #### About The Site
 - [Site History][site_log]
+- [My Principles for Posting][post_rule]
 - About Site Name  
     Well, `PWYQ` is the ID I used most frequently (for now) in online communities, `Space` is because I purely love outer space.
     `P` was the initial of my English name that I used for 10+ years, but I decided to stop using it since 2017 summer
@@ -56,3 +57,4 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 [1]: https://en.wikipedia.org/wiki/Guilin
 
 [site_log]: /sitelog
+[post_rule]: /postrules
