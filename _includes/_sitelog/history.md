@@ -5,10 +5,10 @@
 * 2016.12.22 
     * Added `Google Analytics`, `Disqus`
 * 2016.12.24 
-    * CV-page was first established, main frame is designed by [Xiaoying Riley][2]
+    * CV-page was first established, main frame is designed by [Xiaoying Riley][2] (deprecated)
     * First added 404.html
 * 2017.05.14
-    * First added project page
+    * First added project page (deprecated)
 * 2017.08.07 - First Rebuilt Day 1
     * Rebuilt reason can be found in -> [this post][4]
     * Started to fully rebuild the site with Jekyll Theme [Next][3]
@@ -29,9 +29,10 @@
 * 2018.02.02
     * Migrate develop environment from Ubuntu to Arch
 * 2018.02.17
-    * First added Site History page and Friend Links page
+    * First added [Site History][7] page and [Friend Links][8] page
 * 2018.02.18
     * Enabled `HSTS` for all requests (thanks to [this post][5])
+    * First established [Post Principles][6]
 
 
 [1]: https://www.pwyqspace.com
@@ -39,3 +40,6 @@
 [3]: https://github.com/simpleyyt/jekyll-theme-next
 [4]: https://www.pwyqspace.com/blog/2017/08/26/Blog-First-Rebuilt
 [5]: https://blog.itswincer.com/posts/dfc84766/
+[6]: /postrules
+[7]: /sitelog
+[8]: /friends

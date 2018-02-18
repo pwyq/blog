@@ -1,4 +1,4 @@
-Inspired by Milo Yip's [Post Policy][1], I thus set up this Principles to guide my post style and supervise post quality. Effective today (Feb 18th, 2018).  
+I set up this Principles to guide post style and to supervise post quality. Effective today (Feb 18th, 2018).  
 受Milo Yip的[博客方针][1]启发，决定以此文来指导本博风格和监督博文质量。即日起（2018年2月18日）实施。
 
 ### Choosing Topics | 选题
@@ -12,19 +12,21 @@ Inspired by Milo Yip's [Post Policy][1], I thus set up this Principles to guide 
     所有文章保证原创；不转载、不翻译
 
 ### Posting | 撰文
-- Tech-post uses modern English; Life-post uses simplified Chinese (reason is stated in `About` page)  
-    科技文使用现代英语；生活文使用简体中文 （原因已在`关于`页面阐明）
+- Tech-post uses modern English; Life-post uses simplified Chinese (reason is stated in `About`)  
+    科技文使用现代英语；生活文使用简体中文 （原因已在`关于`阐明）
 - Be objective; providing references when necessary  
     做到客观，有理由据
-- Posting new post every month (every other month if I am busy)  
+- Posting one new post every month (every other month if I am busy)  
     更新尽量做到每月一篇，繁忙时两月一篇
 - The required reading time for each post should around [7 minutes][2]  
     博文长度需满足7分钟左右的阅读时间
 
 ### Communicating | 交流
+- Welcoming to point out any mistakes  
+    欢迎指出文章错误
 - Answering every comment  
     回复每一条评论
-- Replying with English or Chinese based on commenter  
+- Replying with English or Chinese based on comment language  
     回复语言根据评论者使用中文或英语
 
 [1]: http://www.cnblogs.com/miloyip/archive/2010/06/14/BlogPolicy.html

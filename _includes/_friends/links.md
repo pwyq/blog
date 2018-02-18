@@ -5,7 +5,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 -> original posts account for 90%+ and tech-oriented  
 -> Enables `HTTPS` for all pages （`HSTS` is better but optional)
 
-本来是用来放小伙伴的链接的，然而现在(180213，2好友vs18大牛)却变成了我对一堆大牛的~~视奸~~膜拜列表了( ﾟ∀。)  
+本来是用来放小伙伴的链接的，然而现在却变成了我对一堆大牛的~~视奸~~膜拜列表了( ﾟ∀。)  
 所以，来几个人一起玩耍呐！我要求不高的!  
 -> 个人博客  
 -> 原创内容90%+，技术向（如果你对某些非技术向领域有深入研究，也欢迎哦）  
