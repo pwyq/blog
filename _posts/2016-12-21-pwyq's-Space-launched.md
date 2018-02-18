@@ -20,34 +20,28 @@ All I want at the beginning was, <strong>just</strong> a place created by my own
 <hr>
 
 <p>update: It's worked! Gosh! Credit to <a href="http://jmcglone.com/guides/github-pages/">Hank Quinlan</a>. Thank you so much!
-Many thanks to other guiders for creating your tutorials on github pages as well. I may not fully success on creating this site following your tutorials, but I also learnt a lot! That's also a kind of success, isn't it?</p>
+Many thanks to other guiders for creating your tutorials on the topics of `github pages` as well. Although I didn't create the site successfully with your tutorials, I also learnt a lot! That's another kind of success, isn't it?</p>
 <br>
 
 <p>有志者，事竟成。</p>
 
 <hr>
-<style>
-img.resize {
-  max-width:70%;
-  max-height:70%;
-}
-</style>
 <p>
 <b>An update after 427 days! (Feb 18th, 2018)</b>:
 <br />
 Today I was going to deprecate some old github repositories, I found following:
 
-<img class="resize" src="/assets/images/posts/First-Post/wth.png" alt="What???" align="middle">
+<img src="/assets/images/posts/First-Post/wth.png" alt="What???" align="center">
 <p style="font-size: 16px" align="center">
     <b> (((　ﾟдﾟ))) What? <i>"Your site is published at..."</i> WHAT???</b><br />
     I mean, I didn't touch that repo for more than a year! How it is being online? WHATTT?
-    I bought current domain name on August, 2017, which is 8 months later for that repo.
+    I bought current domain name on August, 2017, which is 8 months later after that repo.
     How is it possible it is being auto online?? The `gh-pages`?
 </p>
-<img class="resize" src="/assets/images/posts/First-Post/abolish-blog.png" alt="abolish-blog" align="middle">
+<img src="/assets/images/posts/First-Post/abolish-blog.png" alt="abolish-blog" align="center">
 <br />
 <b><p style="font-size: 20px" align="center"> Now vs. Past</p></b>
-<img src="/assets/images/posts/First-Post/now_vs_past.png" alt="Now vs. Past" align="middle">
+<img src="/assets/images/posts/First-Post/now_vs_past.png" alt="Now vs. Past" align="center">
 
 Anyway, this is amazing! Just like finding an Easter egg!
 <a href="http://www.pwyqspace.com/abolish--blog/">It's still working! Click Me!</a>
