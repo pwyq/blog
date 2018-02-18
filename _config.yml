@@ -113,9 +113,10 @@ index_with_subtitle: true
 menu:
   home: /
   archives: /archives/
-#  categories: /categories/
-  tags: /tags/
+  friends: /friends/
   about: /about/
+#  categories: /categories/
+#  tags: /tags/
 #  resume: /resume/
 #  sitemap: /sitemap.xml
 #  commonweal: /404.html
@@ -126,19 +127,19 @@ menu:
 #   Map a menu item to a specific FontAwesome icon name.
 #   Key is the name of menu item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an question mask icon presenting up means that the item has no mapping icon.
+# KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
 menu_icons:
   enable: true
-  #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  categories: th
-  schedule: calendar
-  tags: tags
   archives: archive
-  resume: mortar-board
-  sitemap: sitemap
-  commonweal: heartbeat
-
+  friends: handshake
+#  categories: th
+#  schedule: calendar
+#  tags: tags
+#  resume: mortar-board
+#  sitemap: sitemap
+#  commonweal: heartbeat
 
 
 

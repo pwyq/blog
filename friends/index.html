@@ -1,0 +1,8 @@
+---
+title: Friend Links | 友链
+layout: page
+comments: true
+---
+
+{% capture friend_link %}{% include _friends/links.md %}{% endcapture %}
+{{ friend_link | markdownify }}

@@ -2,19 +2,17 @@ I'm **Yan-Qing Wu (Chinese: 吴彦庆)**, a carbon-based living creature current
 More specifically, I'm now a sophomore in Computer Engineering at the University of Waterloo, Canada.
 
 #### About The Site
-[Site History][site_log]
-- About Site Name
-
-Well, `PWYQ` is the ID I used most frequently (for now) in online communities, `Space` is because I purely love outer space.
-`P` was the initial of my English name that I used for 10+ years, but I decided to stop using it since 2017 summer
-(Why? I will write a post to explain, hopefully).
-`WYQ` is the initial of my Chinese name in Chinese order (￣∇￣).
-- About Post Language
-
-You may notice that some posts are written in strange languages; relax, that's (mostly) simplified Chinese.
-When I write non-technical stuff, I use my mother tongue as it's the best way to convey my feelings.
-
-In addition, if you find any incorrect use of word/punctuation (or simply feel weird), it will be very kind of you to inform me (I'm still learning English~) ^_^
+- [Site History][site_log]
+- About Site Name  
+    Well, `PWYQ` is the ID I used most frequently (for now) in online communities, `Space` is because I purely love outer space.
+    `P` was the initial of my English name that I used for 10+ years, but I decided to stop using it since 2017 summer
+    (Why? I will write a post to explain, hopefully).
+    `WYQ` is the initial of my Chinese name in Chinese order (￣∇￣).
+- About Post Language  
+    You may notice that some posts are written in strange languages; relax, that's (mostly) simplified Chinese.
+    When I write non-technical stuff, I use my mother tongue as it's the best way to convey my feelings.
+    
+    In addition, if you find any incorrect use of word/punctuation (or simply feel weird), it will be very kind of you to inform me (I'm still learning English~) ^_^
 
 #### Personal Interests
 - The applications of strong **AI** in **robotics** (also my research interest)
@@ -27,7 +25,7 @@ In addition, if you find any incorrect use of word/punctuation (or simply feel w
 
 #### Random Facts About Me
 1. I cut my own hair since high school.
-2. My right ankle sprained five times; all thanks to basketball :)
+2. My right ankle sprained 5 times; all thanks to basketball :)
 14. The number of facts == the number of times I travelled around the Sun
 3. I can grab a basketball hoop at a standard height, like an NBA one.
 4. Favourite colours are blue and green. These two must come together.
