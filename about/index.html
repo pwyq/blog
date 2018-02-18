@@ -72,7 +72,7 @@ comments: true
 
     $.get("https://ipinfo.io", function(response) {
         if(response.country == "CN") {
-            $("#visitor_ip").html("你好！来自"+response.region+"，"+response.city+"的朋友 (＾o＾)ﾉ");
+            $("#visitor_ip").html("嗨~！来自"+response.region+"，"+response.city+"的朋友 (＾o＾)ﾉ");
         }
         else {
             $("#visitor_ip").html("Greetings! Friend from "+response.city+", "+response.region+". Nice to have you HERE! (＾o＾)ﾉ");
