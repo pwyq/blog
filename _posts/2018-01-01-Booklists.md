@@ -29,14 +29,14 @@ Principles:
 
 # Reading
 
-| Subject | Type | Title & 1st Author | Link(s) | Brief Intro |
+| Subject | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
 | ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3] | Using C++; Entry Level |
 | ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4] | More Advanced |
 
 # To Read
 
-| Subject | Type | Title & 1st Author | Link(s) | Brief Intro |
+| Subject | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
 | Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | [Link][5] | |
 | Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6] | by [ZOOX][7] |

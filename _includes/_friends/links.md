@@ -39,7 +39,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
     Arch Linux聚聚！
 - [plum's blog][3]
 - [王垠][5]  
-    他对某些事物看法挺有意思的。
+    他对某些事物的看法挺有意思的。
 - [技术宅男子][7]
 - [戴天宇][8]  
     bilibili工程师。博客好看呐
