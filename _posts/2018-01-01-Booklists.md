@@ -35,26 +35,28 @@ table th:nth-child(5) { width: 25%; }
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
-| AI | Paper | **Concrete Problems in AI Safety**; Dario Amodei et al | [arXiv][1] | 讨论了由于劣质设计导致的无意且有害的AI行为问题 |
-| AI | Paper | **Deep Reinforcement Learning: An Overview**; Yuxi Li | [arXiv][2] |
+| AI | Paper | **Concrete Problems in AI Safety**; Dario Amodei et al | [arXiv][1]{:target="_blank"} | 讨论了由于劣质设计导致的无意且有害的AI行为问题 |
+| AI | Paper | **Deep Reinforcement Learning: An Overview**; Yuxi Li | [arXiv][2]{:target="_blank"} |
 
 # Reading
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
-| ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3] | Using C++; Entry Level |
-| ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4] | More Advanced |
+| ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3]{:target="_blank"} | Using C++; Entry Level |
+| ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4]{:target="_blank"} | More Advanced |
 
 # To Read
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
-| Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | [Link][5] | |
-| Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6] | by [ZOOX][7] |
+| Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | [Link][5]{:target="_blank"} | |
+| Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6]{:target="_blank"} | by [ZOOX][7]{:target="_blank"} |
 | Historical Fiction, Drama | Novel | **The Kite Runner**; Khaled Hosseini | | |
 | Nouveau roman | Novel | **The Lover (L'Amant)**; Marguerite Duras | | |
 | Realist, Erotic | Novel | **Madame Bovary**; Gustave Flaubert | | |
 | Realist | Novel | **Anna Karenina (Анна Каренина)**; Lev Tolstoy | | |
+| Hard science fiction | Novel | **A Fire Upon the Deep**; 	Vernor Vinge | | |
+
 
 [1]: https://arxiv.org/abs/1606.06565
 [2]: https://arxiv.org/abs/1701.07274

@@ -25,15 +25,15 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [Airing][4] | 博客好看。喜欢(〃∀〃) | [胡博靖][6] | 一开始以为是学长却是妹子的博主。也很萌啦 |
+| [Airing][4]{:target="_blank"} | 博客好看。喜欢(〃∀〃) | [胡博靖][6]{:target="_blank"} | 一开始以为是学长却是妹子的博主。也很萌啦 |
     
 ### 一些好玩的人
 想勾搭这些人(*ﾟ∀ﾟ*)
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [FiveYellowMice's Blog][19] | 会发水表文的澳洲小朋友 | [WWY'S BLOG][21] | 萌妹子QAQ |
-| [吐槽大王部落格][22] | | [neoFelhz][23] | 用心发博的萌萌前端Hexo博主|
+| [FiveYellowMice's Blog][19]{:target="_blank"} | 会发水表文的澳洲小朋友 | [WWY'S BLOG][21]{:target="_blank"} | 萌妹子QAQ |
+| [吐槽大王部落格][22]{:target="_blank"} | | [neoFelhz][23]{:target="_blank"} | 用心发博的萌萌前端Hexo博主|
     
 ### 仰望菊苣区
 这里是从四处搜刮来的大牛们的（博客）地址。实力水平不分先后，反正都比现在的我强 :P (努力吧，少年，去创造奇迹)  
@@ -42,15 +42,18 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [Milo的游戏开发][1] | 最近好像不再更新了呢... | [Phoenix Island][2] | Arch Linux聚聚！|
-| [plum's blog][3] | | [王垠][5] | 他对某些事物的看法挺有意思的 | 
-| [技术宅男子][7] | | [戴天宇][8] | bilibili工程师。博客好看呐 |
-| [Minterest][9] | 疯狂blog的外国blogger | [BYVoid][10] | 茶园大牛。膜Orz |
-| [胡伯涛][11] | 茶...园(非blog) | [MaskRay][12] | 算法（我视奸这么多THU的搞毛哦 |
-| [Yuxin's Blog][13] | Machine Learning, Computer Vision (THU+CMU) | [Zeyu Zhao][14] | ZJU+SFU->Harvard |
-| [Lijie Chen][15] | 嘿嘿嘿，“青年计算机科学家”（非blog） | [依云's Blog][16] | Orz |
-| [无证程序员PT桑][17] | Linux | [Felix's Blog][18] | Linux |
-| [阮一峰][20] | 经济学背景的杂食向博主 |
+| [Milo的游戏开发][1]{:target="_blank"} | 最近好像不再更新了呢... | [Phoenix Island][2]{:target="_blank"} | Arch Linux聚聚！|
+| [plum's blog][3]{:target="_blank"} | | [王垠][5]{:target="_blank"} | 他对某些事物的看法挺有意思的 | 
+| [技术宅男子][7]{:target="_blank"} | | [戴天宇][8]{:target="_blank"} | bilibili工程师。博客好看呐 |
+| [Minterest][9]{:target="_blank"} | 疯狂blog的外国blogger | [BYVoid][10]{:target="_blank"} | 茶园大牛。膜Orz |
+| [胡伯涛][11]{:target="_blank"} | 茶...园(非blog) | [MaskRay][12]{:target="_blank"} | 算法（我视奸这么多THU的搞毛哦 |
+| [Yuxin's Blog][13]{:target="_blank"} | Machine Learning, Computer Vision (THU+CMU) | [Zeyu Zhao][14]{:target="_blank"} | ZJU+SFU->Harvard |
+| [Lijie Chen][15]{:target="_blank"} | 嘿嘿嘿，“青年计算机科学家”（非blog） | [依云's Blog][16]{:target="_blank"} | Orz |
+| [无证程序员PT桑][17]{:target="_blank"} | Linux | [Felix's Blog][18]{:target="_blank"} | Linux |
+| [阮一峰][20]{:target="_blank"} | 经济学背景的杂食/前端向博主 |
+
+
+
 
 [1]: http://www.cnblogs.com/miloyip
 [2]: https://blog.phoenixlzx.com

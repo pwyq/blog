@@ -19,7 +19,7 @@ All I want at the beginning was, <strong>just</strong> a place created by my own
 <br>
 <hr>
 
-<p>update: It's worked! Gosh! Credit to <a href="http://jmcglone.com/guides/github-pages/">Hank Quinlan</a>. Thank you so much!
+<p>update: It's worked! Gosh! Credit to <a href="http://jmcglone.com/guides/github-pages/" target="_blank">Hank Quinlan</a>. Thank you so much!
 Many thanks to other guiders for creating your tutorials on the topics of `github pages` as well. Although I didn't create the site successfully with your tutorials, I also learnt a lot! That's another kind of success, isn't it?</p>
 <br>
 

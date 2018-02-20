@@ -77,7 +77,7 @@ Note: following commands are **case-sensitive**.
 
     > long press `Super`; `Super` is another name of `Win` key on Linux.
     
-    ![alt text][7]
+    ![alt text][p1]
     
 2. Select software from the left-side launcher
 
@@ -98,7 +98,7 @@ Note: following commands are **case-sensitive**.
     `Ctrl + Shift + w` - close current terminal tab
 4. Use `cd` to travel everywhere (file system) on your Linux
 
-5. Remap `CapsLock` to `Ctrl` to increase efficiency, and to ease finger pain; a guide -> [How To Remap][10]
+5. Remap `CapsLock` to `Ctrl` to increase efficiency, and to ease finger pain; a guide -> [How To Remap][10]{:target="_blank"}
 
     If you are comfortable with current `Ctrl` position, then stay with it.
 6. Switch software
@@ -120,7 +120,7 @@ Note: following commands are **case-sensitive**.
     > Hit `Enter` to open.
 
 <a name="loc_vimium"></a>
-### [Vimium][1]
+### [Vimium][1]{:target="_blank"}
 
 With `Vimium`, you can enable keyboard shortcuts for navigation and control on any web-pages.
 
@@ -145,10 +145,10 @@ With `Vimium`, you can enable keyboard shortcuts for navigation and control on a
 > `Shift + k` - move to one right tab
 
 #### Detailed Cheat Sheet:
-![alt text][8]
+![alt text][p2]
 
 <a name="loc_vim"></a>
-### [Vim][5]
+### [Vim][5]{:target="_blank"}
 
 In fact, `Vimium` is built in the spirit of `Vim`. Hence, you can find some commands in common.
 > Then why introduced `Vim` after `Vimium`?
@@ -204,10 +204,10 @@ I also found a joke says: "A highly-configured `Vim` can reach **one-third** per
     `d$` - delete to the end of the line after cursor
     
 #### Detailed Cheat Sheet
-![alt text][9]
+![alt text][p3]
 
 <a name="loc_wasavi"></a>
-### [Wasavi][6]
+### [Wasavi][6]{:target="_blank"}
 
 > wasavi is a clone of vi editor and extends a TEXT-AREA element.  
 > If you focus a TEXT-AREA element and press `Ctrl+Enter`, TEXT-AREA turns into `vi` editor.
@@ -243,9 +243,9 @@ because you may use `Incognito` mode sometimes (unless you enable extension on `
 ## Useful Links
 
 `Vim`, `Vimium` and `wasavi` are open source software on Github, you can find them here:  
-- [Vim - Github][4]
-- [Vimium - Github][3]
-- [wasavi - Github][6]
+- [Vim - Github][4]{:target="_blank"}
+- [Vimium - Github][3]{:target="_blank"}
+- [wasavi - Github][6]{:target="_blank"}
 
 ## References
 1. Foye, P. M., Cianca, J. C., & Prather, H. (2002). Cumulative trauma disorders of the upper limb in computer users. Archives of Physical Medicine and Rehabilitation, 83. doi:10.1053/apmr.2002.32144  
@@ -259,8 +259,8 @@ Retrieved from http://www.archives-pmr.org/article/S0003-9993(02)80005-3/pdf
 [5]: https://vim.sourceforge.io/
 [6]: https://github.com/akahuku/wasavi
 
-[7]: /assets/images/posts/Work-Without-Mouse/linux_keyboard_shortcuts.jpg "Ubuntu Keyboard Shortcut"
-[8]: /assets/images/posts/Work-Without-Mouse/vimium-cheatsheet-big.png "Vimium Cheat Sheet"
-[9]: /assets/images/posts/Work-Without-Mouse/vim-cheatsheet.png "Vim Cheat Sheet"
+[p1]: /assets/images/posts/Work-Without-Mouse/linux_keyboard_shortcuts.jpg "Ubuntu Keyboard Shortcut"
+[p2]: /assets/images/posts/Work-Without-Mouse/vimium-cheatsheet-big.png "Vimium Cheat Sheet"
+[p3]: /assets/images/posts/Work-Without-Mouse/vim-cheatsheet.png "Vim Cheat Sheet"
 
 [10]: https://askubuntu.com/questions/33774/how-do-i-remap-the-caps-lock-and-ctrl-keys

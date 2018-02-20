@@ -22,18 +22,18 @@ Since there are plenty of decent and mature online tutorials, it would be pointl
 I will recommend some of them below that I followed with.  
 **Notes**:  
 > 1. Make sure you understand how each command works (use `man <cmd>` or `<cmd> --help` to display commands' descriptions)
-> 2. *Always* refer to [Arch Wiki][6] when you are confused
+> 2. *Always* refer to [Arch Wiki][6]{:target="_blank"} when you are confused
 
 
 ### Tutorial in English
-- [Installing and configuring Arch Linux on Thinkpad X1 Carbon][4]
+- [Installing and configuring Arch Linux on Thinkpad X1 Carbon][4]{:target="_blank"}
 
 
 ### Tutorials in Chinese
-- [以官方Wiki的方式安装ArchLinux][1]
-- [ArchLinux安装后的必须配置与图形界面安装教程][2]
-- [ArchLinux你可能需要知道的操作与软件包推荐「持续更新」][3]
-- [配置和美化Arch Linux][5]
+- [以官方Wiki的方式安装ArchLinux][1]{:target="_blank"}
+- [ArchLinux安装后的必须配置与图形界面安装教程][2]{:target="_blank"}
+- [ArchLinux你可能需要知道的操作与软件包推荐「持续更新」][3]{:target="_blank"}
+- [配置和美化Arch Linux][5]{:target="_blank"}
 
 ### Everything works out of box
 My installation was really smooth, thanks to above authors' hard work on their posts.
@@ -106,7 +106,7 @@ Anyway, the font can be set in Chrome built-in settings.
 If you're using high resolution screen, the first thing you will complain is that, everything is surprisingly tiny!
 The font size is like 1-2 mm. 
 
-I copied the KDE settings below, by [Arch wiki][7]:
+I copied the KDE settings below, by [Arch wiki][7]{:target="_blank"}:
 
 > KDE
 > You can use KDE's settings to fine tune font, icon, and widget scaling. This solution affects both Qt and Gtk+ applications.
@@ -125,18 +125,18 @@ I copied the KDE settings below, by [Arch wiki][7]:
 > 1. System Settings → Icons → Advanced
 > 2. Choose the desired icon size for each category listed. This should take effect immediately.
 
-**Update**: you might find weird horizontal lines appear and disappear in Konsole after you scaling, this is a [known bug][8].
+**Update**: you might find weird horizontal lines appear and disappear in Konsole after you scaling, this is a [known bug][8]{:target="_blank"}.
 
 
 #### Adjusting Google Chrome DPI
-If you feel Chrome toolbar is too small and want to scaling it, using following method ([source][9]):
+If you feel Chrome toolbar is too small and want to scaling it, using following method ([source][9]{:target="_blank"}):
 
 1. Open `/usr/share/applications/google-chrome`
 2. Find `Exec=/usr/bin/google-chrome-stable %U`
 3. change it to `Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1 %U`.
     - Change to your desire scale factor, floating point acceptable.
 
-If above is not working, using following, ([source][10]):
+If above is not working, using following, ([source][10]{:target="_blank"}):
 
 1. `sudo touch /usr/bin/google-chrome` create a file as workaround;
 2. `sudo chmod a+x /usr/bin/google-chrome` make its executable;
@@ -168,7 +168,7 @@ For Login Screen:
 ## Recommended Software (Updating)
 I'm still exploring on this part. QAQ
 
-A full list of applications can be found at [here (Arch Wiki)][11].
+A full list of applications can be found at [here (Arch Wiki)][11]{:target="_blank"}.
 
 - Network Manager: `NetworkManager`
 - Maths: `octave`

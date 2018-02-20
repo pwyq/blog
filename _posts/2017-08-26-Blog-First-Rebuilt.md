@@ -35,7 +35,7 @@ Also, Google Analytics and Disqus were implemented on my site. Ah, It just looke
 
 You can tell I was very proud of my first web project at that time.
 
-And, I proudly added this project to my resume, along with a line-following music player robot project, an [Android app][2] done at EC-Hacks and an object tracking algorithm for [UWRT][1] Mars Rover.
+And, I proudly added this project to my resume, along with a line-following music player robot project, an [Android app][2]{:target="_blank"} done at EC-Hacks and an object tracking algorithm for [UWRT][1]{:target="_blank"} Mars Rover.
 All projects were completed after I entering University of Waterloo while I maintaining my GPA at an excellent level.
 Look at that time-management, that execution.
 Honestly, I thought I was able to work at some big-name tech companies.
@@ -64,7 +64,7 @@ I bought a domain at GoDaddy, and hosted DNS on Cloudflare.
 
 1. Go to one of domain companies, search for your favourite domain name, purchase it if it's available.
 
-    I chose [GoDaddy][3]. No particular preference, it's just cheaper than other ones, and convenient.
+    I chose [GoDaddy][3]{:target="_blank"}. No particular preference, it's just cheaper than other ones, and convenient.
 
 2. Create a `CNAME` file and add it to your git repository.
 
@@ -75,7 +75,7 @@ I bought a domain at GoDaddy, and hosted DNS on Cloudflare.
     www.pwyqspace.com
     ```
 
-3. Go to [Cloudflare][4]
+3. Go to [Cloudflare][4]{:target="_blank"}
 
     Create an account if you haven't got one.
     Cloudflare is free for personal use, and it's enough for a blog site.
@@ -125,11 +125,11 @@ I bought a domain at GoDaddy, and hosted DNS on Cloudflare.
 
 Using HTTPs protocol has lots of advantages:
 
-- [Provide a more secured channel between your browser and visited website][8]
-- [HTTPs is faster than HTTP (thanks to SPDY)][9]
-- [HTTPS is a SEO ranking signal][10]
+- [Provide a more secured channel between your browser and visited website][8]{:target="_blank"}
+- [HTTPs is faster than HTTP (thanks to SPDY)][9]{:target="_blank"}
+- [HTTPS is a SEO ranking signal][10]{:target="_blank"}
 
-A detailed instruction can be found at this post: [Using HTTPs with Custom Domain Name on GitHub Pages][11].
+A detailed instruction can be found at this post: [Using HTTPs with Custom Domain Name on GitHub Pages][11]{:target="_blank"}.
 Following the tutorial, my final `page rules` hosted on Cloudflare looks like this:
 ![alt text][7]
 
@@ -139,7 +139,7 @@ As you may noticed, the font of `PWYQ Space` logo and my 404 page looks quite di
 
 - First, go to some font website.
 - Then, download some fonts you like that are free for personal-use.
-- Next, create a test file with all downloaded fonts. If you don't know how to use custom fonts, look at [Using a custom (ttf) font in CSS][12].
+- Next, create a test file with all downloaded fonts. If you don't know how to use custom fonts, look at [Using a custom (ttf) font in CSS][12]{:target="_blank"}.
 - Last step, compare all fonts and choose one that best suits you theme or need.
 
 <p align="center">
@@ -147,7 +147,7 @@ As you may noticed, the font of `PWYQ Space` logo and my 404 page looks quite di
 </p>
 
 ##### WebStorm
-[WebStorm Download Link][14]
+[WebStorm Download Link][14]{:target="_blank"}
 
 Almost forgot this one XD.
 WebStorm is a great tool for front-end development. Strongly recommended.
@@ -167,12 +167,12 @@ Thanks to Webstorm, my every commit counts now.
 
 Through the process of rebuilding, I found some interesting questions/concepts to consider or new technology to use in the future:
 
-- [Cache-Control][15]
-- [What's the difference between Cache-Control: max-age=0 and no-cache?][16]
-- [The Django template language][17]
-- [JSHint, A Static Code Analysis Tool for JavaScript][18]
-- [Why some css file is in one line of text][19]
-- [A/B Testing][20]
+- [Cache-Control][15]{:target="_blank"}
+- [What's the difference between Cache-Control: max-age=0 and no-cache?][16]{:target="_blank"}
+- [The Django template language][17]{:target="_blank"}
+- [JSHint, A Static Code Analysis Tool for JavaScript][18]{:target="_blank"}
+- [Why some css file is in one line of text][19]{:target="_blank"}
+- [A/B Testing][20]{:target="_blank"}
 - PostgreSQL
 - MEAN (MongoDB, Express, Angular, Node.js)
 - Socket.io

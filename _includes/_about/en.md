@@ -2,8 +2,8 @@ I'm **Yan-Qing Wu (Chinese: 吴彦庆)**, a carbon-based living creature current
 More specifically, I'm now a sophomore in Computer Engineering at the University of Waterloo, Canada.
 
 #### About The Site
-- [Site History][site_log]
-- [My Principles for Posting][post_rule]
+- [Site History][site_log]{:target="_blank"}
+- [My Principles for Posting][post_rule]{:target="_blank"}
 - About Site Name  
     Well, `PWYQ` is the ID I used most frequently (for now) in online communities, `Space` is because I purely love outer space.
     `P` was the initial of my English name that I used for 10+ years, but I decided to stop using it since 2017 summer
@@ -42,7 +42,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 15. I rarely watch magic/fantasy films or tv shows.
 16. Dislike people who uses a lot of internet slang in ~~daily~~ real life.
 17. I really enjoy watching the process of constructing buildings in RTS games.
-18. I come from [Guilin][1], where is a small city in the southern China. I spent 95%+ of my pre-college life there (　ﾟ 3ﾟ).
+18. I come from [Guilin][1]{:target="_blank"}, where is a small city in the southern China. I spent 95%+ of my pre-college life there (　ﾟ 3ﾟ).
 19. I was born on one of the most important (and horrible?) days for Chinese high school students.
 20. Three things I regret till now: myopia, gave up halfway of learning instruments (violin 2yr+/Drum kit 1yr+) and not having enough Guilin rice noodles.
 

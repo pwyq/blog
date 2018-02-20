@@ -10,8 +10,8 @@
 <br>
 
 ## 关于本站
-- [本站历史][site_log]
-- [发博宗旨][post_rule]  
+- [本站历史][site_log]{:target="_blank"}
+- [发博宗旨][post_rule]{:target="_blank"}  
 嘛嘛，从小就想有一个自己的小天地。（再多写点儿喂）
 
 ## 关于博文语言选择
