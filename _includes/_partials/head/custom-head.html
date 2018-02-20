@@ -1,3 +1,26 @@
 {% comment %}
 Custom head.
 {% endcomment %}
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+
+        $(".site-nav-toggle").after($("<div>").attr("id", "fortune").css("display", "none"));
+
+        $.getJSON( "https://api.github.com/gists/dff8ba5bcb48bd5ea3a8cc4ad2cc456c", function(data) {
+
+            var fortunes = JSON.parse(data.files["fortunes.json"].content);
+            var randomFortune = fortunes[ Math.floor(Math.random() * fortunes.length) ];
+            var italicResult = randomFortune.content.italics();
+            if ( randomFortune.source === undefined ) {
+                $("#fortune").html("<span style=\"display:inline-block; width: 20px;\"></span>" +
+                                    randomFortune.content );
+            } else {
+                $("#fortune").html("<span style=\"display:inline-block; width: 20px;\"></span>" +
+                                    italicResult +
+                                    "&mdash;" +
+                                    randomFortune.source );
+            }
+            $("#fortune").velocity("slideDown", { duration: 400, easing: "easeOutQuad" });
+        });
+    });
+</script>
