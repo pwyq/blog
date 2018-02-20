@@ -11,14 +11,12 @@ Custom head.
             var fortunes = JSON.parse(data.files["fortunes.json"].content);
             var randomFortune = fortunes[ Math.floor(Math.random() * fortunes.length) ];
             var italicResult = randomFortune.content.italics();
+            var longSpace = "<span style=\"display:inline-block; width: 20px;\"></span>";
             if ( randomFortune.source === undefined ) {
-                $("#fortune").html("<span style=\"display:inline-block; width: 20px;\"></span>" +
-                                    randomFortune.content );
+                $("#fortune").html( longSpace + randomFortune.content );
             } else {
-                $("#fortune").html("<span style=\"display:inline-block; width: 20px;\"></span>" +
-                                    italicResult +
-                                    "&mdash;" +
-                                    randomFortune.source );
+                $("#fortune").html(longSpace + italicResult + longSpace +
+                                    "&mdash; " + randomFortune.source );
             }
             $("#fortune").velocity("slideDown", { duration: 400, easing: "easeOutQuad" });
         });
