@@ -175,6 +175,7 @@ A full list of applications can be found at [here (Arch Wiki)][11]{:target="_bla
 - VPN clients: `OpenVPN`
 - Webcam: `guvcview` (work for X1C, haven't check for other machines)
 - Office suites: `libreoffice-fresh`
+- Notepadqq: [GitHub link][14]{:target="_blank"} (I treat it as a complimentary to Vim)
 
 
 ## Random Thoughts
@@ -210,6 +211,7 @@ Honestly, I was feeling quite uncomfortable until I was certain that every redun
 [9]: http://kernpanik.com/geekstuff/2015/05/20/chrome-change-default-hidpi-setting.html
 [10]: https://bbs.archlinux.org/viewtopic.php?id=227131
 [11]: https://wiki.archlinux.org/index.php/list_of_applications
+[14]: https://github.com/notepadqq/notepadqq
 
 [12]: /assets/images/posts/Arch-Linux-Install/login.JPG "Login Page - Darling in the Franxx 02"
 [13]: /assets/images/posts/Arch-Linux-Install/info-center.png "Info Center - Arch Linux"

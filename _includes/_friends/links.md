@@ -34,7 +34,8 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 |:----:|:-----:|:----:|:-----:|
 | [FiveYellowMice's Blog][19]{:target="_blank"} | 会发水表文的澳洲少年 | [WWY'S BLOG][21]{:target="_blank"} | 好耶！是萌妹子w |
 | [吐槽大王部落格][22]{:target="_blank"} | | [neoFelhz][23]{:target="_blank"} | 用心发博的萌萌前端Hexo博主|
-| [plum's blog][3]{:target="_blank"} | |
+| [plum's blog][3]{:target="_blank"} | | [Touko's diary][7]{:target="_blank"} | WHU触 |
+| [Typeblog][24]{:target="_blank"} | |
 
 ### 仰望菊苣区
 这里是从四处搜刮来的大牛们的（博客）地址。实力水平不分先后，反正都比现在的我强 :P (努力吧，少年，去创造奇迹)  
@@ -61,7 +62,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [4]: http://me.ursb.me
 [5]: http://www.yinwang.org
 [6]: http://hubojing.me
-
+[7]: https://touko.moe/
 [8]: http://dtysky.moe
 [9]: http://www.minterest.com
 [10]: https://www.byvoid.com
@@ -78,3 +79,4 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [21]: https://wwyqianqian.github.io
 [22]: https://www.tcdw.net
 [23]: https://blog.nfz.moe/
+[24]: https://typeblog.net/
