@@ -75,19 +75,19 @@ comments: true
         var _city = response.city;
         var _province = response.region;
         greetings: if(response.country === "CN") {
-            if (_city === undefined) {
+            if (_city === "") {
                 $("#visitor_ip").html("嗨~！来自中国"+_province+"的朋友 (＾o＾)ﾉ");
                 break greetings;
-            } else if ((_city === undefined) && (_province === undefined)) {
+            } else if ((_city === "") && (_province === "")) {
                 $("#visitor_ip").html("你好呀~！来自中国的朋友 (＾o＾)ﾉ");
                 break greetings;
             }
             $("#visitor_ip").html("嗨~！来自"+_province+"，"+_city+"的朋友 (＾o＾)ﾉ");
         } else {
-            if (_city === undefined) {
+            if (_city === "") {
                 $("#visitor_ip").html("Greetings! "+_province+"'s friend. Nice to have you HERE!! (＾o＾)ﾉ");
                 break greetings;
-            } else if ((_city === undefined) && (_province === undefined)) {
+            } else if ((_city === "") && (_province === "")) {
                 $("#visitor_ip").html("Greetings! Nice to have you HERE!! (＾o＾)ﾉ");
                 break greetings;
             }
