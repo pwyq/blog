@@ -13,7 +13,7 @@ Custom head.
             var italicResult = randomFortune.content.italics();
             var longSpace = "<span style=\"display:inline-block; width: 20px;\"></span>";
             if ( randomFortune.source === undefined ) {
-                $("#fortune").html( longSpace + randomFortune.content );
+                $("#fortune").html( longSpace + italicResult );
             } else {
                 $("#fortune").html( longSpace + italicResult + longSpace +
                                     "&mdash; " + randomFortune.source );
