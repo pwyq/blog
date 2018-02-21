@@ -15,7 +15,7 @@ Custom head.
             if ( randomFortune.source === undefined ) {
                 $("#fortune").html( longSpace + randomFortune.content );
             } else {
-                $("#fortune").html(longSpace + italicResult + longSpace +
+                $("#fortune").html( longSpace + italicResult + longSpace +
                                     "&mdash; " + randomFortune.source );
             }
             $("#fortune").velocity("slideDown", { duration: 400, easing: "easeOutQuad" });

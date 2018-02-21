@@ -72,11 +72,26 @@ comments: true
     pageRender();
 
     $.get("https://ipinfo.io", function(response) {
-        if(response.country == "CN") {
-            $("#visitor_ip").html("嗨~！来自"+response.region+"，"+response.city+"的朋友 (＾o＾)ﾉ");
-        }
-        else {
-            $("#visitor_ip").html("Greetings! Friend from "+response.city+", "+response.region+". Nice to have you HERE! (＾o＾)ﾉ");
+        var _city = response.city;
+        var _province = response.region;
+        greetings: if(response.country === "CN") {
+            if (_city === undefined) {
+                $("#visitor_ip").html("嗨~！来自中国"+_province+"的朋友 (＾o＾)ﾉ");
+                break greetings;
+            } else if ((_city === undefined) && (_province === undefined)) {
+                $("#visitor_ip").html("你好呀~！来自中国的朋友 (＾o＾)ﾉ");
+                break greetings;
+            }
+            $("#visitor_ip").html("嗨~！来自"+_province+"，"+_city+"的朋友 (＾o＾)ﾉ");
+        } else {
+            if (_city === undefined) {
+                $("#visitor_ip").html("Greetings! "+_province+"'s friend. Nice to have you HERE!! (＾o＾)ﾉ");
+                break greetings;
+            } else if ((_city === undefined) && (_province === undefined)) {
+                $("#visitor_ip").html("Greetings! Nice to have you HERE!! (＾o＾)ﾉ");
+                break greetings;
+            }
+            $("#visitor_ip").html("Greetings! Friend from "+_city+", "+_province+". Nice to have you HERE!! (＾o＾)ﾉ");
         }
     }, "jsonp");
 </script>

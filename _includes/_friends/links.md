@@ -32,9 +32,10 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [FiveYellowMice's Blog][19]{:target="_blank"} | 会发水表文的澳洲小朋友 | [WWY'S BLOG][21]{:target="_blank"} | 萌妹子QAQ |
+| [FiveYellowMice's Blog][19]{:target="_blank"} | 会发水表文的澳洲少年 | [WWY'S BLOG][21]{:target="_blank"} | 好耶！是萌妹子w |
 | [吐槽大王部落格][22]{:target="_blank"} | | [neoFelhz][23]{:target="_blank"} | 用心发博的萌萌前端Hexo博主|
-    
+| [plum's blog][3]{:target="_blank"} | |
+
 ### 仰望菊苣区
 这里是从四处搜刮来的大牛们的（博客）地址。实力水平不分先后，反正都比现在的我强 :P (努力吧，少年，去创造奇迹)  
 ~~虽然垠神说过不要神话任何人，可看见比自己厉害很多的人还是会不由自主地顶礼膜拜Orz~~  
@@ -43,14 +44,13 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
 | [Milo的游戏开发][1]{:target="_blank"} | 最近好像不再更新了呢... | [Phoenix Island][2]{:target="_blank"} | Arch Linux聚聚！|
-| [plum's blog][3]{:target="_blank"} | | [王垠][5]{:target="_blank"} | 他对某些事物的看法挺有意思的 | 
-| [技术宅男子][7]{:target="_blank"} | | [戴天宇][8]{:target="_blank"} | bilibili工程师。博客好看呐 |
+| [王垠][5]{:target="_blank"} | 他对某些事物的看法挺有意思的 | | |
+| [阮一峰][20]{:target="_blank"} | 经济学背景的杂食/前端向博主 | [戴天宇][8]{:target="_blank"} | bilibili工程师。博客好看呐 |
 | [Minterest][9]{:target="_blank"} | 疯狂blog的外国blogger | [BYVoid][10]{:target="_blank"} | 茶园大牛。膜Orz |
 | [胡伯涛][11]{:target="_blank"} | 茶...园(非blog) | [MaskRay][12]{:target="_blank"} | 算法（我视奸这么多THU的搞毛哦 |
 | [Yuxin's Blog][13]{:target="_blank"} | Machine Learning, Computer Vision (THU+CMU) | [Zeyu Zhao][14]{:target="_blank"} | ZJU+SFU->Harvard |
 | [Lijie Chen][15]{:target="_blank"} | 嘿嘿嘿，“青年计算机科学家”（非blog） | [依云's Blog][16]{:target="_blank"} | Orz |
 | [无证程序员PT桑][17]{:target="_blank"} | Linux | [Felix's Blog][18]{:target="_blank"} | Linux |
-| [阮一峰][20]{:target="_blank"} | 经济学背景的杂食/前端向博主 |
 
 
 
@@ -61,7 +61,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [4]: http://me.ursb.me
 [5]: http://www.yinwang.org
 [6]: http://hubojing.me
-[7]: https://itruke.com
+
 [8]: http://dtysky.moe
 [9]: http://www.minterest.com
 [10]: https://www.byvoid.com
