@@ -32,7 +32,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [FiveYellowMice's Blog][19]{:target="_blank"} | 会发水表文的澳洲少年 | [WWY'S BLOG][21]{:target="_blank"} | 好耶！是萌妹子w |
+| [FiveYellowMice's Blog][19]{:target="_blank"} | 会发水表文的澳洲在读少年 | [WWY'S BLOG][21]{:target="_blank"} | 好耶！是萌妹子w |
 | [吐槽大王部落格][22]{:target="_blank"} | | [neoFelhz][23]{:target="_blank"} | 用心发博的萌萌前端Hexo博主|
 | [plum's blog][3]{:target="_blank"} | | [Touko's diary][7]{:target="_blank"} | WHU触 |
 | [Typeblog][24]{:target="_blank"} | |

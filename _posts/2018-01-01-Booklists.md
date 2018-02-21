@@ -44,29 +44,29 @@ table th:nth-child(5) { width: 25%; }
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
 | ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3]{:target="_blank"} | Using C++; Entry Level |
 | ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4]{:target="_blank"} | More Advanced |
-| Algorithm, Data Structure | Textbook | **Introduction to Algorithms**; Thomas Cormen | [Link][9]{:target="_blank"} | CLRS |
+| Algorithm, Data Structure | Textbook | **Introduction to Algorithms**; Thomas Cormen | [link][9]{:target="_blank"} | CLRS |
 
 # To Read
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
-| Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | [Link][5]{:target="_blank"} | |
+| Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | [link][5]{:target="_blank"} | |
 | Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6]{:target="_blank"} | by [ZOOX][7]{:target="_blank"} |
 | Historical Fiction, Drama | Novel | **The Kite Runner**; Khaled Hosseini | | |
 | Nouveau roman | Novel | **The Lover (L'Amant)**; Marguerite Duras | | |
 | Realist, Erotic | Novel | **Madame Bovary**; Gustave Flaubert | | |
 | Realist | Novel | **Anna Karenina (Анна Каренина)**; Lev Tolstoy | | |
 | Hard science fiction | Novel | **A Fire Upon the Deep**; 	Vernor Vinge | | 中译：深渊上的火 |
-| 浪漫 | 赋 | **洛神赋**; 曹植 | [Link][8]{:target="_blank"} | |
-| OS | Textbook | **Operating System Concepts**; Silberschatz | [Link][11]{:target="_blank"} | |
+| 浪漫 | 赋 | **洛神赋**; 曹植 | [link][8]{:target="_blank"} | |
+| OS | Textbook | **Operating System Concepts**; Silberschatz | [link][11]{:target="_blank"} | |
 | Computer Network | Textbook | **Computer Networks**; Andrew Tanenbaum | [douban][10] | |
-| Programming | Textbook | **Structure and Interpretation of Computer Programs**; Gerald Sussman | [Link][12] | SICP; Read Ch. 1-3; Advanced |
+| Programming | Textbook | **Structure and Interpretation of Computer Programs**; Gerald Sussman | [link][12] | SICP; Read Ch. 1-3; Advanced |
+| Programming | Book | **The Little Schemer**; Daniel Friedman | | TLS; Recommend |
 | Calculus | Textbook | **微积分学教程（Курс дифференциального и интегрального исчисления）**; ригорий Михайлович Фихтенгольц | | 全书分三卷 |
-| 数分 | Textbook | **Principles of mathematical analysis**; Walter Rudin | [Link][13] | |
+| 数分 | Textbook | **Principles of mathematical analysis**; Walter Rudin | [link][13] | |
 | Math | "Novel" | **What Is Mathematics?**; Herbert Robbins | | 中译：什么是数学；Introductory |
 | Math | "Novel" | **Mathematical Thought from Ancient to Modern Times**; Morris Kline | | 中译：古今数学思想；Advanced |
 | Philosophy | Book | **Discipline and Punish (Surveiller et punir)**; Michel Foucault | | 中译：规训与惩罚 |
-| Programming | Book | **The Little Schemer**; Daniel Friedman | | TLS; Recommend |
 
 [1]: https://arxiv.org/abs/1606.06565
 [2]: https://arxiv.org/abs/1701.07274
