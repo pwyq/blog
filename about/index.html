@@ -83,6 +83,7 @@ comments: true
                 break greetings;
             }
             $("#visitor_ip").html("嗨~！来自"+_province+"，"+_city+"的朋友 (＾o＾)ﾉ");
+            $("#visitor_ip").html.append("（小声）如果你开了代理，预测的地点就会不准了哦"）;
         } else {
             if (_city === undefined) {
                 $("#visitor_ip").html("Greetings! "+_province+"'s friend. Nice to have you HERE!! (＾o＾)ﾉ");
@@ -92,6 +93,7 @@ comments: true
                 break greetings;
             }
             $("#visitor_ip").html("Greetings! Friend from "+_city+", "+_province+". Nice to have you HERE!! (＾o＾)ﾉ");
+            $("#visitor_ip").html.append(" I may guess a wrong location if you're using proxy o_O")
         }
     }, "jsonp");
 </script>

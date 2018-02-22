@@ -16,12 +16,13 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 本来是用来放小伙伴的链接的，然而现在却变成了我对一堆大牛的~~视奸~~膜拜列表了( ﾟ∀。)  
 所以，来几个人一起玩耍呐！我要求不高的!  
 -> 个人博客  
--> 原创内容90%+，技术向（如果你对某些非技术向领域有深入研究，也欢迎哦）  
+-> 原创内容90%+，技术向（如果你对某些非技术向领域有研究，也欢迎哦）  
 -> 全站启用`HTTPS` (有`HSTS`就更棒啦)
 
 ---
 
 ### 友链区
+传播友谊的魔法
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
@@ -44,13 +45,13 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [Milo的游戏开发][1]{:target="_blank"} | 最近好像不再更新了呢... | [Phoenix Island][2]{:target="_blank"} | Arch Linux聚聚！|
-| [王垠][5]{:target="_blank"} | 他对某些事物的看法挺有意思的 | | |
+| [Milo的游戏开发][1]{:target="_blank"} [miloyip][27]{:target="_blank"} | 第一个不再更新了呢... | [Phoenix Island][2]{:target="_blank"} | Arch Linux聚聚！|
+| [王垠][5]{:target="_blank"} | 他对某些事物的看法挺有意思的 | [岛娘][26]{:target="_blank"} | 算法 |
 | [阮一峰][20]{:target="_blank"} | 经济学背景的杂食/前端向博主 | [戴天宇][8]{:target="_blank"} | bilibili工程师。博客好看呐 |
 | [Minterest][9]{:target="_blank"} | 疯狂blog的外国blogger | [BYVoid][10]{:target="_blank"} | 茶园大牛。膜Orz |
 | [胡伯涛][11]{:target="_blank"} | 茶...园(非blog) | [MaskRay][12]{:target="_blank"} | 算法（我视奸这么多THU的搞毛哦 |
-| [Yuxin's Blog][13]{:target="_blank"} | Machine Learning, Computer Vision (THU+CMU) | [Zeyu Zhao][14]{:target="_blank"} | ZJU+SFU->Harvard |
-| [Lijie Chen][15]{:target="_blank"} | 嘿嘿嘿，“青年计算机科学家”（非blog） | [依云's Blog][16]{:target="_blank"} | Orz |
+| [Yuxin's Blog][13]{:target="_blank"} | Machine Learning, Computer Vision (THU->CMU) | [Zeyu Zhao][14]{:target="_blank"} | ZJU+SFU->Harvard |
+| [Lijie Chen][15]{:target="_blank"} [WJMZBMR][25]{:target="_blank"} | 青年计算机科学家 | [依云's Blog][16]{:target="_blank"} | Orz |
 | [无证程序员PT桑][17]{:target="_blank"} | Linux | [Felix's Blog][18]{:target="_blank"} | Linux |
 
 
@@ -80,3 +81,6 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [22]: https://www.tcdw.net
 [23]: https://blog.nfz.moe/
 [24]: https://typeblog.net/
+[25]: http://wjmzbmr.com/
+[26]: http://www.shuizilong.com/house/
+[27]: http://miloyip.com/
