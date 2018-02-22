@@ -67,6 +67,7 @@ table th:nth-child(5) { width: 25%; }
 | Math | "Novel" | **What Is Mathematics?**; Herbert Robbins | | 中译：什么是数学；Introductory |
 | Math | "Novel" | **Mathematical Thought from Ancient to Modern Times**; Morris Kline | | 中译：古今数学思想；Advanced |
 | Philosophy | Book | **Discipline and Punish (Surveiller et punir)**; Michel Foucault | | 中译：规训与惩罚 |
+| Fiction | Short Story | **Boule de Suif**; Guy de Maupassant | | 中译：羊脂球；作者：莫泊桑 |
 
 [1]: https://arxiv.org/abs/1606.06565
 [2]: https://arxiv.org/abs/1701.07274
