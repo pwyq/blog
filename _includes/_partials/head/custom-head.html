@@ -6,6 +6,7 @@ Custom head.
 
         $(".site-nav-toggle").after($("<div>").attr("id", "fortune").css("display", "none"));
 
+        var _sel = $("#fortune");
         $.getJSON( "https://api.github.com/gists/dff8ba5bcb48bd5ea3a8cc4ad2cc456c", function(data) {
 
             var fortunes = JSON.parse(data.files["fortunes.json"].content);
@@ -13,12 +14,12 @@ Custom head.
             var italicResult = randomFortune.content.italics();
             var longSpace = "<span style=\"display:inline-block; width: 20px;\"></span>";
             if ( randomFortune.source === undefined ) {
-                $("#fortune").html( longSpace + italicResult );
+                _sel.html( longSpace + italicResult );
             } else {
-                $("#fortune").html( longSpace + italicResult + longSpace +
+                _sel.html( longSpace + italicResult + longSpace +
                                     "&mdash; " + randomFortune.source );
             }
-            $("#fortune").velocity("slideDown", { duration: 400, easing: "easeOutQuad" });
+            _sel.velocity("slideDown", { duration: 400, easing: "easeOutQuad" });
         });
     });
 </script>
