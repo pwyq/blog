@@ -91,14 +91,16 @@ comments: true
         var _popup = $("#popup");
         var _location = "";
         var unknown = 0;
+        // In English, correct order should be `city, province, country`; but sometimes some visitor doesn't have city,
+        // which will be hard to manage the punctuation flow.
         if ((_country !== undefined) && (_country !== "")) {
             _location += getCountryName(_country);
         } else { unknown += 1; }
         if ((_province !== undefined) && (_province !== "")) {
-            _location += (", " + _province);
+            _location += ("->" + _province);
         } else { unknown += 1; }
         if ((_city !== undefined) && (_city !== "")) {
-            _location += (", " + _city);
+            _location += ("->" + _city);
         } else { unknown += 1; }
         greetings: if(response.country === "CN") {
             if (unknown === 3) {
@@ -123,12 +125,8 @@ comments: true
         }
     }, "jsonp");
 
-    insertText.onmouseover = function () {
-        document.getElementById('popup').style.display = 'block';
-    };
-    insertText.onmouseout = function () {
-        document.getElementById('popup').style.display = 'none';
-    }
+    insertText.onmouseover = function () { document.getElementById('popup').style.display = 'block'; };
+    insertText.onmouseout  = function () { document.getElementById('popup').style.display = 'none'; }
 </script>
 
 {% if page.comments %}
