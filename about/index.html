@@ -84,30 +84,30 @@ comments: true
         var _country = response.country;
         var _divs = $("#visitor_ip");
         var _location = "";
-        var unknow = 0;
+        var unknown = 0;
         if ((_country !== undefined) && (_country !== "")) {
             _location += getCountryName(_country);
-        } else { unknow += 1; }
+        } else { unknown += 1; }
         if ((_province !== undefined) && (_province !== "")) {
             _location += (", " + _province);
-        } else { unknow += 1; }
+        } else { unknown += 1; }
         if ((_city !== undefined) && (_city !== "")) {
             _location += (", " + _city);
-        } else { unknow += 1; }
+        } else { unknown += 1; }
         greetings: if(response.country === "CN") {
-            if (unknow === 3) {
-                _divs.html("检测到一只未知等级满级的生物！你现在上网的地点/手段一定很特殊吧！战斗力：5.01"); break greetings;
+            if (unknown === 3) {
+                _divs.html("检测到一只战斗力高达五点零一的生物！你现在上网的地点/手段一定很特殊吧！"); break greetings;
             } else {
                 _divs.html("哟！来自" + _location + "的朋友 (＾o＾)ﾉ");
             }
-            // _divs.html().append("（小声）如果你开了代理，预测的地点就会不准了哦"）;
+            var cn_append = "（小声）如果你开了代理，预测的地点就会不准了哦";
         } else {
-            if (unknow === 3) {
+            if (unknown === 3) {
                 _divs.html("<i>Cannot locate you.</i> Looks like you are using some special proxy. Good job, stranger."); break greetings;
             } else {
                 _divs.html("Greetings! Friend from " + _location +". Nice to have you HERE!! (＾o＾)ﾉ");
             }
-            // _divs.html().append(" I may guess a wrong location if you're using proxy o_O");
+            var en_append = " I may guess a wrong location if you're using proxy o_O";
         }
     }, "jsonp");
 </script>
