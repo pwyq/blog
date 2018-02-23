@@ -6,6 +6,20 @@ comments: true
 <head>
     <link rel="stylesheet" type="text/css" href="/assets/css/about.css">
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <style>
+        #popup {
+            width: 400px;
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            padding: 5px 0;
+            border-radius: 6px;
+            position: absolute;
+            z-index: 1;
+            top: 9%;
+            left: 30%;
+        }
+    </style>
 </head>
 
 <!-- Language Selector -->
@@ -102,6 +116,7 @@ comments: true
         if ((_city !== undefined) && (_city !== "")) {
             _location += ("->" + _city);
         } else { unknown += 1; }
+        _location = _location.bold();
         greetings: if(response.country === "CN") {
             if (unknown === 3) {
                 _divs.html("<i>警告！定位用户失败！</i>检测到一只战斗力高达五点零一的生物！你现在上网的地点/手段一定很特殊吧！"); break greetings;
