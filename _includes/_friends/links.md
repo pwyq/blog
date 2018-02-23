@@ -13,8 +13,10 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 -> original posts account for 90%+ and tech-oriented  
 -> Enables `HTTPS` for all pages （`HSTS` is better but optional)
 
-本来是用来放小伙伴的链接的，然而现在却变成了我对一堆大牛的~~视奸~~膜拜列表了( ﾟ∀。)  
-所以，来几个人一起玩耍呐！我要求不高的!  
+=> e-mail: meet[dot]yanqing[dot]wu[at]gmail[dot]com
+
+本来是用来放小伙伴的链接的，然而现在却变成了对一堆大牛的~~视奸~~膜拜列表了( ﾟ∀。)  
+所以，来几个人一起玩耍呐！人家要求不高的!  
 -> 个人博客  
 -> 原创内容90%+，技术向（如果你对某些非技术向领域有研究，也欢迎哦）  
 -> 全站启用`HTTPS` (有`HSTS`就更棒啦)
