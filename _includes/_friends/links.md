@@ -62,7 +62,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [3]: https://plumz.me
 [4]: http://me.ursb.me
 [5]: http://www.yinwang.org
-[6]: http://hubojing.me
+[6]: http://hubojing.github.io/
 [7]: https://touko.moe/
 [8]: http://dtysky.moe
 [9]: http://www.minterest.com
