@@ -78,7 +78,7 @@ keywords: "Jekyll, NexT, pwyq, Yanqing"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss: false
+rss:
 
 # Specify the date when the site was setup
 since: 2016
@@ -99,7 +99,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
@@ -226,7 +226,6 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Booklist: book
-#  Weibo: weibo
 
 
 # Sidebar Avatar
@@ -441,7 +440,7 @@ google_analytics: UA-89371373-1
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
