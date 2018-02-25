@@ -50,11 +50,6 @@
 @import "post-eof";
 @import "post-gallery";
 
-@import "post-reward";
-@if  jekyll-config('alipay') or jekyll-config('wechatpay') {
-  @include post-reward;
-}
-
 @import "post-copyright";
 @if jekyll-config('post_copyright.enable') {
   @include post-copyright;
