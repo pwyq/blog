@@ -116,13 +116,6 @@
     duoshuo: {
       userId: '{{ site.duoshuo_info.user_id | default: }}',
       author: '{{ site.duoshuo_info.admin_nickname | default: __.author }}'
-    },
-    algolia: {
-      applicationID: '{{ site.algolia.applicationID }}',
-      apiKey: '{{ site.algolia.apiKey }}',
-      indexName: '{{ site.algolia.indexName }}',
-      hits: {{ site.algolia_search.hits | jsonify }},
-      labels: {{ site.algolia_search.labels | jsonify }}
     }
   };
 </script>
