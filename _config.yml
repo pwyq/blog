@@ -393,16 +393,7 @@ changyan:
 # You can get your uid from https://livere.com/insight/myCode (General web site)
 #livere_uid: your uid
 
-# Baidu Share
-# Available value:
-#    button | slide
-# Warning: Baidu Share does not support https.
-#baidushare:
-##  type: button
-
 # Share
-#jiathis:
-# Warning: JiaThis does not support https.
 add_this_id: ra-598e8387d94319cb
 
 # Share
