@@ -4,7 +4,7 @@
 
 
 
-$scheme    : '{{ site.scheme | default: Muse }}';
+$scheme    : 'Mist';
 $variables : base $scheme custom;
 $mixins    : base $scheme custom;
 
@@ -73,13 +73,13 @@ $jekyll-config-map : (
 // Variables Layer
 // --------------------------------------------------
 @import "_variables/base";
-@import "_variables/{{ site.scheme | default: Muse }}";
+@import "_variables/Mist";
 @import "_variables/custom";
 
 // Mixins Layer
 // --------------------------------------------------
 @import "_mixins/base";
-@import "_mixins/{{ site.scheme | default: Muse }}";
+@import "_mixins/Mist";
 @import "_mixins/custom";
 
 
@@ -99,7 +99,7 @@ $jekyll-config-map : (
 
 // Schemes Layer
 // --------------------------------------------------
-@import "_schemes/{{ site.scheme | default: Muse }}/index";
+@import "_schemes/Mist/index";
 
 
 

@@ -35,10 +35,6 @@
   {% assign js_vendors = js_vendors | append: ', ' | append: 'canvas_sphere: three/canvas_sphere.min.js' %}
 {% endif %}
 
-{% if site.canvas_ribbon and site.scheme == 'Pisces'%}
-  {% assign js_vendors = js_vendors | append: ', ' | append: 'canvas_ribbon: canvas-ribbon/canvas-ribbon.js' %}
-{% endif %}
-
 {% assign js_vendors = js_vendors | split: ", " | uniq %}
 {% for js_vendor in js_vendors %}
   {% assign name_internal = js_vendor | strip | split: ": " %}

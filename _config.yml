@@ -144,10 +144,7 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
 scheme: Mist
-#scheme: Pisces
-#
 
 # ---------------------------------------------------------------
 # Font Settings
@@ -326,16 +323,6 @@ post_copyright:
 # ---------------------------------------------------------------
 # Misc Theme Settings
 # ---------------------------------------------------------------
-
-# Custom Logo.
-# !!Only available for Default Scheme currently.
-# Options:
-#   enabled: [true/false] - Replace with specific image
-#   image: url-of-image   - Images's url
-custom_logo:
-  enabled: false
-  image:
-
 
 # Code Highlight theme
 # Available value:
