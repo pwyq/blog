@@ -133,7 +133,6 @@ menu_icons:
   archives: archive
   friends: handshake-o
 #  categories: th
-#  schedule: calendar
 #  tags: tags
 #  sitemap: sitemap
 #  commonweal: heartbeat
@@ -463,22 +462,6 @@ busuanzi_count:
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
 baidu_push: false
 
-# Google Calendar
-# Share your recent schedule to others via calendar page
-#
-# API Documentation:
-# https://developers.google.com/google-apps/calendar/v3/reference/events/list
-calendar:
-  enable: false
-  calendar_id: <required>
-  api_key: <required>
-  orderBy: startTime
-  offsetMax: 24
-  offsetMin: 4
-  timeZone:
-  showDeleted: false
-  singleEvents: true
-  maxResults: 250
 
 # Local search
 local_search:
