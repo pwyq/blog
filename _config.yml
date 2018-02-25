@@ -361,9 +361,6 @@ han: false
 # Baidu Analytics ID
 #baidu_analytics:
 
-# Duoshuo ShortName
-#duoshuo_shortname:
-
 # Disqus
 # hide: true  - hide comments (visitors need to click to load the comments)
 #       false - default
@@ -396,9 +393,6 @@ changyan:
 # Share
 add_this_id: ra-598e8387d94319cb
 
-# Share
-#duoshuo_share: true
-
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
 google_site_verification: YuQJL1vK-E_gzpdn548UT4XOLqgo4IbK0rCrgE5wAKA
@@ -416,15 +410,6 @@ google_analytics: UA-89371373-1
 # Application Insights
 # See https://azure.microsoft.com/en-us/services/application-insights/
 # application_insights:
-
-# Make duoshuo show UA
-# user_id must NOT be null when admin_enable is true!
-# you can visit http://dev.duoshuo.com get duoshuo user id.
-duoshuo_info:
-  ua_enable: false
-  admin_enable: false
-  user_id: 0
-  #admin_nickname: Author
 
 
 # Facebook SDK Support.

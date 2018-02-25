@@ -1,10 +1,6 @@
 {% if page.comments %}
   <div class="comments" id="comments">
-    {% if site.duoshuo and site.duoshuo.shortname or site.duoshuo_shortname %}
-      <div class="ds-thread" data-thread-key="{{ page.url | relative_url }}"
-           data-title="{{ page.title }}" data-url="{{ page.url | absolute_url }}">
-      </div>
-    {% elsif site.facebook_sdk.enable and site.facebook_comments_plugin.enable %}
+    {% if site.facebook_sdk.enable and site.facebook_comments_plugin.enable %}
       <div class="fb-comments"
            data-href="{{ page.url | absolute_url }}"
            data-numposts="{{ site.facebook_comments_plugin.num_of_posts }}"

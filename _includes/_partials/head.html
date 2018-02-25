@@ -112,11 +112,7 @@
     scheme: '{{ site.scheme }}',
     sidebar: {{ site.sidebar | jsonify }},
     fancybox: {{ site.fancybox }},
-    motion: {{ site.use_motion }},
-    duoshuo: {
-      userId: '{{ site.duoshuo_info.user_id | default: }}',
-      author: '{{ site.duoshuo_info.admin_nickname | default: __.author }}'
-    }
+    motion: {{ site.use_motion }}
   };
 </script>
 
