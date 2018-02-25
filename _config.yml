@@ -60,10 +60,11 @@ feed:
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
-plugins_dir:
+plugins:
  - jemoji
  - jekyll-sitemap
  - jekyll-feed
+ - jekyll-last-modified-at
 
 # ---------------------------------------------------------------
 # Site Information Settings
@@ -73,7 +74,7 @@ plugins_dir:
 favicon: /assets/images/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT, pwyq, Yanqing"
+keywords: "Jekyll, PWYQ, Yanqing"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.

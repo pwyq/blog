@@ -320,6 +320,11 @@
     </div>
 
     <div>
+      <br>
+      <p><i>Last modified at: {{ page.last_modified_at }}</i></p>
+    </div>
+
+    <div>
       {% unless is_index %}
         {% include _macro/wechat-subscriber.html %}
       {% endunless %}
