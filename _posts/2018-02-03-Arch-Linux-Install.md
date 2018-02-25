@@ -10,8 +10,9 @@ tags:
 
 My Ubuntu OS was blown up three days ago (ㄒoㄒ).  
 
-Long story short, I stuck in an infinite and helpless login loop in Ubuntu, and there is no feasible workaround to address the problem (with 2-hour intensive googling). 
-Well, since I need to re-install my system anyway, why not try something new.
+Long story short, I stuck in an infinite and helpless login loop in Ubuntu, and there was no feasible workaround to address the problem (with 2-hour intensive googling). 
+Well, since I need to re-install my operating system anyway, why not try something new.
+
 Though I've spent more than one year on Ubuntu Linux (daily use and at work), it's still took me two nights + one day to configure everything in Arch.
 
 > I would definitely NOT recommend a total Linux newbie to try *Arch Linux*. IT'S TOO "LIGHT"!
@@ -21,7 +22,7 @@ Though I've spent more than one year on Ubuntu Linux (daily use and at work), it
 Since there are plenty of decent and mature online tutorials, it would be pointless for me to reinvent the wheel.
 I will recommend some of them below that I followed with.  
 **Notes**:  
-> 1. Make sure you understand how each command works (use `man <cmd>` or `<cmd> --help` to display commands' descriptions)
+> 1. Make sure you understand how each command works (use `man <cmd>` or `<cmd> --help` to display commands' description)
 > 2. *Always* refer to [Arch Wiki][6]{:target="_blank"} when you are confused
 
 
@@ -37,7 +38,7 @@ I will recommend some of them below that I followed with.
 
 ### Everything works out of box
 My installation was really smooth, thanks to above authors' hard work on their posts.
-I'd like to thank Thinkpad as well, since it doesn't require extra time to configure hardware ^_^
+I'd like to thank Thinkpad as well, since it doesn't require extra time to configure any hardware ^_^
 
 My arch-linux configurations:
 
@@ -89,8 +90,7 @@ All the scripts either worked on current run but fails to load after a reboot,
 or didn't auto-load/parse due to low priority in `KDE Plasama`,
 or cost me extra few seconds to wait on login...
 
-Again, **go through settings that available on GUI first**! Just like read an instruction before using a product.
-~~I know lots of people skip this, including me.~~
+Again, **go through settings that available on GUI first**! Just like reading an instruction before using a product (I know lots of people skip this, including me...).
 
 
 ### Changing Weird Font on Google Chrome
@@ -99,12 +99,12 @@ I change my web browser to Google Chrome as I have a lot of important bookmarks 
 
 Anyway, the font can be set in Chrome built-in settings.
 
-`Settings -> Advanced -> Customized Fonts`
+`Open Chrome Browser -> Settings -> Advanced -> Customized Fonts`
 
 
 ### HiDPI Settings for High Resolution Screen
 If you're using high resolution screen, the first thing you will complain is that, everything is surprisingly tiny!
-The font size is like 1-2 mm. 
+The font size is around 1-2 mm. 
 
 I copied the KDE settings below, by [Arch wiki][7]{:target="_blank"}:
 
@@ -157,12 +157,13 @@ There are a lot third parties application can also achieve this (just google it!
 
 For Main Screen:
 
-    1. right click anywhere of main screen -> Configure Desktop  
-    2. choose a file
-
+```
+1. right click anywhere of main screen -> Configure Desktop  
+2. choose a file
+```
 For Login Screen:
 
-    1. System Settings -> Start up and Shutdown -> Login Screen (SDDM) -> Background
+`System Settings -> Start up and Shutdown -> Login Screen (SDDM) -> Background`
 
 
 ## Recommended Software (Updating)
