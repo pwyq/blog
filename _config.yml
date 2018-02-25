@@ -373,12 +373,6 @@ disqus:
 # Gentie productKey
 #gentie_productKey:
 
-# changyan
-changyan:
-  enable: false
-  appid:
-  appkey:
-
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
 #youyan_uid: your uid
