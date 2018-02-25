@@ -370,9 +370,6 @@ disqus:
   shortname: pwyqblog
   count: false
 
-# Gentie productKey
-#gentie_productKey:
-
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
 #youyan_uid: your uid
