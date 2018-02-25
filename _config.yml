@@ -370,10 +370,6 @@ disqus:
   shortname: pwyqblog
   count: false
 
-# Support for LiveRe comments system.
-# You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
-
 # Share
 add_this_id: ra-598e8387d94319cb
 
