@@ -358,9 +358,6 @@ mathjax:
 # Han Support docs: https://hanzi.pro/
 han: false
 
-# Swiftype Search API Key
-#swiftype_key:
-
 # Baidu Analytics ID
 #baidu_analytics:
 
