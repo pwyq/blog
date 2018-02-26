@@ -5,19 +5,11 @@
   <span class="with-love">
     <i class="fa fa-{{ site.authoricon }}"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">{{ site.author }}  &nbsp; &nbsp;|  &nbsp; &nbsp;</span>
+  <span class="author" itemprop="copyrightHolder">{{ site.author }}</span>
   <!--`&nbsp;` is the extra whitespace-->
   {% if site.copyright %}
   <div class="powered-by">
-    {{ __.footer.powered | replace: '%s', '<a class="theme-link" href="https://jekyllrb.com" target="_blank">Jekyll</a>') }}
-  </div>
-
-  <div class="theme-info">
-    {{ __.footer.theme }} -
-    <a class="theme-link" href="https://github.com/simpleyyt/jekyll-theme-next" target="_blank">
-      NexT.{{ site.scheme }}
-    </a>
-    - Refactored by PWYQ
+    &nbsp; | &nbsp; Powered by <a class="theme-link" href="https://jekyllrb.com" target="_blank">Jekyll</a>
   </div>
   {% endif %}
 </div>
