@@ -292,12 +292,6 @@ save_scroll: true
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true
 
-# Automatically Excerpt. Not recommend.
-# Please use <!-- more --> in the post to control excerpt accurately.
-auto_excerpt:
-  enable: false
-  length: 150
-
 # Post meta display settings
 post_meta:
   item_text: true
@@ -308,7 +302,6 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: false
   min2read: true
   separated_meta: true
 
@@ -346,12 +339,12 @@ han: false
 
 # Disqus
 # hide: true  - hide comments (visitors need to click to load the comments)
+#             - count need to be false when hide is true
 #       false - default
 disqus:
   enable: true
   hide: true
   shortname: pwyqblog
-  count: false
 
 # Share
 add_this_id: ra-598e8387d94319cb

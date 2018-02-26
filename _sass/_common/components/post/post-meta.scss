@@ -44,6 +44,6 @@
   }
 }
 
-.posts-expand .post-comments-count {
+.posts-expand {
   @include mobile() { display: none; }
 }

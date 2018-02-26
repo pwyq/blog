@@ -114,43 +114,10 @@
             </span>
           {% endif %}
 
-          {% if post.comments %}
-            {% if site.disqus.enable and site.disqus.count %}
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="{{ post.url | relative_url }}#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="{{ post.url }}" itemprop="commentCount"></span>
-                </a>
-              </span>
-            {% endif %}
-          {% endif %}
-
-          {% if site.post_wordcount.wordcount or site.post_wordcount.min2read %}
+          {% if site.post_wordcount.min2read %}
             <div class="post-wordcount">
-              {% if site.post_wordcount.wordcount %}
-                {% unless site.post_wordcount.separated_meta %}
-                  <span class="post-meta-divider">|</span>
-                {% endunless %}
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-file-word-o"></i>
-                </span>
-                {% if site.post_wordcount.item_text %}
-                  <span class="post-meta-item-text">{{ __.post.wordcount }}</span>
-                {% endif %}
-                <span title="{{ __.post.wordcount }}">
-                  {{ post.content | number_of_words }}
-                </span>
-              {% endif %}
-
-              {% if site.post_wordcount.wordcount and site.post_wordcount.min2read %}
-                <span class="post-meta-divider">|</span>
-              {% endif %}
-
               {% if site.post_wordcount.min2read %}
+                <span class="post-meta-divider">|</span>
                 <span class="post-meta-item-icon">
                   <i class="fa fa-clock-o"></i>
                 </span>
@@ -217,18 +184,6 @@
               {{ __.post.read_more }} &raquo;
             </a>
           </div>
-          <!--/noindex-->
-        {% elsif site.auto_excerpt.enable %}
-          {% assign content = post.content | strip_html %}
-          {{ content | slice: 0, site.auto_excerpt.length }}
-          {% if content.size > site.auto_excerpt.length %}...{% endif %}
-          <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="{{ post.url | relative_url }}{% if site.scroll_to_more %}#{{ __.post.more }}{% endif %}" rel="contents">
-              {{ __.post.read_more }} &raquo;
-            </a>
-          </div>
-          <!--/noindex-->
         {% else %}
           {% if post.type == 'picture' %}
             <a href="{{ post.url | relative_url }}">{{ post.content }}</a>
