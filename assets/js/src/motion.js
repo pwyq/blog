@@ -278,13 +278,6 @@ $(document).ready(function () {
 
         $post.velocity('transition.slideDownIn', postMotionOptions);
       }
-    },
-
-    sidebar: function (integrator) {
-      if (CONFIG.sidebar.display === 'always') {
-        NexT.utils.displaySidebar();
-      }
-      integrator.next();
     }
   };
 

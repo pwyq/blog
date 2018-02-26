@@ -16,24 +16,6 @@
 {% if site.fancybox %}
   {% assign js_vendors = js_vendors | append: ', ' | append: 'fancybox: fancybox/source/jquery.fancybox.pack.js?v=2.1.5' %}
 {% endif %}
-{% if site.canvas_nest %}
-  {% assign js_vendors = js_vendors | append: ', ' | append: 'canvas_nest: canvas-nest/canvas-nest.min.js' %}
-{% endif %}
-
-{% if site.three_waves %}
-  {% assign js_vendors = js_vendors | append: ', ' | append: 'three: three/three.min.js' %}
-  {% assign js_vendors = js_vendors | append: ', ' | append: 'three_waves: three/three-waves.min.js' %}
-{% endif %}
-
-{% if site.canvas_lines %}
-  {% assign js_vendors  = js_vendors | append: ', ' | append: 'three: three/three.min.js' %}
-  {% assign js_vendors  = js_vendors | append: ', ' | append: 'canvas_lines: three/canvas_lines.min.js' %}
-{% endif %}
-
-{% if site.canvas_sphere %}
-  {% assign js_vendors = js_vendors | append: ', ' | append: 'three: three/three.min.js' %}
-  {% assign js_vendors = js_vendors | append: ', ' | append: 'canvas_sphere: three/canvas_sphere.min.js' %}
-{% endif %}
 
 {% assign js_vendors = js_vendors | split: ", " | uniq %}
 {% for js_vendor in js_vendors %}

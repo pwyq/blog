@@ -119,7 +119,6 @@ menu:
 #  sitemap: /sitemap.xml
 #  commonweal: /404.html
 
-
 # Enable/Disable menu icons.
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -136,8 +135,6 @@ menu_icons:
 #  tags: tags
 #  sitemap: sitemap
 #  commonweal: heartbeat
-
-
 
 # ---------------------------------------------------------------
 # Scheme Settings
@@ -192,22 +189,17 @@ font:
     family:
     size:
 
-
-
-
 # ---------------------------------------------------------------
 # Sidebar Settings
 # ---------------------------------------------------------------
 
-
 # Social Links
 # Key is the link label showing to end users.
-# Value is the target link (E.g. GitHub: https://github.com/iissnan)
+# Value is the target link
 social:
   GitHub: https://github.com/pwyq
   Twitter: https://twitter.com/P_WYQ
   Booklist: https://www.pwyqspace.com/study/2018/01/01/Booklists/
-
 
 # Social Links Icons
 # Icon Mapping:
@@ -222,10 +214,8 @@ social_icons:
   Twitter: twitter
   Booklist: book
 
-
 # Sidebar Avatar
 avatar: /assets/images/author_dog.png
-
 
 # Table Of Contents in the Sidebar
 toc:
@@ -237,28 +227,21 @@ toc:
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false
 
-
 # Creative Commons 4.0 International License.
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 creative_commons: by-nc-sa
-#creative_commons:
-
 
 sidebar:
   # Sidebar Position, available value: left | right
   position: left
-#  position: right
+#  position: right > weilrd
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
-  #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
-  #  - remove  Totally remove sidebar including sidebar toggle.
   display: post
-  #display: always
   #display: hide
-  #display: remove
 
   # Sidebar offset from top menubar in pixels.
   offset: 12
@@ -299,8 +282,6 @@ post_copyright:
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-
-
 # ---------------------------------------------------------------
 # Misc Theme Settings
 # ---------------------------------------------------------------
@@ -310,7 +291,6 @@ post_copyright:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
 highlight_theme: night bright
-
 
 # ---------------------------------------------------------------
 # Third Party Services Settings
@@ -368,38 +348,8 @@ use_motion: true
 fancybox: true
 
 # Progress bar in the top during page loading.
-# Themes list:
-#pace-theme-big-counter
-#pace-theme-bounce
-#pace-theme-barber-shop # out
-#pace-theme-center-atom # Too fancy
-#pace-theme-center-circle
-#pace-theme-center-radar
-#pace-theme-center-simple
-#pace-theme-corner-indicator
-#pace-theme-fill-left
-#pace-theme-flash
-#pace-theme-loading-bar
-#pace-theme-mac-osx
-#pace-theme-minimal
 pace: true
 pace_theme: pace-theme-flash
-
-# Canvas-nest
-canvas_nest: false
-
-# three_waves
-three_waves: false
-
-# canvas_lines
-canvas_lines: false
-
-# canvas_sphere
-canvas_sphere: false
-
-# Only fit scheme Pisces
-# Canvas-ribbon
-canvas_ribbon: false
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
@@ -451,33 +401,9 @@ vendors:
   pace:
   pace_css:
 
-  # Internal version: 1.0.0
-  # https://github.com/hustcc/canvas-nest.js
-  canvas_nest:
-
-  # three
-  three:
-
-  # three_waves
-  # https://github.com/jjandxa/three_waves
-  three_waves:
-
-  # three_waves
-  # https://github.com/jjandxa/canvas_lines
-  canvas_lines:
-
-  # three_waves
-  # https://github.com/jjandxa/canvas_sphere
-  canvas_sphere:
-
-  # Internal version: 1.0.0
-  # https://github.com/zproo/canvas-ribbon
-  canvas_ribbon:
-
   # Internal version: 3.3.0
   # https://github.com/ethantw/Han
   han:
-
 
 # Assets
 css: assets/css
