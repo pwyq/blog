@@ -373,11 +373,6 @@ google_analytics: UA-89371373-1
 # CNZZ count
 #cnzz_siteid:
 
-# Application Insights
-# See https://azure.microsoft.com/en-us/services/application-insights/
-# application_insights:
-
-
 # Facebook SDK Support.
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
