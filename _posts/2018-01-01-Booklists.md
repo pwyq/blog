@@ -45,19 +45,19 @@ table th:nth-child(5) { width: 25%; }
 | ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3]{:target="_blank"} | Using C++; Entry Level |
 | ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4]{:target="_blank"} | More Advanced |
 | Algorithm, Data Structure | Textbook | **Introduction to Algorithms**; Thomas Cormen | [link][9]{:target="_blank"} | CLRS |
+| Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6]{:target="_blank"} | by [ZOOX][7]{:target="_blank"} |
 
 # To Read
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
 | Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | [link][5]{:target="_blank"} | |
-| Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6]{:target="_blank"} | by [ZOOX][7]{:target="_blank"} |
 | Historical Fiction, Drama | Novel | **The Kite Runner**; Khaled Hosseini | | |
 | Nouveau roman | Novel | **The Lover (L'Amant)**; Marguerite Duras | | |
 | Realist, Erotic | Novel | **Madame Bovary**; Gustave Flaubert | | |
 | Realist | Novel | **Anna Karenina (Анна Каренина)**; Lev Tolstoy | | |
 | Hard science fiction | Novel | **A Fire Upon the Deep**; 	Vernor Vinge | | 中译：深渊上的火 |
-| 浪漫 | 赋 | **洛神赋**; 曹植 | [link][8]{:target="_blank"} | |
+| 浪漫 | 赋 | **洛神赋**; 曹植 | [link][8]{:target="_blank"} | 背诵 |
 | OS | Textbook | **Operating System Concepts**; Silberschatz | [link][11]{:target="_blank"} | |
 | Computer Network | Textbook | **Computer Networks**; Andrew Tanenbaum | [douban][10] | |
 | Programming | Textbook | **Structure and Interpretation of Computer Programs**; Gerald Sussman | [link][12] | SICP; Read Ch. 1-3; Advanced |
@@ -68,6 +68,11 @@ table th:nth-child(5) { width: 25%; }
 | Math | "Novel" | **Mathematical Thought from Ancient to Modern Times**; Morris Kline | | 中译：古今数学思想；Advanced |
 | Philosophy | Book | **Discipline and Punish (Surveiller et punir)**; Michel Foucault | | 中译：规训与惩罚 |
 | Fiction | Short Story | **Boule de Suif**; Guy de Maupassant | | 中译：羊脂球；作者：莫泊桑 |
+| Romance Fiction | Short Story | **伊豆的舞女 (伊豆の踊子)**; 川端康成 | | |
+| Romance Fiction | Novel | **古都 (古都)**; 川端康成 | | |
+| Romance Fiction | Novel | **潮骚 (潮騒)**; 三島由紀夫 | | |
+| Romance Fiction | Novel | **绝唱 (絶唱)**; 大江賢次 | | |
+| Romance Fiction | Novel | **春琴抄 (春琴抄)**; 谷崎潤一郎 | | |
 
 [1]: https://arxiv.org/abs/1606.06565
 [2]: https://arxiv.org/abs/1701.07274
