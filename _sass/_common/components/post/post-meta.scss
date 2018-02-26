@@ -43,7 +43,3 @@
     display: none;
   }
 }
-
-.posts-expand {
-  @include mobile() { display: none; }
-}
