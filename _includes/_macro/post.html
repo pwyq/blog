@@ -129,27 +129,6 @@
             {% endif %}
           {% endif %}
 
-          {% comment %} LeanCould PageView {% endcomment %}
-          {% if site.leancloud_visitors.enable %}
-             <span id="{{ post.url | relative_url }}" class="leancloud_visitors" data-flag-title="{{ post.title }}">
-               <span class="post-meta-divider">|</span>
-               <span class="post-meta-item-icon">
-                 <i class="fa fa-eye"></i>
-               </span>
-               {% if site.post_meta.item_text %}
-                 <span class="post-meta-item-text">{{__.post.visitors}} </span>
-               {% endif %}
-                 <span class="leancloud-visitors-count"></span>
-             </span>
-          {% endif %}
-
-          {% if site.busuanzi_count.enable and site.busuanzi_count.page_pv and is_index == false or is_index == nil%}
-            <span class="post-meta-divider">|</span>
-            <span class="page-pv">{{ site.busuanzi_count.page_pv_header }}
-            <span class="busuanzi-value" id="busuanzi_value_page_pv" ></span>{{ site.busuanzi_count.page_pv_footer }}
-            </span>
-          {% endif %}
-
           {% if site.post_wordcount.wordcount or site.post_wordcount.min2read %}
             <div class="post-wordcount">
               {% if site.post_wordcount.wordcount %}
