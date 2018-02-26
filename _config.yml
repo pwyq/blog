@@ -264,20 +264,8 @@ sidebar:
   offset: 12
   offset_float: 0
 
-  # Back to top in sidebar
-  b2t: false
-
   # Scroll percent label in b2t button
   scrollpercent: true
-
-# By pwyq: Is this Friendly links (You Lian)?
-# Blog rolls
-#links_title: Links
-#links_layout: block
-#links_layout: inline
-##links:
-#  Title: https://www.google.ca
-
 
 # ---------------------------------------------------------------
 # Post Settings
@@ -296,7 +284,7 @@ excerpt_description: true
 post_meta:
   item_text: true
   created_at: true
-  updated_at: false
+  updated_at: true
   categories: true
 
 # Post wordcount display settings
