@@ -363,13 +363,8 @@ google_site_verification: YuQJL1vK-E_gzpdn548UT4XOLqgo4IbK0rCrgE5wAKA
 # Google Analytics
 google_analytics: UA-89371373-1
 
-# Yandex Webmaster tools verification setting
-# See: https://webmaster.yandex.ru/
-#yandex_site_verification:
-
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
 baidu_push: true
-
 
 # Local search
 local_search:
@@ -379,12 +374,6 @@ local_search:
   trigger: auto
   # show top n results per article, show all results by setting to -1
   top_n_per_article: 1
-
-# External URL with BASE64 encrypt & decrypt
-# Usage: {% exturl text url "title" %}
-# Alias: {% extlink text url "title" %}
-exturl: false
-
 
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS

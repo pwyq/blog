@@ -35,22 +35,6 @@
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
 
-
-{% if site.yandex_site_verification %}
-  <meta name="yandex-verification" content="{{ site.yandex_site_verification }}" />
-{% endif %}
-
-
-{% if site.baidu_site_verification %}
-  <meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}" />
-{% endif %}
-
-
-{% if site.qihu_site_verification %}
-  <meta name="360-site-verification" content="{{ site.qihu_site_verification }}" />
-{% endif %}
-
-
 {% if site.fancybox %}
   {% assign fancybox_css_uri = site.vendors._internal | append: '/fancybox/source/jquery.fancybox.css?v=2.1.5' | relative_url %}
   {% if site.vendors.fancybox_css %}
