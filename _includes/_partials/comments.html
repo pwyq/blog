@@ -1,15 +1,6 @@
 {% if page.comments %}
   <div class="comments" id="comments">
-    {% if site.facebook_sdk.enable and site.facebook_comments_plugin.enable %}
-      <div class="fb-comments"
-           data-href="{{ page.url | absolute_url }}"
-           data-numposts="{{ site.facebook_comments_plugin.num_of_posts }}"
-           data-width="{{ site.facebook_comments_plugin.width }}"
-           data-colorscheme="{{ site.facebook_comments_plugin.scheme }}">
-      </div>
-    {% elsif site.vkontakte_api.enable and site.vkontakte_api.comments %}
-      <div id="vk_comments"></div>
-    {% elsif site.disqus.enable %}
+    {% if site.disqus.enable %}
       <div id="disqus_thread">
         <noscript>
           Please enable JavaScript to view the

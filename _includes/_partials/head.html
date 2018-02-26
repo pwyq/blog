@@ -91,12 +91,6 @@
 {% endif %}
 
 
-{% if site.facebook_sdk.enable and site.facebook_sdk.webmaster %}
-  <meta property="fb:admins" content="{{ site.facebook_sdk.fb_admin }}" />
-  <meta property="fb:app_id" content="{{ site.facebook_sdk.app_id }}" />
-{% endif %}
-
-
 {% assign twitter_id = site.twitter %}
 {% assign google_plus = site.google_plus %}
 {% assign fb_admins = site.fb_admins %}
