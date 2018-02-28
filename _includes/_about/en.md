@@ -44,7 +44,7 @@ More specifically, I'm now a sophomore in Computer Engineering at the University
 17. I really enjoy watching the process of constructing buildings in RTS games.
 18. I come from [Guilin][1]{:target="_blank"}, where is a small city in the southern China. I spent 95%+ of my pre-college life there (　ﾟ 3ﾟ).
 19. I was born on one of the most important (and horrible?) days for Chinese high school students.
-20. Three things I regret till now: myopia, gave up halfway of learning instruments (violin 2yr+/Drum kit 1yr+), know too much psychology and not having enough Guilin rice noodles (and people who can't count).
+20. Three things I regret till now: myopia, gave up halfway of learning instruments (violin 2yr+/Drum kit 1yr+) and know too much psychology.
 
 <br>
 
