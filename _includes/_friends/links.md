@@ -38,7 +38,8 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 | [FiveYellowMice's Blog][19]{:target="_blank"} | 会发水表文的澳洲在读少年 | [WWY'S BLOG][21]{:target="_blank"} | 好耶！是萌妹子w |
 | [吐槽大王部落格][22]{:target="_blank"} | | [neoFelhz][23]{:target="_blank"} | 用心发博的萌萌前端Hexo博主|
 | [plum's blog][3]{:target="_blank"} | | [Touko's diary][7]{:target="_blank"} | WHU触 |
-| [Typeblog][24]{:target="_blank"} | |
+| [Typeblog][24]{:target="_blank"} | | [十七的空指针][28]{:target="_blank"} | |
+| [Randy's Note][29]{:target="_blank"} | | [yay ka-boom-boom][30]{:target="_blank"} | |
 
 ### 仰望菊苣区
 这里是从四处搜刮来的大牛们的（博客）地址。实力水平不分先后，反正都比现在的我强 :P (努力吧，少年，去创造奇迹)  
@@ -55,7 +56,6 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 | [Yuxin's Blog][13]{:target="_blank"} | Machine Learning, Computer Vision (THU->CMU) | [Zeyu Zhao][14]{:target="_blank"} | ZJU+SFU->Harvard |
 | [Lijie Chen][15]{:target="_blank"} [WJMZBMR][25]{:target="_blank"} | 青年计算机科学家 | [依云's Blog][16]{:target="_blank"} | Orz |
 | [无证程序员PT桑][17]{:target="_blank"} | Linux | [Felix's Blog][18]{:target="_blank"} | Linux |
-
 
 
 
@@ -86,3 +86,6 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [25]: http://wjmzbmr.com/
 [26]: http://www.shuizilong.com/house/
 [27]: http://miloyip.com/
+[28]: https://www.null17.com/
+[29]: http://pengzhendong.cn
+[30]: https://blog.nyan.im/
