@@ -1,7 +1,6 @@
 ---
 title: Git Cheat Sheet
 date: 2018-02-27
-modified: 2018-02-28
 tags:
     - Git
     - Cheat Sheet
