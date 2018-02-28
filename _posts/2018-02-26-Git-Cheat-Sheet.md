@@ -32,6 +32,7 @@ Configure user information for all local repositories
 | `git config --global user.name "<name>"` | Sets the name to your commit transactions |
 | `git config --global user.email "<email address>"` | Sets the email to your commit transactions |
 | `git config --global color.ui auto` | Enables helpful colorization of command line output |
+| `git config core.editor "vim"` | Set vim as default text editor (e.g., editing commit message) (nano is too hard for me:))|
 
 ## Make Changes
 Review edits and craft a commit transaction
