@@ -9,21 +9,111 @@ categories:
 description: Command list for the most popular distributed version control system - Git
 ---
 
-## Git 本地更改操作
 
-### 初始化
+<style>
+table { width: 100% }
+table th:nth-child(1) { width: 40%; }
+table th:nth-child(2) { width: 60%; }
+</style>
 
-- 初始化一个 Git 仓库：`git init`
+## Create Repositories
+Start a new repository or obtain one from an existing URL
 
-### 提交修改
+| command | description |
+|:-------:|:-----------:|
+| `git init <project-name>` | Initialize a new local repository with the specified name |
+| `git clone <url>` | Downloads a project and its entire version history |
 
-- 添加文件到暂存区：`git add <file>`
-    - 添加所有修改到暂存区：`git add .`
-- 将暂存区的修改提交到版本库：`git commit` -> 编辑 commit message -> 保存
-    - commit message 较简单时，可以：`git commit -m "<message>"`
-- 为文件添加执行权限，并将修改添加到暂存区：`git update-index --chmod=+x <file>`
+## Configure Tooling
+Configure user information for all local repositories
 
-### 回退修改
+| command | description |
+|:-------:|:-----------:|
+| `git config --global user.name "<name>" | Sets the name to your commit transactions |
+| `git config --global user.email "<email address>" | Sets the email to your commit transactions |
+| `git config --global color.ui auto` | Enables helpful colorization of command line output |
+
+## Make Changes
+Review edits and craft a commit transaction
+
+| command | description |
+|:-------:|:-----------:|
+| `git status` | Lists all new or modified files to be committed |
+| `git diff` | Shows file differences not yet staged |
+| `git add <file>` | Snapshots the file in preparation for versioning |
+| `git add -A` _or_ `git add .` | Includes all modification in stage |
+| `git diff --staged` | Shows file differences between staging and the last file version |
+| `gie reset <file>` | Unstages the file, but preserve its contents |
+| `git commit -m "<descriptive message>"` | Records file snapshots permanently in version history |
+
+## Group Changes
+Name a series of commits and combine completed efforts
+
+| command | description |
+|:-------:|:-----------:|
+| `git branch` | Lists all local branches in the current repository |
+| `git branch <branch-name>` | Creates a new branch |
+| `git checkout <branch-name>` | Switches to the specified branch and updates the working directory |
+| `git merge <branch>` | Combines the specified branch's history into the current branch |
+| `git branch -d <branch-name>` | Deletes the specified branch locally |
+
+## Refactor Filenames
+Relocate and remove versioned files
+
+| command | description |
+|:-------:|:-----------:|
+| `git rm <file>` | Deletes the file from the working directory and stages the deletion |
+| `git rm --cached <file>` | Removes the file from version control but preserves the file locally |
+| `git mv <file-original> <file-renamed>` | Changes the file name and prepares it for commit |
+
+## Suppress Tracking
+Exclude temporary files and paths
+
+| command | description |
+|:-------:|:-----------:|
+| `vim .gitignore` | Creates a text file named `.gitignore` to exclude specified files from versioning |
+| `git ls-files --other --ignored --exclude-standard` | Lists all ignored files in this project |
+
+## Save Fragments
+Shelve and restore incomplete changes
+
+| command | description |
+|:-------:|:-----------:|
+| `git stash` | Temporarily stores all modified tracked files |
+| `git stash pop` | Resotres the most recently stashed files |
+| `git stash list` | Lists all stashed changesets |
+| `git stash drop` | Discards the most recently stashed changeset |
+
+## Review History
+Browse and inspect the evolution of project files
+
+| command | description |
+|:-------:|:-----------:|
+| `git log` | Lists version history for the current branch |
+| `git log --follow <file>` | Lists version history for a file, including renames |
+| `git dff <first-branch>...<second-branch>` | Shows content differences between two branches |
+| `git show <commit>` | Outputs metadata and content changes of the specified commit |
+
+## Redo Commits
+Erase mistakes and craft replacement history
+
+| command | description |
+|:-------:|:-----------:|
+| `git reset <commit>` | Undoes all commits after `<commit>`, preserving changes locally |
+| `git reset --hard <commit>` | Discards all history and changes back to the specified commit |
+| `git reset --soft <commit>` | Undos a local commit and keeps changes |
+
+## Synchronize Changes
+Register a repository bookmark and exchange version history
+
+| command | description |
+|:-------:|:-----------:|
+| `git fetch <bookmark>` | Downloads all history from the repository bookmark |
+| `git merge <bookmark>/<branch>` | Combines bookmark's branch into current local branch |
+| `git push <alias> <branch>` | Uploads all local branch commits to Remote |
+| `git pull` | Downloads bookmark history and incorporates changes |
+
+## 回退修改
 
 - 回退工作区的修改：`git checkout -- <file>`
 - 回退工作区的修改，但保存现场：`git stash`
@@ -36,12 +126,7 @@ description: Command list for the most popular distributed version control syste
     - 如果错误执行了该回退操作，可以通过 `git reflog` 查看命令历史，命令历史中记载了回退前的 commit id，可以执行 `git reset --hard <commit>` 回退该回退操作
 - 回退所有未被跟踪的文件：`git clean -df`
 
-### 删除文件
-
-- 从暂存区 + 工作区中删除：`git rm <file>`
-- 从暂存区中删除：`git rm --cached <file>`
-
-### 跟踪文件
+## 跟踪文件
 
 - 强制跟踪指定文件：`git update-index --no-assume-unchanged <file>`
 - 强制不跟踪指定文件：`git update-index --assume-unchanged <file>`
