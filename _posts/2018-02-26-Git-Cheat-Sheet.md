@@ -29,8 +29,8 @@ Configure user information for all local repositories
 
 | command | description |
 |:-------:|:-----------:|
-| `git config --global user.name "<name>" | Sets the name to your commit transactions |
-| `git config --global user.email "<email address>" | Sets the email to your commit transactions |
+| `git config --global user.name "<name>"` | Sets the name to your commit transactions |
+| `git config --global user.email "<email address>"` | Sets the email to your commit transactions |
 | `git config --global color.ui auto` | Enables helpful colorization of command line output |
 
 ## Make Changes
