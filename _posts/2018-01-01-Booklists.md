@@ -42,6 +42,7 @@ table th:nth-child(5) { width: 25%; }
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
+| Programming | Book | **The Little Schemer**; Daniel Friedman | | TLS; Recommend |
 | ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3]{:target="_blank"} | Using C++; Entry Level |
 | ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4]{:target="_blank"} | More Advanced |
 | Algorithm, Data Structure | Textbook | **Introduction to Algorithms**; Thomas Cormen | [link][9]{:target="_blank"} | CLRS |
@@ -61,7 +62,6 @@ table th:nth-child(5) { width: 25%; }
 | OS | Textbook | **Operating System Concepts**; Silberschatz | [link][11]{:target="_blank"} | |
 | Computer Network | Textbook | **Computer Networks**; Andrew Tanenbaum | [douban][10] | |
 | Programming | Textbook | **Structure and Interpretation of Computer Programs**; Gerald Sussman | [link][12] | SICP; Read Ch. 1-3; Advanced |
-| Programming | Book | **The Little Schemer**; Daniel Friedman | | TLS; Recommend |
 | Calculus | Textbook | **微积分学教程（Курс дифференциального и интегрального исчисления）**; ригорий Михайлович Фихтенгольц | | 全书分三卷 |
 | 数分 | Textbook | **Principles of mathematical analysis**; Walter Rudin | [link][13] | |
 | Math | "Novel" | **What Is Mathematics?**; Herbert Robbins | | 中译：什么是数学；Introductory |
@@ -73,6 +73,7 @@ table th:nth-child(5) { width: 25%; }
 | Romance Fiction | Novel | **潮骚 (潮騒)**; 三島由紀夫 | | |
 | Romance Fiction | Novel | **绝唱 (絶唱)**; 大江賢次 | | |
 | Romance Fiction | Novel | **春琴抄 (春琴抄)**; 谷崎潤一郎 | | |
+| Linux | Book | **The Linux Programming Interface**; Micheal Kirrisk | | |
 
 [1]: https://arxiv.org/abs/1606.06565
 [2]: https://arxiv.org/abs/1701.07274
