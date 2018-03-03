@@ -183,6 +183,7 @@ A full list of applications can be found at [here (Arch Wiki)][11]{:target="_bla
 Yeahhh, finally done the configuration and post.
 Let me first show something:  
 ![alt text][12]
+![alt text][14]
 ![alt text][13]
 
 I've set so many personal first-time during this week:  
@@ -216,3 +217,4 @@ Honestly, I was feeling quite uncomfortable until I was certain that every redun
 
 [12]: /assets/images/posts/Arch-Linux-Install/login.JPG "Login Page - Darling in the Franxx 02"
 [13]: /assets/images/posts/Arch-Linux-Install/info-center.png "Info Center - Arch Linux"
+[14]: /assets/images/posts/Arch-Linux-Install/login-2.JPG "Login Page 2 - by Makoto Shinkai"
