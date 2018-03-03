@@ -48,7 +48,7 @@
                     <i class="fa fa-thumb-tack"></i>
                   </span>
                 {% endif %}
-                <a class="post-title-link" href="{{ post.url | relative_url }}" itemprop="url">
+                <a class="post-title-link" target="_blank" href="{{ post.url | relative_url }}" itemprop="url">
                 {{ post.title | default: __.post.untitled }}
               </a>
             {% else %}{{ post.title }}{% endif %}
@@ -101,7 +101,7 @@
               {% for cat in post.categories %}
                 {% assign cat_url_encode = cat | url_encode | replace: '+', '%20' %}
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="{{ '/category/#/' | relative_url | append: cat_url_encode }}" itemprop="url" rel="index">
+                  <a href="{{ '/category/#/' | relative_url | append: cat_url_encode }}" target="_blank" itemprop="url" rel="index">
                     <span itemprop="name">{{ cat }}</span>
                   </a>
                 </span>
@@ -171,7 +171,7 @@
           {{ post.description }}
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="{{ post.url | relative_url }}">
+            <a class="btn" target="_blank" href="{{ post.url | relative_url }}">
               {{ __.post.read_more }} &raquo;
             </a>
           </div>
