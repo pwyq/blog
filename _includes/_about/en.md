@@ -1,7 +1,7 @@
 I'm **Yan-Qing Wu** (Chinese: **吴彦庆**), a carbon-based living creature currently live on the lovely Earth.
 More specifically, I:  
 --> (co-op term) am on an internship as robotics and ML engineer at the Noah's Ark Lab, Canada  
---> (study term) will be a 2B sophomore in ECE at the University of Waterloo, Canada  
+--> (study term) will take 2B academic term of ECE at the University of Waterloo, Canada  
 
 #### About The Site
 - [Site History][site_log]{:target="_blank"}
