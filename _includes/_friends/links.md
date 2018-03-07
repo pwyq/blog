@@ -56,6 +56,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 | [Yuxin's Blog][13]{:target="_blank"} | Machine Learning, Computer Vision (THU->CMU) | [Zeyu Zhao][14]{:target="_blank"} | ZJU+SFU->Harvard |
 | [Lijie Chen][15]{:target="_blank"} [WJMZBMR][25]{:target="_blank"} | 青年计算机科学家 | [依云's Blog][16]{:target="_blank"} | Orz |
 | [无证程序员PT桑][17]{:target="_blank"} | Linux | [Felix's Blog][18]{:target="_blank"} | Linux |
+| [karpathy][31]{:target="_blank"} [link2][32]{:target="_blank"} | Stanford PhD on DL | | |
 
 
 
@@ -89,3 +90,5 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [28]: https://www.null17.com/
 [29]: http://pengzhendong.cn
 [30]: https://blog.nyan.im/
+[31]: http://karpathy.github.io/
+[32]: https://medium.com/@karpathy/

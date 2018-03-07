@@ -117,35 +117,35 @@ Register a repository bookmark and exchange version history
 | `git push <alias> <branch>` | Uploads all local branch commits to Remote |
 | `git pull` | Downloads bookmark history and incorporates changes |
 
-## 跟踪文件
+## Track Files
 
-- 强制跟踪指定文件：`git update-index --no-assume-unchanged <file>`
-- 强制不跟踪指定文件：`git update-index --assume-unchanged <file>`
+- Force tracking target file：`git update-index --no-assume-unchanged <file>`
+- Force not tracking target file：`git update-index --assume-unchanged <file>`
 
-## Git 标签操作
+## Tag Operation
 
-- 基于 `HEAD` 新建标签：`git tag <name>`
-    - 基于指定 commit 新建标签：`git tag <name> <commit>`
-    - 指定标签信息：`git tag -m <message> <name>`
-    - 使用PGP签名标签：`git tag -s <name>`
-- 查看标签：`git tag`
-- 推送指定标签到指定远程仓库：`git push <repo-name> <tag-name>`
-    - 推送全部标签到指定远程仓库：`git push <repo-name> --tags`
-- 在指定远程仓库删除指定标签：`git push <repo-name> :refs/tags/<tag-name>`
+- Based on `HEAD`：`git tag <name>`
+    - Based on specific commit：`git tag <name> <commit>`
+    - Add tag info：`git tag -m <message> <name>`
+    - Add tag with PGP：`git tag -s <name>`
+- Check tags：`git tag`
+- Push specific tag to remote repo：`git push <repo-name> <tag-name>`
+    - Push all tags to remote repo：`git push <repo-name> --tags`
+- Delete specific tag in specific repo：`git push <repo-name> :refs/tags/<tag-name>`
 
-## Git 子模块操作
+## Module Operation
 
-- 添加 submodule：`git submodule add -b <branch> --name <name> <repo> <path>`
-- 查看 submodule 状态：`git submodule status`
-- clone 含 submodule 的项目
-    - 方法一：`git clone <repo> --recursive`
-    - 方法二：
+- Add submodule：`git submodule add -b <branch> --name <name> <repo> <path>`
+- Check submodule status：`git submodule status`
+- clone project with submodule
+    - method I：`git clone <repo> --recursive`
+    - method II：
 
         ```
         git clone <repo>
         git submodule update --init --recursive
         ```
-- 删除 submodule：
+- Delete submodule：
 
     ```
     git deinit <path>
@@ -153,14 +153,14 @@ Register a repository bookmark and exchange version history
     rm -rf <path>
     [edit .gitmodules to remove submodule item]
     ```
-- 在 submodule 中执行命令：`git submodule foreach <command>`
-- 更新 submodule：`git submodule update --recursive --remote`
+- Execute commands in submodule：`git submodule foreach <command>`
+- Update submodule：`git submodule update --recursive --remote`
 
 ## Fun Facts
 
-1. 在 Git 中，`HEAD` 表示当前版本，也就是最新的提交，上一个版本就是 `HEAD^`，上上一个版本就是 `HEAD^^`，上100个版本写成 `HEAD~100`。
-2. 很多命令都有 `-n` 或 `--dry-run` 选项，使用了该选项后，命令不会直接运行，而是输出它将执行的内容，供用户判断执行的内容是否和预期一致，从而决定是否实际执行该命令。这避免了一些手误的情况，在某些重要的操作上很有用。
-3. Git 的命令中常含有 `--`，它用来分割 Git 命令的选项和文件/文件列表，以防某些文件名被误认为是选项。
+1. In GIt, `HEAD` represent current version (i.e., the latest push); last version is `HEAD^`, last last version is `HEAD^^`, last 100 version is `HEAD~100`.
+2. A lot of commands has `-n` or `--dry-run` option. 
+When apply such an option, the command won't run; instead, it outputs what it will do, so that user can determine to proceed or not. 
 
 ## Reference
 1. [Git Official Website](https://git-scm.com/)
