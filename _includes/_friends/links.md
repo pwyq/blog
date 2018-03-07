@@ -1,10 +1,13 @@
-<style>
-table { width: 100% }
-table th:nth-child(1) { width: 15%; }
-table th:nth-child(2) { width: 35%; }
-table th:nth-child(3) { width: 15%; }
-table th:nth-child(4) { width: 35%; }
-</style>
+<head>
+    <base target="_blank">
+    <style>
+    table { width: 100% }
+    table th:nth-child(1) { width: 15%; }
+    table th:nth-child(2) { width: 35%; }
+    table th:nth-child(3) { width: 15%; }
+    table th:nth-child(4) { width: 35%; }
+    </style>
+</head>
 
 > A collection of links to other bloggers.
 
@@ -28,18 +31,18 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [Airing][4]{:target="_blank"} | 博客好看。喜欢(〃∀〃) | [胡博靖][6]{:target="_blank"} | 一开始以为是学长却是妹子的博主。也很萌啦 |
+| [Airing][4] | 博客好看。喜欢(〃∀〃) | [胡博靖][6] | 一开始以为是学长却是妹子的博主。也很萌啦 |
     
 ### 一些好玩的人
 想勾搭这些人(*ﾟ∀ﾟ*)
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [FiveYellowMice's Blog][19]{:target="_blank"} | 会发水表文的澳洲在读少年 | [WWY'S BLOG][21]{:target="_blank"} | 好耶！是萌妹w |
-| [吐槽大王部落格][22]{:target="_blank"} | | [neoFelhz][23]{:target="_blank"} | 用心发博的萌萌前端Hexo博主|
-| [plum's blog][3]{:target="_blank"} | | [Touko's diary][7]{:target="_blank"} | WHU触 |
-| [Typeblog][24]{:target="_blank"} | | [十七的空指针][28]{:target="_blank"} | |
-| [Randy's Note][29]{:target="_blank"} | | [yay ka-boom-boom][30]{:target="_blank"} | |
+| [FiveYellowMice's Blog][19] | 会发水表文的澳洲在读少年 | [WWY'S BLOG][21] | 好耶！是萌妹w |
+| [吐槽大王部落格][22] | | [neoFelhz][23] | 用心发博的萌萌前端Hexo博主|
+| [plum's blog][3] | | [Touko's diary][7] | WHU触 |
+| [Typeblog][24] | | [十七的空指针][28] | |
+| [Randy's Note][29] | | [yay ka-boom-boom][30] | |
 
 ### 仰望菊苣区
 这里是从四处搜刮来的大牛们的（博客）地址。实力水平不分先后，反正都比现在的我强 :P (努力吧，少年，去创造奇迹)  
@@ -48,15 +51,15 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [Milo的游戏开发][1]{:target="_blank"} [miloyip][27]{:target="_blank"} | 第一个不再更新了呢... | [Phoenix Island][2]{:target="_blank"} | Arch Linux聚聚！|
-| [王垠][5]{:target="_blank"} | 他对某些事物的看法挺有意思的 | [岛娘][26]{:target="_blank"} | 算法 |
-| [阮一峰][20]{:target="_blank"} | 经济学背景的杂食/前端向博主 | [戴天宇][8]{:target="_blank"} | bilibili工程师。博客好看呐 |
-| [Minterest][9]{:target="_blank"} | 疯狂blog的外国blogger | [BYVoid][10]{:target="_blank"} | 茶园大牛。膜Orz |
-| [胡伯涛][11]{:target="_blank"} | 茶...园(非blog) | [MaskRay][12]{:target="_blank"} | 算法（我视奸这么多THU的搞毛哦 |
-| [Yuxin's Blog][13]{:target="_blank"} | Machine Learning, Computer Vision (THU->CMU) | [Zeyu Zhao][14]{:target="_blank"} | ZJU+SFU->Harvard |
-| [Lijie Chen][15]{:target="_blank"} [WJMZBMR][25]{:target="_blank"} | 青年计算机科学家 | [依云's Blog][16]{:target="_blank"} | Orz |
-| [无证程序员PT桑][17]{:target="_blank"} | Linux | [Felix's Blog][18]{:target="_blank"} | Linux |
-| [karpathy][31]{:target="_blank"} [link2][32]{:target="_blank"} | Stanford PhD on DL | | |
+| [Milo的游戏开发][1] [miloyip][27] | 第一个不再更新了呢... | [Phoenix Island][2] | Arch Linux聚聚！|
+| [王垠][5] [link2][34] | 他对某些事物的看法挺有意思的 | [岛娘][26] | 算法 |
+| [阮一峰][20] | 经济学背景的杂食/前端向博主 | [戴天宇][8] | bilibili工程师。博客好看呐 |
+| [Minterest][9] | 疯狂blog的外国blogger | [BYVoid][10] | 茶园大牛。膜Orz |
+| [胡伯涛][11] | 茶...园(非blog) | [MaskRay][12] | 算法（我视奸这么多THU的搞毛哦 |
+| [Yuxin's Blog][13] | Machine Learning, Computer Vision (THU->CMU) | [Zeyu Zhao][14] | ZJU+SFU->Harvard |
+| [Lijie Chen][15] [WJMZBMR][25] | 青年计算机科学家 | [依云's Blog][16] | Orz |
+| [无证程序员PT桑][17] | Linux | [Felix's Blog][18] | Linux |
+| [karpathy][31] [link2][32] | Stanford PhD on DL | [鳥哥的 Linux 私房菜][33] | Linux! |
 
 
 
@@ -70,6 +73,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [8]: http://dtysky.moe
 [9]: http://www.minterest.com
 [10]: https://www.byvoid.com
+
 [11]: http://botao.hu
 [12]: http://maskray.me
 [13]: http://ppwwyyxx.com
@@ -80,6 +84,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [18]: https://blog.felixc.at
 [19]: https://fiveyellowmice.com
 [20]: http://www.ruanyifeng.com
+
 [21]: https://wwyqianqian.github.io
 [22]: https://www.tcdw.net
 [23]: https://blog.nfz.moe/
@@ -90,5 +95,8 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [28]: https://www.null17.com/
 [29]: http://pengzhendong.cn
 [30]: https://blog.nyan.im/
+
 [31]: http://karpathy.github.io/
 [32]: https://medium.com/@karpathy/
+[33]: http://linux.vbird.org/
+[34]: http://yinwang0.lofter.com/

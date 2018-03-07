@@ -21,59 +21,80 @@ Principles | 收书原则:
      题材和体裁不限；有价值的均会记录于此
 > 3. To avoid wordiness and for brevity, Chinese and/or English will be used in `Brief Intro`  
      为节省空间，简要介绍一栏用到中文 和/或者 英文
-
-<style>
-table { width: 100% }
-table th:nth-child(1) { width: 15%; }
-table th:nth-child(2) { width: 10%; }
-table th:nth-child(3) { width: 40%; }
-table th:nth-child(4) { width: 10%; }
-table th:nth-child(5) { width: 25%; }
-</style>
+> 4. For protecting author's intellectual property, only online published one will be added link(s)  
+     为保护作者知识产权，仅对网络公开的提供连接。
+     
+<head>
+    <base target="_blank">
+    <style>
+    table { width: 100% }
+    table th:nth-child(1) { width: 15%; }
+    table th:nth-child(2) { width: 10%; }
+    table th:nth-child(3) { width: 40%; }
+    table th:nth-child(4) { width: 10%; }
+    table th:nth-child(5) { width: 25%; }
+    </style>
+</head>
 
 # Have Read
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
-| AI | Paper | **Concrete Problems in AI Safety**; Dario Amodei et al | [arXiv][1]{:target="_blank"} | 讨论了由于劣质设计导致的无意且有害的AI行为问题 |
-| AI | Paper | **Deep Reinforcement Learning: An Overview**; Yuxi Li | [arXiv][2]{:target="_blank"} | A comprehensive introduction of basic learning methods |
+| AI | Paper | **Concrete Problems in AI Safety**; Dario Amodei et al | [arXiv][1] | 讨论了由于劣质设计导致的无意且有害的AI行为问题 |
+| AI | Paper | **Deep Reinforcement Learning: An Overview**; Yuxi Li | [arXiv][2] | A comprehensive introduction of basic learning methods |
 
 # Reading
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
 | Programming | Book | **The Little Schemer**; Daniel Friedman | | TLS; Recommend |
-| ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3]{:target="_blank"} | Using C++; Entry Level |
-| ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4]{:target="_blank"} | More Advanced |
-| Algorithm, Data Structure | Textbook | **Introduction to Algorithms**; Thomas Cormen | [link][9]{:target="_blank"} | CLRS |
-| Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6]{:target="_blank"} | by [ZOOX][7]{:target="_blank"} |
+| ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3] | Using C++; Entry Level |
+| ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4] | More Advanced |
+| Algorithm, Data Structure | Textbook | **Introduction to Algorithms**; Thomas Cormen | [link][9] | CLRS |
+| Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6] | by [ZOOX][7] |
 
 # To Read
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
-| Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | [link][5]{:target="_blank"} | |
+| ML | Paper | **Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution**; Judea Pearl | [arXiv][14] | 作者为图灵奖得主，探讨了ML不能成为ASI的突破口 |
+| Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | [link][5] | |
+| Society, Dystopian | Novel | **Brave New World**; Aldous Huxley | | |
+| 社会 | 书 | **厚黑学**; 李宗吾 | | 成书与民国 |
 | Historical Fiction, Drama | Novel | **The Kite Runner**; Khaled Hosseini | | |
+| Historical | Novel | **A Tale of Two Cities**; Charles Dickens | | |
 | Nouveau roman | Novel | **The Lover (L'Amant)**; Marguerite Duras | | |
 | Realist, Erotic | Novel | **Madame Bovary**; Gustave Flaubert | | |
 | Realist | Novel | **Anna Karenina (Анна Каренина)**; Lev Tolstoy | | |
 | Hard science fiction | Novel | **A Fire Upon the Deep**; 	Vernor Vinge | | 中译：深渊上的火 |
-| 浪漫 | 赋 | **洛神赋**; 曹植 | [link][8]{:target="_blank"} | 背诵 |
-| OS | Textbook | **Operating System Concepts**; Silberschatz | [link][11]{:target="_blank"} | |
+| 浪漫 | 赋 | **洛神赋**; 曹植 | [link][8] | 背诵 |
+| OS | Textbook | **Operating System Concepts**; Silberschatz | [link][11] | |
 | Computer Network | Textbook | **Computer Networks**; Andrew Tanenbaum | [douban][10] | |
 | Programming | Textbook | **Structure and Interpretation of Computer Programs**; Gerald Sussman | [link][12] | SICP; Read Ch. 1-3; Advanced |
+| Programming | Book | **The Art of Computer Programming**; Donald Knuth | | TAOCP |
 | Calculus | Textbook | **微积分学教程（Курс дифференциального и интегрального исчисления）**; ригорий Михайлович Фихтенгольц | | 全书分三卷 |
 | 数分 | Textbook | **Principles of mathematical analysis**; Walter Rudin | [link][13] | |
 | Math | "Novel" | **What Is Mathematics?**; Herbert Robbins | | 中译：什么是数学；Introductory |
 | Math | "Novel" | **Mathematical Thought from Ancient to Modern Times**; Morris Kline | | 中译：古今数学思想；Advanced |
 | Philosophy | Book | **Discipline and Punish (Surveiller et punir)**; Michel Foucault | | 中译：规训与惩罚 |
 | Fiction | Short Story | **Boule de Suif**; Guy de Maupassant | | 中译：羊脂球；作者：莫泊桑 |
+| Fiction | Short Story | **Love of life (L'Amour de la vie)**; Jack London | | |
 | Romance Fiction | Short Story | **伊豆的舞女 (伊豆の踊子)**; 川端康成 | | |
 | Romance Fiction | Novel | **古都 (古都)**; 川端康成 | | |
 | Romance Fiction | Novel | **潮骚 (潮騒)**; 三島由紀夫 | | |
 | Romance Fiction | Novel | **绝唱 (絶唱)**; 大江賢次 | | |
 | Romance Fiction | Novel | **春琴抄 (春琴抄)**; 谷崎潤一郎 | | |
 | Linux | Book | **The Linux Programming Interface**; Micheal Kirrisk | | |
+| Linux | Book | **Understanding the Linux Kernel**; Daniel Bovet | | |
+| 散文 | 书 | **湘行散记**; 沈从文 | | |
+| Consciousness | Book | **Gödel, Escher, Bach: an Eternal Golden Braid**; Douglas Hofstadter | | GEB |
+| Hardware | Textbook | **计算机组成原理**; 蒋本珊 | | 清华出版 |
+| AI | Textbook | **统计学习方法**; 李航 | | 作者为诺亚方舟实验室原主任 |
+| War story | Book | **For Whom the Bell Tolls**; Ernest Hemingway | | |
+	
+	
+尤利西斯	乔伊斯
+
 
 [1]: https://arxiv.org/abs/1606.06565
 [2]: https://arxiv.org/abs/1701.07274
@@ -89,3 +110,4 @@ table th:nth-child(5) { width: 25%; }
 [11]: http://iips.icci.edu.iq/images/exam/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf
 [12]: https://mitpress.mit.edu/sicp/full-text/book/book.html
 [13]: https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf
+[14]: https://arxiv.org/abs/1801.04016

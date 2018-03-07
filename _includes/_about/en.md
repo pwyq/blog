@@ -29,7 +29,7 @@ More specifically, I:
 #### Random Facts About Me
 1. I cut my own hair since high school.
 2. My right ankle sprained 5 times; all thanks to basketball :)
-14. The number of facts == the number of times I travelled around the Sun
+14. (# of facts - 1) == (# of times I travelled around the Sun)
 3. I can grab a basketball hoop at a standard height, like an NBA one.
 4. Favourite colours are blue and green. These two must come together.
 5. I practised martial art for 7 years in childhood, cause my mom thought I was too weak at that time.
@@ -47,6 +47,7 @@ More specifically, I:
 18. I come from [Guilin][1]{:target="_blank"}, where is a small city in the southern China. I spent 95%+ of my pre-college life there (　ﾟ 3ﾟ).
 19. I was born on one of the most important (and horrible?) days for Chinese high school students.
 20. Three things I regret till now: myopia, gave up halfway of learning instruments (violin 2yr+/Drum kit 1yr+) and know too much psychology.
+21. Estimated that I have over 200+ bookmarks on my browser... (just found that I even have a Google sheet for bookmarks @_@)
 
 <br>
 
