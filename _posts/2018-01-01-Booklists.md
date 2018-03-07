@@ -47,11 +47,8 @@ Principles | 收书原则:
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
+| 散文 | 书 | **湘行散记**; 沈从文 | | |
 | Programming | Book | **The Little Schemer**; Daniel Friedman | | TLS; Recommend |
-| ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3] | Using C++; Entry Level |
-| ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4] | More Advanced |
-| Algorithm, Data Structure | Textbook | **Introduction to Algorithms**; Thomas Cormen | [link][9] | CLRS |
-| Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6] | by [ZOOX][7] |
 
 # To Read
 
@@ -86,12 +83,20 @@ Principles | 收书原则:
 | Romance Fiction | Novel | **春琴抄 (春琴抄)**; 谷崎潤一郎 | | |
 | Linux | Book | **The Linux Programming Interface**; Micheal Kirrisk | | |
 | Linux | Book | **Understanding the Linux Kernel**; Daniel Bovet | | |
-| 散文 | 书 | **湘行散记**; 沈从文 | | |
 | Consciousness | Book | **Gödel, Escher, Bach: an Eternal Golden Braid**; Douglas Hofstadter | | GEB |
 | Hardware | Textbook | **计算机组成原理**; 蒋本珊 | | 清华出版 |
 | AI | Textbook | **统计学习方法**; 李航 | | 作者为诺亚方舟实验室原主任 |
 | War story | Book | **For Whom the Bell Tolls**; Ernest Hemingway | | |
 | Fiction | Novel | **Ulysses**; James Joyce | | 中译：尤利西斯；作者：乔伊斯 |
+
+# Paused
+
+| Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
+|:-------:|:----:|:------------------:|:-------:|:-----------:|
+| ROS | Textbook | **ROS Robot Programming**; YoonSeok Pyo et al | [link][3] | Using C++; Entry Level |
+| ROS | Textbook | **Programming Robots with ROS**; Morgan Quigley et al | [link][4] | More Advanced |
+| Algorithm, Data Structure | Textbook | **Introduction to Algorithms**; Thomas Cormen | [link][9] | CLRS |
+| Robot | Paper | **Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments**; Chris Paxton et al | [arXiv][6] | by [ZOOX][7] |
 
 
 [1]: https://arxiv.org/abs/1606.06565
@@ -103,8 +108,8 @@ Principles | 收书原则:
 [7]: http://zoox.com/
 [8]: http://so.gushiwen.org/view_47894.aspx
 [9]: http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
-
 [10]: https://book.douban.com/subject/10510747/
+
 [11]: http://iips.icci.edu.iq/images/exam/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf
 [12]: https://mitpress.mit.edu/sicp/full-text/book/book.html
 [13]: https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf
