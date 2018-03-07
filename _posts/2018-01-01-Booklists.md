@@ -22,7 +22,7 @@ Principles | 收书原则:
 > 3. To avoid wordiness and for brevity, Chinese and/or English will be used in `Brief Intro`  
      为节省空间，简要介绍一栏用到中文 和/或者 英文
 > 4. For protecting author's intellectual property, only online published one will be added link(s)  
-     为保护作者知识产权，仅对网络公开的提供连接。
+     为保护作者知识产权，仅对网络公开的书籍提供链接。
      
 <head>
     <base target="_blank">
@@ -57,10 +57,10 @@ Principles | 收书原则:
 
 | Subject/Genre | Type | Title & 1st Author | Link(s) | Brief Intro/Note |
 |:-------:|:----:|:------------------:|:-------:|:-----------:|
-| ML | Paper | **Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution**; Judea Pearl | [arXiv][14] | 作者为图灵奖得主，探讨了ML不能成为ASI的突破口 |
+| ML | Paper | **Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution**; Judea Pearl | [arXiv][14] | 作者为图灵奖得主，探讨ML能否成为ASI的突破口 |
 | Social Engineering | Book | **The Art of Deception**; Kevin Mitnick | [link][5] | |
 | Society, Dystopian | Novel | **Brave New World**; Aldous Huxley | | |
-| 社会 | 书 | **厚黑学**; 李宗吾 | | 成书与民国 |
+| Society | Book | **厚黑学**; 李宗吾 | | 成书与民国 |
 | Historical Fiction, Drama | Novel | **The Kite Runner**; Khaled Hosseini | | |
 | Historical | Novel | **A Tale of Two Cities**; Charles Dickens | | |
 | Nouveau roman | Novel | **The Lover (L'Amant)**; Marguerite Duras | | |
