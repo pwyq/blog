@@ -91,9 +91,7 @@ Principles | 收书原则:
 | Hardware | Textbook | **计算机组成原理**; 蒋本珊 | | 清华出版 |
 | AI | Textbook | **统计学习方法**; 李航 | | 作者为诺亚方舟实验室原主任 |
 | War story | Book | **For Whom the Bell Tolls**; Ernest Hemingway | | |
-	
-	
-尤利西斯	乔伊斯
+| Fiction | Novel | **Ulysses**; James Joyce | | 中译：尤利西斯；作者：乔伊斯 |
 
 
 [1]: https://arxiv.org/abs/1606.06565
