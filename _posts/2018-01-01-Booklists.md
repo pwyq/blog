@@ -22,7 +22,7 @@ Principles | 收书原则:
 > 3. To avoid wordiness and for brevity, Chinese and/or English will be used in `Brief Intro`  
      为节省空间，简要介绍一栏用到中文 和/或者 英文
 > 4. For protecting author's intellectual property, only online published one will be added link(s)  
-     为保护作者知识产权，仅对网络公开的书籍提供链接。
+     为保护作者知识产权，仅对网络公开的书籍提供链接
      
 <head>
     <base target="_blank">
