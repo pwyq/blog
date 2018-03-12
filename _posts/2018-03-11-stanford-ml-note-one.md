@@ -1,6 +1,6 @@
 ---
 title: Study Note of Machine Learning (I)
-date: 2018-03-1
+date: 2018-03-11
 categories: 
     - study
 tags:
