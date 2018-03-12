@@ -10,7 +10,7 @@ I set up this Principles to guide post style and to supervise post quality. Effe
     生活文会涵盖游记、书评、随感、总结等
 - Guaranteeing all posts are original; no reproduced or translated post  
     所有文章保证原创；不转载、不翻译
-- `Cheat Sheet` or `(Study) Note` is not considered as a post.
+- `Cheat Sheet` or `(Study) Note` is not considered as a post.  
     `速查表` 或 `（学习）笔记` 不算作博文。
 
 ### Posting | 撰文
