@@ -1,6 +1,6 @@
 ---
 title: Study Note of Machine Learning (II)
-date: 2018-03-12
+date: 2018-03-12 00:34
 categories: 
     - study
 tags:
@@ -50,7 +50,7 @@ $$
 
 Our probability that our prediction is 0 is just the complement of our probability that it is 1 (e.g. if probability that it is 1 is 70%, then the probability that it is 0 is 30%).
 
-### Decision Boundary
+## Decision Boundary
 In order to get our discrete 0 or 1 classification, we can translate the output of the hypothesis function as follows:
 
 $$
@@ -93,7 +93,7 @@ In this case, our decision boundary is a straight vertical line placed on the gr
 
 Again, the input to the sigmoid function g(z) (e.g. $$\theta^T X$$) doesn't need to be linear, and could be a function that describes a circle (e.g. $$z = \theta_0 + \theta_1 x_1^2 +\theta_2 x_2^2$$) or any shape to fit our data.
 
-### Cost Function
+## Cost Function
 We cannot use the same cost function that we use for linear regression because the Logistic Function will cause the output to be wavy, causing many local optima. In other words, it will not be a convex function.
 
 Instead, our cost function for logistic regression looks like:
@@ -114,7 +114,7 @@ If our correct answer 'y' is 1, then the cost function will be 0 if our hypothes
 
 Note that writing the cost function in this way guarantees that J(θ) is convex for logistic regression.
 
-### Simplified Cost Function and Gradient Descent
+## Simplified Cost Function and Gradient Descent
 We can compress our cost function's two conditional cases into one case:
 
 $$
@@ -135,7 +135,7 @@ $$
 \begin{align*} & h = g(X\theta)\newline & J(\theta) = \frac{1}{m} \cdot \left(-y^{T}\log(h)-(1-y)^{T}\log(1-h)\right) \end{align*}
 $$
 
-#### Gradient Descent
+### Gradient Descent
 Remember that the general form of gradient descent is:
 
 $$
@@ -156,7 +156,7 @@ $$
 \theta := \theta - \frac{\alpha}{m} X^{T} (g(X \theta ) - \vec{y})
 $$
 
-##### Partial derivative of J(θ)
+### Partial derivative of J(θ)
 
 First calculate derivative of sigmoid function (it will be useful while finding partial derivative of J(θ)):
 
@@ -176,12 +176,12 @@ $$
 \nabla J(\theta) = \frac{1}{m} \cdot X^T \cdot \left(g\left(X\cdot\theta\right) - \vec{y}\right)
 $$
 
-### Advanced Optimization
+## Advanced Optimization
 "Conjugate gradient", "BFGS", and "L-BFGS" are more sophisticated, faster ways to optimize θ that can be used instead of gradient descent. 
 Andrew Ng suggests not to write these more sophisticated algorithms yourself (unless you are an expert in numerical computing) but use the libraries instead, 
 as they're already tested and highly optimized. Octave provides them.
 
-### Multiclass Classification: One-vs-all
+## Multiclass Classification: One-vs-all
 Now we will approach the classification of data into more than two categories. Instead of y = {0,1} we will expand our definition so that y = {0,1...n}.
 
 In this case we divide our problem into n+1 (+1 because the index starts at 0) binary classification problems; in each one, we predict the probability that 'y' is a member of one of our classes.
@@ -192,7 +192,7 @@ $$
 
 We are basically choosing one class and then lumping all the others into a single second class. We do this repeatedly, applying binary logistic regression to each case, and then use the hypothesis that returned the highest value as our prediction.
 
-## Regularization
+# Chap. 3.5 - Regularization
 ### The Problem of Overfitting
 
 Regularization is designed to address the problem of overfitting.
@@ -242,10 +242,10 @@ The λ, or lambda, is the regularization parameter. It determines how much the c
 
 Using the above cost function with the extra summation, we can smooth the output of our hypothesis function to reduce overfitting. If lambda is chosen to be too large, it may smooth out the function too much and cause underfitting.
 
-### Regularized Linear Regression
+## Regularized Linear Regression
 We can apply regularization to both linear regression and logistic regression. We will approach linear regression first.
 
-#### Gradient Descent
+### Gradient Descent
 We will modify our gradient descent function to separate out $$\theta_0$$ from the rest of the parameters because we do not want to penalize $$\theta_0$$.
 
 $$
@@ -264,7 +264,7 @@ The first term in the above equation, $$1 - \alpha\frac{\lambda}{m}$$ will alway
 
 Notice that the second term is now exactly the same as it was before.
 
-#### Normal Equation
+### Normal Equation
 Now let's approach regularization using the alternate method of the non-iterative normal equation.
 
 To add in regularization, the equation is the same as our original, except that we add another term inside the parentheses:
@@ -277,10 +277,10 @@ L is a matrix with 0 at the top left and 1's down the diagonal, with 0's everywh
 
 Recall that if $$m \leq n$$, then $$X^TX$$ is non-invertible. However, when we add the term $$\lambda\cdotL$$, then $$X^TX + \lambda\cdotL$$ becomes invertible.
 
-### Regularized Logistic Regression
+## Regularized Logistic Regression
 We can regularize logistic regression in a similar way that we regularize linear regression. Let's start with the cost function.
 
-#### Cost Function
+### Cost Function
 Recall that our cost function for logistic regression was:
 
 $$
@@ -296,7 +296,7 @@ $$
 Note Well: The second sum, $$\sum_{j=1}^n \theta_j^2$$ means to explicitly exclude the bias term, $$\theta_0$$.
 I.e. the θ vector is indexed from 0 to n (holding n+1 values, $$\theta_0$$ through $$\theta_n$$), and this sum explicitly skips $$\theta_0$$, by running from 1 to n, skipping 0.
 
-#### Gradient Descent
+### Gradient Descent
 Just like with linear regression, we will want to separately update \theta_0 and the rest of the parameters because we do not want to regularize $$\theta_0$$.
 
 $$
@@ -305,15 +305,15 @@ $$
 
 This is identical to the gradient descent function presented for linear regression.
 
-### Initial Ones Feature Vector
-#### Constant Feature
+## Initial Ones Feature Vector
+### Constant Feature
 As it turns out it is crucial to add a constant feature to your pool of features before starting any training of your machine. Normally that feature is just a set of ones for all your training examples.
 
 Concretely, if X is your feature matrix then $$X_0$$ is a vector with ones.
 
 Below are some insights to explain the reason for this constant feature. The first part draws some analogies from electrical engineering concept, the second looks at understanding the ones vector by using a simple machine learning example.
 
-#### Electrical Engineering
+### Electrical Engineering
 From electrical engineering, in particular signal processing, this can be explained as DC and AC.
 
 The initial feature vector X without the constant term captures the dynamics of your model.
@@ -326,7 +326,7 @@ Interestingly removing the DC term is easily done by differentiating your signal
 
 Another interesting note: if you were to play and AC+DC signal as well as an AC only signal where both AC components are the same then they would sound exactly the same. That is because we only hear changes in signals and Δ(AC+DC)=Δ(AC).
 
-#### Housing price example
+### Housing price example
 Suppose you design a machine which predicts the price of a house based on some features. In this case what does the ones vector help with?
 
 Let's assume a simple model which has features that are directly proportional to the expected price i.e. if feature Xi increases so the expected price y will also increase. So as an example we could have two features: namely the size of the house in [m2], and the number of rooms.
@@ -351,7 +351,7 @@ A more simple and crude way of putting it is that the DC component of your model
 
 Remark: this exmpale is provided by Kholofelo Moyaba.
 
-#### A simpler approach
+### A simpler approach
 A "bias" feature is simply a way to move the "best fit" learned vector to better fit the data.
 For example, consider a learning problem with a single feature $$X_1$$. The formula without the $$X_0$$ feature is just $$theta_1 * X_1 = y$$.
 This is graphed as a line that always passes through the origin, with slope y/theta.
