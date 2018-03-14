@@ -21,7 +21,8 @@ Recall the cost function for (unregularized) logistic regression:
 
 $$\begin{align*}J(\theta) & = \frac{1}{m}\sum_{i=1}^m -y^{(i)} \log(h_\theta(x^{(i)})) - (1 - y^{(i)})\log(1 - h_\theta(x^{(i)}))\\ & = \frac{1}{m}\sum_{i=1}^m -y^{(i)} \log\Big(\dfrac{1}{1 + e^{-\theta^Tx^{(i)}}}\Big) - (1 - y^{(i)})\log\Big(1 - \dfrac{1}{1 + e^{-\theta^Tx^{(i)}}}\Big)\end{align*}$$
 
-To make a support vector machine, we will modify the first term of the cost function $$-\log(h_{\theta}(x)) = -\log\Big(\dfrac{1}{1 + e^{-\theta^Tx}}\Big)$$ so that when $$θ^Tx$$ (from now on, we shall refer to this as z) is greater than 1, it outputs 0. Furthermore, for values of z less than 1, we shall use a straight decreasing line instead of the sigmoid curve.(In the literature, this is called a hinge loss (https://en.wikipedia.org/wiki/Hinge_loss) function.)
+To make a support vector machine, we will modify the first term of the cost function $$-\log(h_{\theta}(x)) = -\log\Big(\dfrac{1}{1 + e^{-\theta^Tx}}\Big)$$ so that when $$θ^Tx$$ (from now on, we shall refer to this as z) is greater than 1, it outputs 0. Furthermore, for values of z less than 1, we shall use a straight decreasing line instead of the sigmoid curve.
+(In the literature, this is called a [hinge loss function][2])
 
 ![alt_text][p1]
 
@@ -79,17 +80,18 @@ This reduces our cost function to:
 
 $$ \begin{align*} J(\theta) = C \cdot 0 + \dfrac{1}{2}\sum_{j=1}^n \Theta^2_j \newline = \dfrac{1}{2}\sum_{j=1}^n \Theta^2_j \end{align*}$$
 
-Recall the decision boundary from logistic regression (the line separating the positive and negative examples). In SVMs, the decision boundary has the special property that it is as far away as possible from both the positive and the negative examples.
+Recall the decision boundary from logistic regression (the line separating the positive and negative examples).
+In SVMs, the decision boundary has the special property that it is __as far away as possible__ from both the positive and the negative examples.
 
-The distance of the decision boundary to the nearest example is called the margin. Since SVMs maximize this margin, it is often called a Large Margin Classifier.
+The distance of the decision boundary to the nearest example is called the __margin__. Since SVMs maximize this margin, it is often called a Large Margin Classifier.
 
-The SVM will separate the negative and positive examples by a large margin.
+The SVM will separate the negative and positive examples by a __large margin__.
 
-This large margin is only achieved when C is very large.
+This large margin is only achieved when __C is very large__.
 
-Data is linearly separable when a straight line can separate the positive and negative examples.
+Data is __linearly separable__ when a __straight line__ can separate the positive and negative examples.
 
-If we have outlier examples that we don't want to affect the decision boundary, then we can reduce C.
+If we have __outlier__ examples that we don't want to affect the decision boundary, then we can __reduce__ C.
 
 Increasing and decreasing C is similar to respectively decreasing and increasing λ, and can simplify our decision boundary.
 
@@ -264,6 +266,7 @@ Note: a neural network is likely to work well for any of these situations, but m
 - [Stanford Machine Learning by Andrew Ng][1]
 
 [1]: https://www.coursera.org/learn/machine-learning
+[2]: https://en.wikipedia.org/wiki/Hinge_loss
 
 [p1]: /assets/images/posts/Stanford-ML/stanford-ml-w7-1.png 
 [p2]: /assets/images/posts/Stanford-ML/stanford-ml-w7-2.png
