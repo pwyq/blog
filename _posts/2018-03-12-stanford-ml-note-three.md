@@ -6,7 +6,7 @@ categories:
 tags:
     - Machine Learning
     - Note
-description: Study Note of Stanford Machine Learning (Chap. 4)
+description: Study Note of Stanford Machine Learning (Chap. 4 - 5)
 ---
 
 # Chap. 4 - Neural Networks: Representation

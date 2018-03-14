@@ -6,7 +6,7 @@ categories:
 tags:
     - Machine Learning
     - Note
-description: Study Note of Stanford Machine Learning (Chap. 1 to Chap. 2)
+description: Study Note of Stanford Machine Learning (Chap. 1 - 2)
 ---
 
 # Chap. 1 - Introduction
