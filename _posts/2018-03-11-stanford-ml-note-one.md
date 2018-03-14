@@ -9,7 +9,7 @@ tags:
 description: Study Note of Stanford Machine Learning (Chap. 1 - 2)
 ---
 
-# Chap. 1 - Introduction
+# Chap 1 - Introduction
 ## What is Machine Learning?
 Definition by Arthur Samuel(1959): "Field of study that gives computers the ability to learn without being explicitly programmed."  
 Definition by Tom Mitchell(1998): "A computer program is said to *learn* form experience E with
@@ -125,7 +125,7 @@ $$
 - For the specific choice of cost function *J* used in linear regression, there are no local optima (other than the global optimum).
 
 
-# Chap. 2 - Linear Regression with Multiple Variables
+# Chap 2 - Linear Regression with Multiple Variables
 Linear regression with multiple variables is also known as "multivariate linear regression".
 
 We now introduce notation for equations where we can have any number of input variables.

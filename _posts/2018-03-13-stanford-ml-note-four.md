@@ -8,7 +8,8 @@ tags:
     - Note
 description: Study Note of Stanford Machine Learning (Chap. 6)
 ---
-# Advice for Applying Machine Learning
+
+# Chap 6 - Advice for Applying Machine Learning
 ## Evaluating a Hypothesis
 A hypothesis may have low error for the training examples but still be inaccurate (because of overfitting).
 
@@ -308,6 +309,11 @@ In certain cases, an "inferior algorithm," if given enough data, can outperform 
 We must choose our features to have enough information. A useful test is: Given input x, would a human expert be able to confidently predict y?
 
 Rationale for large data: if we have a low bias algorithm (many features or hidden units making a very complex function), then the larger the training set we use, the less we will have overfitting (and the more accurate the algorithm will be on the test set).
+
+# Reference
+- [Stanford Machine Learning by Andrew Ng][1]
+
+[1]: https://www.coursera.org/learn/machine-learning
 
 [p1]: /assets/images/posts/Stanford-ML/stanford-ml-w6-1.png "Bias vs Variance"
 [p2]: /assets/images/posts/Stanford-ML/stanford-ml-w6-2.png "lambda vs hypothesis"

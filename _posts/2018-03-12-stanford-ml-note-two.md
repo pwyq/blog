@@ -9,7 +9,7 @@ tags:
 description: Study Note of Stanford Machine Learning (Chap. 3)
 ---
 
-# Chap. 3 - Logistic Regression
+# Chap 3 - Logistic Regression
 Now we are switching from regression problems to classification problems. 
 Don't be confused by the name "Logistic Regression"; 
 it is named that way for historical reasons and is actually an approach to classification problems, not regression problems.

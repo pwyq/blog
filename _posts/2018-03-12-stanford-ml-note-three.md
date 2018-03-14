@@ -9,7 +9,7 @@ tags:
 description: Study Note of Stanford Machine Learning (Chap. 4 - 5)
 ---
 
-# Chap. 4 - Neural Networks: Representation
+# Chap 4 - Neural Networks: Representation
 ## Non-linear Hypotheses
 Performing linear regression with a complex set of data with many features is very unwieldy. Say you wanted to create a hypothesis from three (3) features that included all the quadratic terms:
 
@@ -185,7 +185,7 @@ We can define our set of resulting classes as y:
 Our final value of our hypothesis for a set of inputs will be one of the elements in y.
 
 
-# Chap. 5 - ML:Neural Networks: Learning
+# Chap 5 - ML:Neural Networks: Learning
 ## Cost Function
 Let's first define a few variables that we will need to use:
 
