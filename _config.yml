@@ -198,7 +198,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/pwyq
-  Twitter: https://twitter.com/P_WYQ
+#  Twitter: https://twitter.com/P_WYQ
   Booklist: https://www.pwyqspace.com/study/2018/01/01/Booklists/
 
 # Social Links Icons
@@ -211,7 +211,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
+#  Twitter: twitter
   Booklist: book
 
 # Sidebar Avatar

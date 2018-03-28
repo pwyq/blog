@@ -18,7 +18,7 @@ More specifically, I:
     In addition, if you find any incorrect use of word/punctuation (or simply feel weird), it will be very kind of you to inform me (I'm still learning English~) ^_^
 
 #### Personal Interests
-- The applications of strong **AI** in **robotics** (also my research interest)
+- The applications of strong **AI** in **robotics** (also my research interest!)
 - **Science!**
 - **Competitive Sports!!**
 - **Paintings!** All kinds!
@@ -31,8 +31,9 @@ More specifically, I:
 2. My right ankle sprained 5 times; all thanks to basketball :)
 14. (# of facts - 1) == (# of times I travelled around the Sun)
 3. I can grab a basketball hoop at a standard height, like an NBA one.
-4. Favourite colours are blue and green. These two must come together.
+21. Estimated that I have over 200+ bookmarks on my browser... (just found that I even have a Google sheet for bookmarks @_@)
 5. I practised martial art for 7 years in childhood, cause my mom thought I was too weak at that time.
+4. Favourite colours are blue and green. These two must come together.
 6. I love pencil sketching, oh I love it.
 7. ~~I don't drink coffee, as one drink makes me awake for two days.~~ GIVE ME COFFEE! MORE!
 8. Finished *Friends* in two weeks; recall nothing (but laughter ヾ(´ε`ヾ)) right now though.
@@ -45,9 +46,8 @@ More specifically, I:
 16. Dislike people who uses a lot of internet slang in ~~daily~~ real life.
 17. I really enjoy watching the process of constructing buildings in RTS games.
 18. I come from [Guilin][1]{:target="_blank"}, where is a small city in the southern China. I spent 95%+ of my pre-college life there (　ﾟ 3ﾟ).
-19. I was born on one of the most important (and horrible?) days for Chinese high school students.
 20. Three things I regret till now: myopia, gave up halfway of learning instruments (violin 2yr+/Drum kit 1yr+) and know too much psychology.
-21. Estimated that I have over 200+ bookmarks on my browser... (just found that I even have a Google sheet for bookmarks @_@)
+19. I was born on one of the most important (and horrible?) days for Chinese high school students.
 
 <br>
 
