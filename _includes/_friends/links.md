@@ -14,7 +14,7 @@
 For English speakers, if you wanna exchange blog link with me, feel free to contact me as long as you satisfied ﾟ∀ﾟ)σ following:  
 -> personal blog (no commercial pls)  
 -> original posts account for 90%+ and tech-oriented  
--> Enables `HTTPS` for all pages （`HSTS` is better but optional)
+-> Enables `HTTPS` for all pages (`HSTS` is better but optional)
 
 => 邮箱 \| e-mail: meet[dot]yanqing[dot]wu[at]gmail[dot]com
 
@@ -27,7 +27,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 ---
 
 ### 友链区
-传播友谊的魔法
+传播友谊的魔法♪ Oh my little pony♫
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
