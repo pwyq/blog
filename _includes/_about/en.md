@@ -1,7 +1,7 @@
 I'm **Yan-Qing Wu** (Chinese: **吴彦庆**), a carbon-based living creature currently live on the lovely Earth.
 More specifically, I:  
 --> (study term) am on 2B academic term of ECE at the University of Waterloo, Canada  
---> (co-op term) will work as an intern in Fall (Sep - Dec) 2018. Open for intern offer.
+--> (co-op term) will join NXP Semiconductor as an intern in Fall (Sep - Dec) 2018.
 
 #### About The Site
 - [Site History][site_log]{:target="_blank"}
@@ -29,7 +29,7 @@ More specifically, I:
 #### Random Facts About Me
 1. I cut my own hair since high school.
 2. My right ankle sprained 5 times; all thanks to basketball :)
-14. (# of facts - 1) == (# of times I travelled around the Sun)
+14. (# of facts) == (# of times I travelled around the Sun)
 3. I can grab a basketball hoop at a standard height, like an NBA one.
 21. Estimated that I have over 200+ bookmarks on my browser... (just found that I even have a Google sheet for bookmarks @_@)
 5. I practised martial art for 7 years in childhood, cause my mom thought I was too weak at that time.
