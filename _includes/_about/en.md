@@ -1,7 +1,7 @@
 I'm **Yan-Qing Wu** (Chinese: **吴彦庆**), a carbon-based living creature currently live on the lovely Earth.
 More specifically, I:  
---> (study term) am on 2B academic term of ECE at the University of Waterloo, Canada  
---> (co-op term) will join NXP Semiconductor as an intern in Fall (Sep - Dec) 2018.
+--> (study term) will be on 3A academic term of ECE at the University of Waterloo, Canada  
+--> (co-op term) am seeking for (robotics/ML + R&D-oriented) internship opportunity for 2019 summer (May - Aug.)
 
 #### About The Site
 - [Site History][site_log]{:target="_blank"}

@@ -16,7 +16,7 @@ Right, I thus fi--nally force myself to wrote down the first post after rebuildi
 
 #### Why rebuilt?
 
-To answer this question, I'd like to talk about *why built this site at the first place*. 
+To answer this question, I'd like to talk about *why built this site in the first place*. 
 The site was initially built during the last Christmas week. Winter time, boring me. 
 It was also the last long break for me before looking for my first co-op in the coming spring term, and a simple personal blog was the only project I could think of which can be done in one week.
 Besides, I had almost zero experience on front-end tech at that time; building a site was a perfect opportunity to practise that. 
