@@ -16,7 +16,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 -> original posts account for 90%+ and tech-oriented  
 -> Enables `HTTPS` for all pages (`HSTS` is better but optional)
 
-=> 邮箱 \| e-mail: meet[dot]yanqing[dot]wu[at]gmail[dot]com
+=> 联系邮箱 \| e-mail: meet[dot]yanqing[dot]wu[at]gmail[dot]com
 
 本来是用来放小伙伴的链接的，然而现在却变成了对一堆大牛的~~视奸~~膜拜列表了( ﾟ∀。)  
 所以，来几个人一起玩耍呐！人家要求不高的!  
@@ -32,6 +32,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
 | [Airing][4] | 博客好看。喜欢(〃∀〃) | [胡博靖][6] | 一开始以为是学长却是妹子的博主。也很萌啦 |
+| [一稿计划][35] | 是设计师呢！|
     
 ### 一些好玩的人
 想勾搭这些人(*ﾟ∀ﾟ*)
@@ -100,3 +101,4 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [32]: https://medium.com/@karpathy/
 [33]: http://linux.vbird.org/
 [34]: http://yinwang0.lofter.com/
+[35]: https://lastone.ohhh.cc
