@@ -315,7 +315,7 @@ Rationale for large data: if we have a low bias algorithm (many features or hidd
 
 [1]: https://www.coursera.org/learn/machine-learning
 
-[p1]: /assets/images/posts/Stanford-ML/stanford-ml-w6-1.png "Bias vs Variance"
-[p2]: /assets/images/posts/Stanford-ML/stanford-ml-w6-2.png "lambda vs hypothesis"
-[p3]: /assets/images/posts/Stanford-ML/stanford-ml-w6-3.png "Learning curves - 1"
-[p4]: /assets/images/posts/Stanford-ML/stanford-ml-w6-4.png "Learning curves - 2"
+[p1]: /blog/assets/images/posts/Stanford-ML/stanford-ml-w6-1.png "Bias vs Variance"
+[p2]: /blog/assets/images/posts/Stanford-ML/stanford-ml-w6-2.png "lambda vs hypothesis"
+[p3]: /blog/assets/images/posts/Stanford-ML/stanford-ml-w6-3.png "Learning curves - 1"
+[p4]: /blog/assets/images/posts/Stanford-ML/stanford-ml-w6-4.png "Learning curves - 2"
