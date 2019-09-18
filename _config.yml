@@ -330,7 +330,8 @@ add_this_id: ra-598e8387d94319cb
 #google_analytics: UA-89371373-1
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: true
+# This is taking insanely long (tested on 09.18.2019) by F12
+baidu_push: false
 
 # Local search
 local_search:
