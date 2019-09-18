@@ -1,20 +1,17 @@
 {% if site.disqus.enable %}
-
     {% if page.comments %}
       {% if site.disqus.hide %}
       <script type="text/javascript">
           (function () {
               // ECMSScript 5 Strict Mode
               'use strict';
-
               // Global object
-              var App = {};
-
+              let App = {};
               // Create button
               App.commentsButton = document.createElement('button');
               App.commentsButton.setAttribute('class', 'comments-button');
               App.commentsButton.setAttribute('data-js', 'comments-button');
-              App.commentsButton.innerHTML = '&nbsp;&nbsp;Show Comments 有墙';
+              App.commentsButton.innerHTML = '&nbsp;Show Comments &nbsp; (有墙)';
 
               // Append button to body
               parent.document.getElementById("post-nav-id").firstElementChild.appendChild(App.commentsButton);
@@ -58,5 +55,4 @@
       </script>
       {% endif %}
     {% endif %}
-
 {% endif %}
