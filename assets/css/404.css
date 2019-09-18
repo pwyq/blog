@@ -1,6 +1,6 @@
 @font-face {
     font-family: ErrorPageFont;
-    src: url('/assets/fonts/404_font/old_typewriter.ttf');
+    src: url('../fonts/404_font/old_typewriter.ttf');
     font-weight: bold;
 }
 html, body {
