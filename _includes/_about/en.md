@@ -60,5 +60,5 @@ More specifically, I:
 
 [1]: https://en.wikipedia.org/wiki/Guilin
 
-[site_log]: /sitelog
-[post_rule]: /postrules
+[site_log]: /blog/sitelog
+[post_rule]: /blog/postrules
