@@ -31,17 +31,17 @@ Many thanks to other guiders for creating your tutorials on the topics of `githu
 <br />
 Today I was going to deprecate some old github repositories, I found following:
 
-<img src="/blog/assets/images/posts/First-Post/wth.png" alt="What???" align="center">
+<img src="../assets/images/posts/First-Post/wth.png" alt="What???" align="center">
 <p style="font-size: 16px" align="center">
     <b> (((　ﾟдﾟ))) What? <i>"Your site is published at..."</i> WHAT???</b><br />
     I mean, I didn't touch that repo for more than a year! How it is being online? WHATTT?
     I bought current domain name on August, 2017, which is 8 months later after that repo.
     How is it possible it is being auto online?? The `gh-pages`?
 </p>
-<img src="/blog/assets/images/posts/First-Post/abolish-blog.png" alt="abolish-blog" align="center">
+<img src="../assets/images/posts/First-Post/abolish-blog.png" alt="abolish-blog" align="center">
 <br />
 <b><p style="font-size: 20px" align="center"> Now vs. Past</p></b>
-<img src="/blog/assets/images/posts/First-Post/now_vs_past.png" alt="Now vs. Past" align="center">
+<img src="../assets/images/posts/First-Post/now_vs_past.png" alt="Now vs. Past" align="center">
 
 Anyway, this is amazing! Just like finding an Easter egg!
 <a href="http://www.yanqing-wu.com/abolish--blog/">It's still working! Click Me!</a>
