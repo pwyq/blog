@@ -1,7 +1,7 @@
 I'm **Yan-Qing Wu** (Chinese: **吴彦庆**), a carbon-based living creature currently live on the lovely Earth.
 More specifically, I:  
---> (study term) am third year Computer Engineering student at the University of Waterloo, Canada  
---> (co-op term) will join IBM Extreme Blue technical intern for 2019 summer; meanwhile, I am seeking intern opportunities for Feb-Apr 2020.
+--> (study term) am on an exchange at TU Delft, Netherlands  
+--> (co-op term) am seeking intern opportunities for Feb. - Apr.30, 2020
 
 #### About The Site
 - [Site History][site_log]{:target="_blank"}

@@ -199,7 +199,7 @@ font:
 social:
   GitHub: https://github.com/pwyq
 #  Twitter: https://twitter.com/P_WYQ
-  Booklist: https://www.pwyqspace.com/study/2018/01/01/Booklists/
+  Booklist: https://www.yanqing-wu.com/study/2018/01/01/Booklists/
 
 # Social Links Icons
 # Icon Mapping:
@@ -321,12 +321,13 @@ disqus:
 # Share
 add_this_id: ra-598e8387d94319cb
 
-# Google Webmaster tools verification setting
-# See: https://www.google.com/webmasters/
-google_site_verification: YuQJL1vK-E_gzpdn548UT4XOLqgo4IbK0rCrgE5wAKA
-
-# Google Analytics
-google_analytics: UA-89371373-1
+# Commented out on 09.18.2019, otherwise will be duplicated on the pwyq.github.io repo
+## Google Webmaster tools verification setting
+## See: https://www.google.com/webmasters/
+#google_site_verification: YuQJL1vK-E_gzpdn548UT4XOLqgo4IbK0rCrgE5wAKA
+#
+## Google Analytics
+#google_analytics: UA-89371373-1
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
 baidu_push: true

@@ -25,7 +25,7 @@
     * Added `AddThis` sharing links
     * Basic Rebuilt Completed!
 * 2017.08.13
-    * Officially changed site name to `PWYQ Space`
+    * Changed site name to `PWYQ Space`
 * 2018.02.02
     * Migrate develop environment from Ubuntu to Arch
 * 2018.02.17
@@ -35,12 +35,14 @@
     * First established [Post Principles][6]
 * 2018.02.25
     * The site can be found via Google and Baidu
+* 2019.09.18
+    * Come back
+    * Use new domain `www.yanqing-wu.com`, and place `PWYQ Space` under the main portfolio site
 
 
-[1]: https://www.pwyqspace.com
 [2]: http://themes.3rdwavemedia.com/
 [3]: https://github.com/simpleyyt/jekyll-theme-next
-[4]: https://www.pwyqspace.com/blog/2017/08/26/Blog-First-Rebuilt
+[4]: https://www.yanqing-wu.com/blog/2017/08/26/Blog-First-Rebuilt
 [5]: https://blog.itswincer.com/posts/dfc84766/
 [6]: /postrules
 [7]: /sitelog
