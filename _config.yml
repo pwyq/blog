@@ -200,6 +200,7 @@ social:
   GitHub: https://github.com/pwyq
 #  Twitter: https://twitter.com/P_WYQ
   Booklist: https://www.yanqing-wu.com/blog/study/2018/01/01/Booklists/
+  Warship: warship.yanqing-wu.com
 
 # Social Links Icons
 # Icon Mapping:
@@ -213,6 +214,7 @@ social_icons:
   GitHub: github
 #  Twitter: twitter
   Booklist: book
+  Warship: gamepad
 
 # Sidebar Avatar
 avatar: /assets/images/author_dog.png
