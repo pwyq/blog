@@ -37,7 +37,7 @@ After some research, I found that the game uses straightforward HTTP/HTTPS proto
 I then found a [post][1] that uses [Fiddler][2] to monitor all connections between devices and the Web.
 Through some testing, I documented all critical URLs and Hosts for my script. What left are just coding!
 
-Followings are some snippets of the script
+Followings are some snippets of the script.
 
 A normal mean of login:
 
@@ -124,8 +124,9 @@ The task I wanted to perform (order a menu in the kitchen):
 ```
 
 Ta da. That's it. If you are interested for the full source code, check it [here][3].
+Since I need to run the script daily (and I am too lazy to run it myself), a `cronjob` was set up as well.
 
-Using the script, I estimated that I can achieve my desired goal in the game in just 3 months, instead of 10 years!
+Using the scripts, I estimated that I can achieve my desired goal in the game in just 3 months, instead of 5 years (told you, the numerical design is stupid)!
 
 Thanks for reading ;)
 
