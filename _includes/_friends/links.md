@@ -13,8 +13,8 @@
 
 For English speakers, if you wanna exchange blog link with me, feel free to contact me as long as you satisfied ﾟ∀ﾟ)σ following:  
 -> personal blog (no commercial pls)  
--> original posts account for 90%+ and tech-oriented  
--> Enables `HTTPS` for all pages (`HSTS` is better but optional)
+-> original posts account for 90%+  
+-> Enables `HTTPS` for all pages (`HSTS` is better)
 
 => 联系邮箱 \| e-mail: meet[dot]yanqing[dot]wu[at]gmail[dot]com
 
