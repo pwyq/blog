@@ -1,7 +1,7 @@
 I'm **Yan-Qing Wu** (Chinese: **吴彦庆**), a carbon-based living creature currently live on the lovely Earth.
 More specifically, I:  
 --> (study term) am on an exchange at TU Delft, Netherlands  
---> (co-op term) am seeking intern opportunities for Feb. - Apr.30, 2020
+--> (co-op term) am seeking intern opportunities for Sept. - Dec., 2020
 
 #### About The Site
 - [Site History][site_log]{:target="_blank"}
@@ -27,8 +27,10 @@ More specifically, I:
 - Exciting about the world settings in **The Matrix** and **Ghost in the Shell**(攻殻機動隊)
 
 #### Random Facts About Me
+
 1. I cut my own hair since high school.
 2. My right ankle sprained 5 times; all thanks to basketball :)
+23. Which Disney princess are you? -> Vanellope von Schweetz ( ﾟ∀。)
 14. (# of facts-1) == (# of times I travelled around the Sun)
 3. I can grab a basketball hoop at a standard height, like an NBA one.
 21. Estimated that I have over 200+ bookmarks on my browser... (just found that I even have a Google sheet for bookmarks @_@)
