@@ -47,7 +47,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 
 ### 仰望菊苣区
 这里是从四处搜刮来的大牛们的（博客）地址。实力水平不分先后，反正都比现在的我强 :P (努力吧，少年，去创造奇迹)  
-~~虽然垠神说过不要神话任何人，可看见比自己厉害很多的人还是会不由自主地顶礼膜拜Orz~~  
+~~虽然王垠说过不要神话任何人，可看见比自己厉害很多的人还是会不由自主地顶礼膜拜Orz~~  
 注: 如果下面的朋友不方便被列出来，请联系我删除。给您带来的不便，深感抱歉（鞠躬）。
 
 | Name | Intro | Name | Intro |
@@ -55,7 +55,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 | [Milo的游戏开发][1] [miloyip][27] | 第一个不再更新了呢... | [Phoenix Island][2] | Arch Linux聚聚！|
 | [王垠][5] [link2][34] | 他对某些事物的看法挺有意思的 | [岛娘][26] | 算法 |
 | [阮一峰][20] | 经济学背景的杂食/前端向博主 | [戴天宇][8] | bilibili工程师。博客好看呐 |
-| [Minterest][9] | 疯狂blog的外国blogger | [BYVoid][10] | 茶园大牛。膜Orz |
+| [Minterest][9] | 疯狂blog的外国blogger | [BYVoid][10] | 茶园 |
 | [胡伯涛][11] | 茶...园(非blog) | [MaskRay][12] | 算法（我视奸这么多THU的搞毛哦 |
 | [Yuxin's Blog][13] | Machine Learning, Computer Vision (THU->CMU) | [Zeyu Zhao][14] | ZJU+SFU->Harvard |
 | [Lijie Chen][15] [WJMZBMR][25] | 青年计算机科学家 | [依云's Blog][16] | Orz |
