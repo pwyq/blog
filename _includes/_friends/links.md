@@ -32,7 +32,7 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
 | [Airing][4] | 博客好看。喜欢(〃∀〃) | [胡博靖][6] | 一开始以为是学长却是妹子的博主。也很萌啦 |
-| [一稿计划][35] | 是设计师呢！|
+| [一稿计划][35] | 是设计师呢！| [Schwarzeni][36] | cool stuff |
     
 ### 一些好玩的人
 想勾搭这些人(*ﾟ∀ﾟ*)
@@ -102,3 +102,5 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [33]: http://linux.vbird.org/
 [34]: http://yinwang0.lofter.com/
 [35]: https://lastone.ohhh.cc
+
+[36]: https://blog.schwarzeni.com/
