@@ -24,6 +24,11 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 -> 原创内容90%+，技术向（如果你对某些非技术向领域有研究，也欢迎哦）  
 -> 全站启用`HTTPS` (有`HSTS`就更棒啦)
 
+
+I will revisit your site every month!  
+我会每月定期回访喔！
+
+
 ---
 
 ### 友链区
@@ -31,19 +36,17 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [Airing][4] | 博客好看。喜欢(〃∀〃) | [胡博靖][6] | 一开始以为是学长却是妹子的博主。也很萌啦 |
-| [一稿计划][35] | 是设计师呢！| [Schwarzeni][36] | learnt vim-orgmode there |
+| [胡博靖][6] | 一开始以为是学长却是妹子的博主。也很萌啦 | [Schwarzeni][36] | learnt vim-orgmode there |
     
 ### 一些好玩的人
 想勾搭这些人(*ﾟ∀ﾟ*)
 
 | Name | Intro | Name | Intro |
 |:----:|:-----:|:----:|:-----:|
-| [FiveYellowMice's Blog][19] | 会发水表文的澳洲在读少年 | [WWY'S BLOG][21] | 好耶！是萌妹w |
-| [吐槽大王部落格][22] | | [neoFelhz][23] | 用心发博的萌萌前端Hexo博主|
+| [FiveYellowMice's Blog][19] | 会发水表文的澳洲在读少年 | [吐槽大王部落格][22] | |
 | [plum's blog][3] | | [Touko's diary][7] | WHU触 |
-| [Typeblog][24] | | [十七的空指针][28] | |
-| [Randy's Note][29] | | [yay ka-boom-boom][30] | |
+| [Typeblog][24] | | [Randy's Note][29] | |
+| [yay ka-boom-boom][30] | | | |
 
 ### 仰望菊苣区
 这里是从四处搜刮来的大牛们的（博客）地址。实力水平不分先后，反正都比现在的我强 :P (努力吧，少年，去创造奇迹)  
@@ -67,7 +70,6 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [1]: http://www.cnblogs.com/miloyip
 [2]: https://blog.phoenixlzx.com
 [3]: https://plumz.me
-[4]: http://me.ursb.me
 [5]: http://www.yinwang.org
 [6]: http://hubojing.github.io/
 [7]: https://touko.moe/
@@ -86,14 +88,11 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [19]: https://fiveyellowmice.com
 [20]: http://www.ruanyifeng.com
 
-[21]: https://wwyqianqian.github.io
 [22]: https://www.tcdw.net
-[23]: https://blog.nfz.moe/
 [24]: https://typeblog.net/
 [25]: http://wjmzbmr.com/
 [26]: http://www.shuizilong.com/house/
 [27]: http://miloyip.com/
-[28]: https://www.null17.com/
 [29]: http://pengzhendong.cn
 [30]: https://blog.nyan.im/
 
@@ -101,6 +100,5 @@ For English speakers, if you wanna exchange blog link with me, feel free to cont
 [32]: https://medium.com/@karpathy/
 [33]: http://linux.vbird.org/
 [34]: http://yinwang0.lofter.com/
-[35]: https://lastone.ohhh.cc
 
 [36]: https://blog.schwarzeni.com/
