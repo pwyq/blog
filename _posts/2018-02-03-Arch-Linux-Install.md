@@ -215,6 +215,6 @@ Honestly, I was feeling quite uncomfortable until I was certain that every redun
 [11]: https://wiki.archlinux.org/index.php/list_of_applications
 [14]: https://github.com/notepadqq/notepadqq
 
-[12]: /blog/assets/images/posts/Arch-Linux-Install/login.JPG "Login Page - Darling in the Franxx 02"
-[13]: /blog/assets/images/posts/Arch-Linux-Install/info-center.png "Info Center - Arch Linux"
-[14]: /blog/assets/images/posts/Arch-Linux-Install/login-2.JPG "Login Page 2 - by Makoto Shinkai"
+[12]: /assets/images/posts/Arch-Linux-Install/login.JPG "Login Page - Darling in the Franxx 02"
+[13]: /assets/images/posts/Arch-Linux-Install/info-center.png "Info Center - Arch Linux"
+[14]: /assets/images/posts/Arch-Linux-Install/login-2.JPG "Login Page 2 - by Makoto Shinkai"

@@ -259,8 +259,8 @@ Retrieved from http://www.archives-pmr.org/article/S0003-9993(02)80005-3/pdf
 [5]: https://vim.sourceforge.io/
 [6]: https://github.com/akahuku/wasavi
 
-[p1]: /blog/assets/images/posts/Work-Without-Mouse/linux_keyboard_shortcuts.jpg "Ubuntu Keyboard Shortcut"
-[p2]: /blog/assets/images/posts/Work-Without-Mouse/vimium-cheatsheet-big.png "Vimium Cheat Sheet"
-[p3]: /blog/assets/images/posts/Work-Without-Mouse/vim-cheatsheet.png "Vim Cheat Sheet"
+[p1]: /assets/images/posts/Work-Without-Mouse/linux_keyboard_shortcuts.jpg "Ubuntu Keyboard Shortcut"
+[p2]: /assets/images/posts/Work-Without-Mouse/vimium-cheatsheet-big.png "Vimium Cheat Sheet"
+[p3]: /assets/images/posts/Work-Without-Mouse/vim-cheatsheet.png "Vim Cheat Sheet"
 
 [10]: https://askubuntu.com/questions/33774/how-do-i-remap-the-caps-lock-and-ctrl-keys

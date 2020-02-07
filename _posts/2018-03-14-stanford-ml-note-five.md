@@ -268,5 +268,5 @@ Note: a neural network is likely to work well for any of these situations, but m
 [1]: https://www.coursera.org/learn/machine-learning
 [2]: https://en.wikipedia.org/wiki/Hinge_loss
 
-[p1]: /blog/assets/images/posts/Stanford-ML/stanford-ml-w7-1.png 
-[p2]: /blog/assets/images/posts/Stanford-ML/stanford-ml-w7-2.png
+[p1]: /assets/images/posts/Stanford-ML/stanford-ml-w7-1.png 
+[p2]: /assets/images/posts/Stanford-ML/stanford-ml-w7-2.png

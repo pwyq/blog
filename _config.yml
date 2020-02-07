@@ -199,7 +199,7 @@ font:
 social:
   GitHub: https://github.com/pwyq
 #  Twitter: https://twitter.com/P_WYQ
-  Booklist: https://www.yanqing-wu.com/blog/study/2018/01/01/Booklists/
+  Booklist: https://blog.yanqing-wu.com/study/2018/01/01/Booklists/
   Warship: warship.yanqing-wu.com
 
 # Social Links Icons
@@ -329,7 +329,8 @@ add_this_id: ra-598e8387d94319cb
 #google_site_verification: YuQJL1vK-E_gzpdn548UT4XOLqgo4IbK0rCrgE5wAKA
 #
 ## Google Analytics
-#google_analytics: UA-89371373-1
+# updated on Feb.06.2020, changed to a new code
+google_analytics: UA-89371373-3
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
 # This is taking insanely long (tested on 09.18.2019) by F12

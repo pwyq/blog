@@ -99,7 +99,7 @@ Lie To Me：小学二年级识破人贩子并逃脱✔
 *此页面到这里就没啦。常来玩吼！*
 
 
-[site_log]: /blog/sitelog
-[post_rule]: /blog/postrules
+[site_log]: /sitelog
+[post_rule]: /postrules
 
 [1]: https://warship.yanqing-wu.com

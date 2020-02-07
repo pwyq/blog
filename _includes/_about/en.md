@@ -71,5 +71,5 @@ More specifically, I:
 [1]: https://en.wikipedia.org/wiki/Guilin
 [2]: https://ohmy.disney.com/quiz/2014/06/25/quiz-which-disney-princess-are-you/
 
-[site_log]: /blog/sitelog
-[post_rule]: /blog/postrules
+[site_log]: /sitelog
+[post_rule]: /postrules

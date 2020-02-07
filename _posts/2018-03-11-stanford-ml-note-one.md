@@ -303,4 +303,4 @@ $$X^TX$$ may be __non-invertible__. The common causes are:
 [4]: https://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-regression
 
 
-[p1]: /blog/assets/images/posts/Stanford-ML/week1-gradient-descent-3d.png "3d-gradient-descent"
+[p1]: /assets/images/posts/Stanford-ML/week1-gradient-descent-3d.png "3d-gradient-descent"

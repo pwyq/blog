@@ -195,9 +195,9 @@ By then, what my mindset and programming level will be?
 [3]: https://ca.godaddy.com/
 [4]: https://www.cloudflare.com/
 
-[5]: /blog/assets/images/posts/Blog-First-Rebuilt/add_website.png "Cloudflare - scan website record"
-[6]: /blog/assets/images/posts/Blog-First-Rebuilt/add_DNS_records.png "Cloudflare - add DNS record"
-[7]: /blog/assets/images/posts/Blog-First-Rebuilt/page-rules.png "Cloudflare - add page rules"
+[5]: /assets/images/posts/Blog-First-Rebuilt/add_website.png "Cloudflare - scan website record"
+[6]: /assets/images/posts/Blog-First-Rebuilt/add_DNS_records.png "Cloudflare - add DNS record"
+[7]: /assets/images/posts/Blog-First-Rebuilt/page-rules.png "Cloudflare - add page rules"
 
 [8]: http://mashable.com/2011/05/31/https-web-security/#bm91Jt9Fe5qm
 [9]: https://samrueby.com/2015/01/26/why-is-https-faster-than-http/
