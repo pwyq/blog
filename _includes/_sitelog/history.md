@@ -42,7 +42,7 @@
 
 [2]: http://themes.3rdwavemedia.com/
 [3]: https://github.com/simpleyyt/jekyll-theme-next
-[4]: https://blog.yanqing-wu.com/2017/08/26/Blog-First-Rebuilt
+[4]: https://blog.yanqing-wu.com/blog/2017/08/26/Blog-First-Rebuilt
 [5]: https://blog.itswincer.com/posts/dfc84766/
 [6]: /postrules
 [7]: /sitelog

@@ -18,8 +18,6 @@ I set up this Principles to guide post style and to supervise post quality. Effe
     科技文使用现代英语；生活文使用简体中文 （原因已在`关于`阐明）
 - Be objective; providing references when necessary  
     做到客观，有理由据
-- Posting one new post every month (every other month if I am busy)  
-    更新尽量做到每月一篇，繁忙时两月一篇
 - The required reading time for each post should around [7 minutes][2]  
     博文长度需满足7分钟左右的阅读时间
 
