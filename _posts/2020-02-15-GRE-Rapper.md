@@ -11,15 +11,16 @@ tags:
 
 I have determined to take GRE in two months.
 For the last week, I have been learning new GRE words as it is my full-time job (Well, way more than full-time).
-Moreover, I have stumbled upon a number of words that have similar postfix and word structure.
+Moreover, I stumbled upon a number of words that have similar postfix and word structure.
 
 Besides the GRE glossaries, I have been listening to Eminem's songs while I do quotidian running (Amazing performce on the Oscar, by the way).
-All these ingredients are combined together to produce my very first rap:
+I organized those similar words on a sheet. Plus some beats that are borrowed from Eminem's songs.
+All these ingredients are then combined together to produce my very first rap:
 
 ```
 ** GRE-RAPPER ** by PWYQ
 
-Hey, y' know, preparing the test makes me a RAPPER who wears goggle
+Hey, y' know, preparing the test makes me a RAPPER with goggle
 Com' on, stop shuffle and hobble, join me and settle.
 Let's gabble and babble.
 
@@ -37,7 +38,7 @@ Shh, muffle. Now go back to study.
 Wait, work harder, so I can see your dimple.
 ```
 
-I portend/forecast/foreshadow/foreknowledge/forebode/anticipate/foresee/prefigure/predict/bode/betoken/adumbrate/presage/prognosticate you probably do not recognize all the words in the above rap. I therefore prepare the explanation to those GRE words.
+I portend/forecast/foreshadow/foreknowledge/forebode/anticipate/foresee/prefigure/predict/bode/betoken/adumbrate/presage/prognosticate you probably do not recognize all the words in the above rap. I therefore prepare the explanations to those GRE words.
 
 ```
 goggle      special eyeglasses that fit close to your face and that are worn to protect your eyes
