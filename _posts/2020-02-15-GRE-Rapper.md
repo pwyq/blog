@@ -22,7 +22,7 @@ All these ingredients are then combined together to produce my very first rap:
 
 Hey, y' know, preparing the test makes me a RAPPER with goggle
 Com' on, stop shuffle and hobble, join me and settle.
-Let's gabble and babble.
+Let's gabble, not babble.
 
 First make some doodles and have some noodle. (Then hide the nipples)
 Don't boggle anymore. Others will giggle.
