@@ -17,6 +17,7 @@ Besides the GRE glossaries, I have been listening to Eminem's songs while I do q
 I organized those similar words on a sheet. Plus some beats that are borrowed from Eminem's songs.
 All these ingredients are then combined together to produce my very first rap:
 
+
 ```
 ** GRE-RAPPER ** by PWYQ
 
@@ -39,7 +40,12 @@ Shh, muffle. Now go back to study.
 Wait, work harder, so I can see your dimple.
 ```
 
+- *If the rap (GRE-RAPPER) inspires you, please credit to PWYQ*.
+- *Commercial Use Prohibited* for the rap.
+
+
 I portend/forecast/foreshadow/foreknowledge/forebode/anticipate/foresee/prefigure/predict/bode/betoken/adumbrate/presage/prognosticate you probably do not recognize all the words in the above rap. I therefore prepare the explanations to those GRE words.
+
 
 ```
 goggle      special eyeglasses that fit close to your face and that are worn to protect your eyes
