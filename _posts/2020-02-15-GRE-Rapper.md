@@ -1,5 +1,5 @@
 ---
-title: Use GRE Glossaries to Write My First Rap
+title: Using GRE Glossaries to Write My First Rap
 date: 2020-02-15
 categories:
     - study
