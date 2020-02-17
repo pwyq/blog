@@ -21,23 +21,41 @@ All these ingredients are then combined together to produce my very first rap:
 ```
 ** GRE-RAPPER ** by PWYQ
 
-Hey, y' know, preparing the test makes me a RAPPER with goggle
-Com' on, stop shuffle and hobble, join me and settle.
+Heyyyyyy, y' know,
+preparing the test makes me a RAPPER, who wears mottled goggle.
+Com' on, stop shuffle and hobble, shuttle here and settle.
 Let's gabble, not babble.
 
-First make some doodles and have some noodle. (Then hide the nipples)
-Don't boggle anymore. Others will giggle.
+First make some waffle, have some noodle and scribble some doodles. 
+(Then sit on the saddle.)
+Don't boggle anymore. Mom will quibble, peers will giggle.
 You don't wanna dillydally all day long, yo,
-I mean stay away from piddle, diddle or dawdle.
-Those gonna enfeeble you.
+I mean, stay away from piddling, fiddling, diddling or dawdling.
+Those gonna cripple you. EN-FEE-BLE you!
+
+Wha(t)? You say this baffles ya? (Too many new jargons?)
+Feel befuddled? bemuddled? bepuzzled?
+Relax, here are some more.
+
+You wobbled to the college, and stippled your brittle dreams.
+(How's going?)
+Every day, you're niggling at stats; whittling daily costs.
+Every term, you're squabbling over labs; tussling for mundane jobs.
+Damn. Now Roger is smuggling weed, and girl is snuggling him.
+
+Mi amigo, if you tumble,
+you better swaddle yourself and snuffle in your tiny room. (Ha Ha)
+
+Don't you ever straggle! Otherwise you will struggle!
 
 Quit gobble, stop guttle, drop your guzzle.
 You've dabbled in so many areas in undergrad,
-Now you got to peddle yourself to the goddamn postgrad.
-Stop coddle me, meddle me, nettle me; please mettle me.
+Now you gotta peddle yourself to the goddamn postgrad.
+"Stop coddle me, meddle me, nettle me; please mettle me!"
 
-Shh, muffle. Now go back to study.
-Wait, work harder, so I can see your dimple.
+Shhh, muffle. Now go back to study.
+Wait, work harder,
+so (one day) I can hear a ripple of clappers. And see your dimples.
 ```
 
 - *If the rap (GRE-RAPPER) inspires you, please credit to PWYQ*.
