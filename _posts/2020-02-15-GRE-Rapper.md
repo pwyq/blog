@@ -9,7 +9,7 @@ tags:
     - music
 ---
 
-I have determined to take GRE in two months.
+I have determined to take [GRE][gre-wiki] in two months.
 For the last week, I have been learning new GRE words as it is my full-time job (Well, way more than full-time).
 Moreover, I stumbled upon a number of words that have similar postfix and word structure.
 
@@ -17,6 +17,7 @@ Besides the GRE glossaries, I have been listening to Eminem's songs while I do q
 I organized those similar words on a sheet. Plus some beats that are borrowed from Eminem's songs.
 All these ingredients are then combined together to produce my very first rap:
 
+(The rap is elongated/prolonged/extended on Feb 17th, while I settlted the theme to be an "elevating music" rather than "elevator music".)
 
 ```
 ** GRE-RAPPER ** by PWYQ
@@ -35,19 +36,19 @@ Those gonna cripple you. EN-FEE-BLE you!
 
 Wha(t)? You say this baffles ya? (Too many new jargons?)
 Feel befuddled? bemuddled? bepuzzled?
-Relax, here are some more.
+Relax, we got more.
 
 You wobbled to the college, and stippled your brittle dreams.
-(How's going?)
+(Now what?)
 Every day, you're niggling at stats; whittling daily costs.
 Every term, you're squabbling over labs; tussling for mundane jobs.
-Damn. Now Roger is smuggling weed, and girl is snuggling him.
+Now Howard is dribbling, while coward is wabbling.
+Damn. Roger is even smuggling weed, and girl is snuggling him.
 
 Mi amigo, if you tumble,
 you better swaddle yourself and snuffle in your tiny room. (Ha Ha)
 
 Don't you ever straggle! Otherwise you will struggle!
-
 Quit gobble, stop guttle, drop your guzzle.
 You've dabbled in so many areas in undergrad,
 Now you gotta peddle yourself to the goddamn postgrad.
@@ -55,7 +56,8 @@ Now you gotta peddle yourself to the goddamn postgrad.
 
 Shhh, muffle. Now go back to study.
 Wait, work harder,
-so (one day) I can hear a ripple of clappers. And see your dimples.
+so (one day) I can hear a ripple of clappers.
+And see your dimples.
 ```
 
 - *If the rap (GRE-RAPPER) inspires you, please credit to PWYQ*.
@@ -66,12 +68,14 @@ I portend/forecast/foreshadow/foreknowledge/forebode/anticipate/foresee/prefigur
 
 
 ```
+# 1st snippet
 goggle      special eyeglasses that fit close to your face and that are worn to protect your eyes
 shuffle     walk without lifting feet
 hobble      to slow the movement, progress, or action of (someone or something)
 gabble      to talk quickly and in a way that is difficult to understand
 babble      to talk foolishly or too much
 
+# 2nd snippet
 boggle      hesitate; to be amazed or overwhelmed
 giggle      to laugh (in a nervous or childlike way)
 dillydally  to waste time
@@ -80,6 +84,7 @@ diddle      to spend time doing something or handling something in an aimless wa
 dawdle      to move or act too slowly
 enfeeble    = weaken
 
+# Last 2 snippets
 gobble      to swallow or eat (something) quickly
 guttle      = gobble
 guzzle      to drink (something, such as beer or liquor) quickly or in large amounts; liquor
@@ -94,3 +99,7 @@ dimple      a small area on a part of a person's body (such as the cheek or chin
 ``` 
 
 Ayy, that wraps everything up. Stay stuned for my next song :))
+
+
+
+[gre-wiki]: https://en.wikipedia.org/wiki/Graduate_Record_Examinations
