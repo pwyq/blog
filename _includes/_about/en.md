@@ -57,7 +57,7 @@ More specifically, I:
 17. I really enjoy watching the process of constructing buildings in RTS games.
 18. I came from [Guilin][1]{:target="_blank"}, where is a small city in the southern China. I spent 95%+ of my pre-college life there
 20. Three things I regret till now: myopia, gave up halfway of learning instruments (violin 2yr+/Drum kit 1yr+) and know too much psychology.
-19. I was born on one of the most important (and horrible?) days for Chinese high school students.
+19. I was born on one of the most important and apprehensive days for Chinese high school students.
 22. I think Nano is way harder to use than Vim, seriously.
 
 <br>
