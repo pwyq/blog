@@ -1,6 +1,6 @@
 I'm **Yan-Qing Wu** (Chinese: **吴彦庆**), a carbon-based living creature currently live on the lovely blue planet.
 More specifically, I:  
---> (study term) will be back on school on May, 2020  
+--> (study term) am on my last year of undergrad!  
 --> (co-op term) am seeking intern opportunities for Sept. - Dec., 2020
 
 ### Content
