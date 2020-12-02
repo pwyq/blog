@@ -96,9 +96,9 @@ print(locks)
 ```
 
 
-Finally, I did recall some hacks from LeetCode from a long long time ago.
+Finally, I did recall some hacks, from a distant memory, through LeetCoding.
 This time, I used a dict to store the pair of (notation, count-great).
-After that, it only requires a sort call to finish the job:
+After that, it only requires a `sort` call to finish the job:
 
 ```Python
 i=0
