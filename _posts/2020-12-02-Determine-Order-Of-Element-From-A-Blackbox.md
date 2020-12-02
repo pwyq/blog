@@ -10,7 +10,8 @@ tags:
 ---
 
 I have been working on a automation+viewer GUI for a game with `PyQt` (open source here: [WGViewer](https://github.com/WarshipGirls/WGViewer)).
-Thinking of it may be the time to release a early beta version, I found a [third-party package, packaging.version](https://packaging.pypa.io/en/latest/version.html), for versioning.
+
+Thinking of it may be the time to release an early beta version, I found a [third-party package, packaging.version](https://packaging.pypa.io/en/latest/version.html), for versioning.
 Nevertheless, the documentation was ambiguous regarding what version number is valid as `version.Version` and what is invalid as `version.LegacyVersion`,
 let alone conspicuously providing the order of versioning.
 Granted, the post would not be made if it were merely comparing version of some integers.
@@ -21,7 +22,7 @@ I tried to find as much information as possible from the documentation, plus tes
 a, b, c, r, beta, dev, pre, post, rev
 ```
 
-One might guess the order by intuition; yet to be certain, I decided to write a script to test.
+One might guess the order by intuition; yet in order to be certain, I decided to write a script to test.
 Fortunately, one can compare the order using `version.parse(ver_name_a) < version.parse(ver_name_b)`.
 Since the aforementioned package is written in Python, the tool I use to determine the order is also Python.
 
@@ -50,10 +51,10 @@ I realize this is not only prone to human error but also not scalable.
 I then started refactoring the script to automatically determine the order.
 I had a failed attempt by using a list to store the result.
 The idea was to find the amount of elements that are greater (let call it `count-great`) than current element,
-then assign current element to the equivalent value (serve as index) of `count-great`.
-However, this was tricked by overlapping issue.
+then assign current element to the equivalent value (serve as index) of `count-great` of the list.
+However, this was thwarted by overlapping issue.
 After identifying the issue, I tried adding a boolean lock, along with `list.insert()`, to fix the problem.
-Nonetheless, the problem grew as the debugging code grew. Following code snippet are the failed attempt:
+Nonetheless, the problem grew as twice fast as the debugging code grew. Following code snippet are the failed attempt:
 
 ```Python
 i=0
