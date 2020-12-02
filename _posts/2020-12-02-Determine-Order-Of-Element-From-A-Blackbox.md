@@ -1,5 +1,5 @@
 ---
-title: Determine the order of element from a blackbox list
+title: Determine the order of elements from a blackbox list
 date: 2020-02-15
 categories:
     - tech
