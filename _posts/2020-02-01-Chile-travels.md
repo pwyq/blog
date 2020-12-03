@@ -60,6 +60,7 @@ tags:
 第二天（圣地亚哥）  
 今天行程比较简单：早上遛公园，中午逛鱼市，下午打篮球。
 一天下来，据我观察，智利有很多有中国特色的小区健身器材。就是蓝黄相间，超越西方审美一百年的那种。不晓得只有智利如此，还是南美都这样【注2】。
+
 因为智利盛产海鲜，所以我们中午去参观了本地最大的海鲜市场。在海鲜市场附近的大排档老板（娘）们，揽客实在很积极很有觉悟。老远见到人就开始笑眯眯地“amigo, amigo”的招呼了，比国内服务业从业者不知道高到哪里去了。这边小商贩不仅充满热情，卖的商品也是货真价实的。在“吃”这方面，大抵是不存在像注水肉一样的低级把戏的。
 
 注2：复活节岛上也有少量野生国产健身器的目击报道。
@@ -95,8 +96,10 @@ tags:
 
 第四天（复活节岛）
 在岛上的第二天我们赶早去看了日出。在这移步换景的世界里，我这摄影白痴都能拍出许多exciting的照片。
-【7361】
-【7390】
+
+![alt text][9]
+![alt text][10]
+
 随后我们四处
 
 【7671】
@@ -155,9 +158,14 @@ Hafuhafu
 
 
 [1]: /assets/images/posts/chile-1/1_La_Moneda.JPG "La Moneda"
-[2]: /assets/images/posts/chile-1/2.JPG "La Moneda"
-[3]: /assets/images/posts/chile-1/3.JPG "La Moneda"
-[4]: /assets/images/posts/chile-1/4.JPG "La Moneda"
-[6]: /assets/images/posts/chile-1/6.JPG "La Moneda"
-[7]: /assets/images/posts/chile-1/7.JPG "La Moneda"
-[8]: /assets/images/posts/chile-1/8.JPG "La Moneda"
+[2]: /assets/images/posts/chile-1/2.JPG "友好交流"
+[3]: /assets/images/posts/chile-1/3.JPG "街景"
+[4]: /assets/images/posts/chile-1/4.JPG "教堂内景"
+[6]: /assets/images/posts/chile-1/6.JPG "岛上唯一的班机"
+[7]: /assets/images/posts/chile-1/7.JPG "出发！"
+[8]: /assets/images/posts/chile-1/8.JPG "¡HOLA!"
+[9]: /assets/images/posts/chile-1/9.JPG "La Moneda"
+[10]: /assets/images/posts/chile-1/10.JPG "La Moneda"
+
+
+
