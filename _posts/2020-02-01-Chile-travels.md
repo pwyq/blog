@@ -220,6 +220,3 @@ Hafuhafu
 [13]: /assets/images/posts/chile-1/sea_stone.JPG "又是大石头人"
 [14]: /assets/images/posts/chile-1/outside_dinner.JPG "美美照"
 [15]: /assets/images/posts/chile-1/dog-1.JPG "狗"
-
-
-
