@@ -94,7 +94,7 @@ tags:
 
 来了这岛上之后，我想买一个远离尘世的私人小岛/小星球的愿望愈来愈强烈了。做为自己的一个“小目标”吧。
 
-> 以下内容为2020年完成。记忆~有些~十分模糊，只好拜托影音资料来重构当时的感受了
+> 以下内容为2020年完成。记忆模糊，只好拜托影音资料来重构当时的感受了
 
 **第四天（复活节岛）**  
 在岛上的第二天我们赶早去看了日出。
@@ -108,15 +108,17 @@ tags:
 
 ![alt text][11]
 
-奇怪的是，当天貌似只有我们一伙人。
+好生奇怪，当天貌似只有我们一伙人。明明昨夜还有许多游客的。
+奇怪归奇怪，我个人还是非常享受纯粹的自然风光的。
+除去博物馆，这类人迹罕至的景点是我最愿意浪费时间的地方了。
 
+在这移步换景的世界里，我这摄影白痴都能拍出许多（自认为）exciting的照片。
+啊，到底是美景造摄影师，还是摄影师造美景呢？
 
-在这移步换景的世界里，我这摄影白痴都能拍出许多exciting的照片。
-
-![alt text][10]
 ![alt text][9]
+![alt text][10]
 
-随后我们四处
+随后我们
 
 【7671】
 【狗的缩缩图】附文：
@@ -179,9 +181,9 @@ Hafuhafu
 [4]: /assets/images/posts/chile-1/4.JPG "教堂内景"
 [6]: /assets/images/posts/chile-1/6.JPG "岛上唯一的班机"
 [7]: /assets/images/posts/chile-1/7.JPG "出发！"
-[8]: /assets/images/posts/chile-1/8.JPG "¡HOLA!"
+[8]: /assets/images/posts/chile-1/8.JPG "¡HOLA!（左边有石像哦）"
 [9]: /assets/images/posts/chile-1/9.JPG "日出 （友人H和R）"
-[10]: /assets/images/posts/chile-1/10.JPG "皮卡广告"
+[10]: /assets/images/posts/chile-1/10.JPG "我们其实在火星"
 [11]: /assets/images/posts/chile-1/sunrise.JPG "那一刻"
 
 
