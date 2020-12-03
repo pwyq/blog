@@ -170,14 +170,14 @@ tags:
 ![alt text][16]
 
 
-在死火山口这一带附近有着原始土著的社群遗址。如图所示，是一户户的石片垒起的房子。
-一个石房子只有半个人高，入口极小，成年人只能以匍匐式进入；墙很厚，估计有半个手臂的厚度；石房上方是一层土和植被。令我有点困惑的是，房子都是海景房，入口还都是面朝大海。晚上睡觉不冷吗？要知道海岛的风的威力是极大的。或者这是他们把入口修得如此小的原因？
+在死火山口这一带附近有着原始土著的社群遗址。如下图所示，是一户户的石片垒起的房子。
+一个石房子只有半个人高，入口极小，成年人只能以匍匐式进入；墙很厚，估计有半个手臂的厚度；石房上方是一层土和植被。令我有点困惑的是，房子都是海景房，入口还都是面朝大海。晚上睡觉不冷吗？要知道海岛的风的威力是极大的（狗都是团着睡觉的）。或者这是他们把入口修得如此小的原因？
 
 ![alt text][19]
 
 下边这个算是复活节岛的一个小小小的附属岛屿。
 据我偷听来的导游讲解，这个是当地部落选首领的时候用的。
-勇士们从本岛出发，谁先活着游过去谁就是首领。
+勇士们从本岛出发，谁先活着游过去谁就是下一任首领。
 
 ![alt text][18]
 
@@ -194,8 +194,9 @@ tags:
 回到圣地亚哥，我好生休息了一两天。一朝被蛇咬，十年怕井绳。从海岛呕吐夜开始，我都是见着海鲜绕道走了。
 
 在首都的几天，我们活得跟当地人差不多，完全没有游客样。
-这几天只参观了圣母山（cerro san cristobal）、聂努达故居和花鸟市场（los dominico）。中途穿插着逛公园，看夜市，向酒庄老板学习先进的人生经验。
+这几天只参观了圣母山（cerro san cristobal）、聂努达故居和花鸟市场（los dominico）。中途穿插着逛公园、大学、夜市，和向酒庄老板学习先进的人生经验。
 
+圣母像的图片就不放了，还是轨道车车好看：
 ![alt text][20]
 
 #### 第九至第十二天（kalama）
@@ -249,11 +250,11 @@ Hafuhafu
 [9]: /assets/images/posts/chile-1/9.JPG "日出 （友人H和R）"
 [10]: /assets/images/posts/chile-1/10.JPG "我们其实在火星"
 [11]: /assets/images/posts/chile-1/sunrise.JPG "那一刻"
-[12]: /assets/images/posts/chile-1/stone.JPG "大石头人（Moais）"
+[12]: /assets/images/posts/chile-1/stone.JPG "大石头人（Moais），维基同款"
 [13]: /assets/images/posts/chile-1/sea_stone.JPG "又是大石头人"
 [14]: /assets/images/posts/chile-1/outside_dinner.JPG "美美照"
 [15]: /assets/images/posts/chile-1/dog-1.JPG "狗"
-[16]: /assets/images/posts/chile-1/dog-2.JPG "Hafu Hafu"
+[16]: /assets/images/posts/chile-1/dog-2.JPG "在大坑旁边Hafu Hafu"
 [17]: /assets/images/posts/chile-1/crater.JPG "大坑（Rano Kau）"
 [18]: /assets/images/posts/chile-1/islandofisland.JPG "Island of Island"
 [19]: /assets/images/posts/chile-1/stone-house.JPG "土著的石头小屋"
