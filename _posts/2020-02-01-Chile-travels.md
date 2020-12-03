@@ -197,16 +197,29 @@ tags:
 这几天只参观了圣母山（cerro san cristobal）、聂努达故居和花鸟市场（los dominico）。中途穿插着逛公园、大学、夜市，和向酒庄老板学习先进的人生经验。
 
 圣母像的图片就不放了，还是轨道车车好看：
+
 ![alt text][20]
 
-#### 第九至第十二天（kalama）
-Altacama沙漠 (san pedro de altacama)
+#### 第九至第十二天（Kalama）
+
+这一次算是复活节岛后的第二次出远门了。H父和我们一同从首都前往Altacama沙漠（san pedro de altacama）。
+中途遇上了一长队的机车党，原以为这种场景只有在美国才能见到。
+
+![alt text][21]
+
+这一次的景点是他们选的。老实讲，在车上睡觉的时间比下车的时间多。
+
+![alt text][22]
+
+
 看盐湖、火烈鸟、山顶看日落
 El tatio看温泉 （我开的车！）
 缺氧
 公路、雪山、草原
 印加王国古迹
 无人机偷拍智利矿场
+
+
 第十三十四天（圣地亚哥）
 第十五至十八天（瓦尔帕莱索）
 我最爱的城市！！！
@@ -259,3 +272,5 @@ Hafuhafu
 [18]: /assets/images/posts/chile-1/islandofisland.JPG "Island of Island"
 [19]: /assets/images/posts/chile-1/stone-house.JPG "土著的石头小屋"
 [20]: /assets/images/posts/chile-1/cable-car.JPG "下圣母山"
+[21]: /assets/images/posts/chile-1/motor.JPG "一路向北"
+[22]: /assets/images/posts/chile-1/mont-flamingo.JPG "雪山、盐湖、火烈鸟"
