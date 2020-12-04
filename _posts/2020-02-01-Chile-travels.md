@@ -272,7 +272,39 @@ tags:
 瓦尔帕莱索之旅的小故事还是挺多的。包括和一群来自欧洲的陌生人在深夜围着圈玩现创的小游戏，
 R蹦迪累了的时候坐在楼梯间被“大妈”搭讪，H还教了我一种喝烈酒的方式：撒些盐在非惯用手上，添一口盐后一口门闷掉一支酒，最后嗦柠檬。
 
-像小学生作文里的那样，“最后我们依依不舍地”离开了这座城市。
+像小学生作文里的那样，“我们依依不舍地”离开了这座城市。
+最后借用聂鲁达的情诗来做个收尾吧：
+
+> Me gusta que usted sea aún es como a través de usted están ausentes.  
+> 我喜欢你是寂静的，仿佛你消失了一样。  
+>   
+> Es tan corto el amor y tan largo el olvido.  
+> 爱情太短，遗忘太长。  
+>   
+> Usted es como mi alma, una mariposa de los sueños.  
+> 你像我的灵魂，一只梦的蝴蝶。  
+>   
+> A nadie te pareces desde que yo te amo.  
+> 自从我爱上你，你就与众不同。  
+>   
+> Yo que viví en un puerto desde donde te amaba.La soledad cruzada de sueño y de silencio.  
+> 我住过的港口，爱上你的地方，孤独交织着美梦，交织着宁静。  
+>   
+> Déjame que te hable también con tu silencio  claro como una lámpara,simple como un anillo.  
+> 请让我跟你的沉默一起谈谈沉默，你的沉默像灯光一样明亮，像戒指一样简单。  
+>   
+> Siempre, siempre te alejas en las tardes  hacia donde el crepúsculo corre borrando estatuas.  
+> 你总是、总是在暮色苍茫时分离去，走向晚霞边跑动边抹去雕像的地方。  
+>   
+> Quién escribe tu nombre con letras de humo entre las estrellas del sur?  
+> 是谁用烟云般的字体，在南方的群星间写下你的名字?  
+>   
+> Hemos perdido aún este crepúsculo.  Nadie nos vio esta tarde con las manos unidas，mientras la noche azul caía sobre el mundo.  
+> 我们错过了这个晚霞，今天黄昏没人看见我们手拉手，那时蓝色的夜正渐渐落下。  
+>   
+> Hemos visto arder tantas veces el lucero besándonos los ojos   y sobre nuestras cabezas destorcerse los crepúsculos en abanicos girantes.  
+> 你和我无数次看到了启明星，一面燃烧，一面亲吻着，曙光在咱们头上像扇面式地盘旋飞舞。  
+
 
 瓦，我想，我还会再来看你的。
 
@@ -280,7 +312,7 @@ R蹦迪累了的时候坐在楼梯间被“大妈”搭讪，H还教了我一种
 
 感谢H的邀请，感谢H爸的接待，感谢R的说走就走。
 
-整个行程从出发到回加拿大有21天之久，可以说是非常奢侈了，时间上和金钱上都是。
+整个行程从出发到回加拿大有21天之久，可以说是非常奢侈，时间上和金钱上都是。
 另外，写游记时，深感自身言语和逻辑的匮乏。可得坚持读书并少上中年育儿论坛了。
 
 ---
