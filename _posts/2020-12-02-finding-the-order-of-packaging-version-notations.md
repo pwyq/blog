@@ -1,5 +1,5 @@
 ---
-title: Determine the order of elements from a blackbox list
+title: Finding the order of packaging.version notations
 date: 2020-02-15
 categories:
     - tech
