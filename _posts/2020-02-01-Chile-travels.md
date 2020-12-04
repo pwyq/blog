@@ -276,48 +276,47 @@ R蹦迪累了的时候坐在楼梯间被“大妈”搭讪，H还教了我一种
 最后借用聂鲁达的情诗来做个收尾吧：
 
 
-　　Me Gustas Cuando Callas
-　　Me gustas cuando callas porque estás como ausente,
-　　y me oyes desde lejos, y mi voz no te toca.
-　　Parece que los ojos se te hubieran volado
-　　y parece que un beso te cerrara la boca.
-　　Como todas las cosas están llenas de mi alma
-　　emerges de las cosas, llena del alma mía.
-　　Mariposa de sue?o, te pareces a mi alma,
-　　y te pareces a la palabra melancolía.
-　　Me gustas cuando callas y estás como distante.
-　　Y estás como quejándote, mariposa en arrullo.
-　　Y me oyes desde lejos, y mi voz no te alcanza:
-　　Déjame que me calle con el silencio tuyo.
-　　Déjame que te hable también con tu silencio
-　　claro como una lámpara, simple como un anillo.
-　　Eres como la noche, callada y constelada.
-　　Tu silencio es de estrella, tan lejano y sencillo.
-　　Me gustas cuando callas porque estás como ausente.
-　　Distante y dolorosa como si hubieras muerto.
-　　Una palabra entonces, una sonrisa bastan.
-　　Y estoy alegre, alegre de que no sea cierto. 　
-
-　　我喜欢你默默无言，
-　　你沉默不语我更喜爱，像你不在我眼前，
-　　你远远倾听我的动静，我的声音却追赶不上你,
-　　仿佛一个甜吻把你嘴唇封闭。
-　　一切一切，浸透我的心灵，
-　　你从中浮现，跟我心心相印。
-　　梦幻的蝴蝶，仿佛你就是这个样子：忧伤，
-　　仿佛你就是我的灵魂。
-　　你沉默不语又遥遥在望，我更喜爱，
-　　柔声细语的蝴蝶，你像倾诉怨艾，
-　　你远远倾听我的动静，我的声音追不上你，
-　　请让我随同你的沉默不言不语。
-　　请让我也怀着你那种沉默向你诉说衷情。
-　　它像灯光一般明亮，像戒指一般简朴。
-　　你仿佛夜晚一样，沉静又密布繁星。
-　　你我沉默有如星星，遥远而又纯净。
-　　你沉默不语我更喜爱，像你不在我眼前，
-　　你遥远而又痛苦，仿佛已经死别，
-　　那你再说一句话，再露一次笑，我就满足，
-　　我很高兴，高兴这绝非永诀。
+> Me Gustas Cuando Callas  
+> Me gustas cuando callas porque estás como ausente,  
+> y me oyes desde lejos, y mi voz no te toca.  
+> Parece que los ojos se te hubieran volado  
+> y parece que un beso te cerrara la boca.  
+> Como todas las cosas están llenas de mi alma  
+> emerges de las cosas, llena del alma mía.  
+> Mariposa de sue?o, te pareces a mi alma,  
+> y te pareces a la palabra melancolía.  
+> Me gustas cuando callas y estás como distante.  
+> Y estás como quejándote, mariposa en arrullo.  
+> Y me oyes desde lejos, y mi voz no te alcanza:  
+> Déjame que me calle con el silencio tuyo.  
+> Déjame que te hable también con tu silencio  
+> claro como una lámpara, simple como un anillo.  
+> Eres como la noche, callada y constelada.  
+> Tu silencio es de estrella, tan lejano y sencillo.  
+> Me gustas cuando callas porque estás como ausente.  
+> Distante y dolorosa como si hubieras muerto.  
+> Una palabra entonces, una sonrisa bastan.  
+> Y estoy alegre, alegre de que no sea cierto.  
+> 我喜欢你默默无言，  
+> 你沉默不语我更喜爱，像你不在我眼前，  
+> 你远远倾听我的动静，我的声音却追赶不上你,  
+> 仿佛一个甜吻把你嘴唇封闭。  
+> 一切一切，浸透我的心灵，  
+> 你从中浮现，跟我心心相印。  
+> 梦幻的蝴蝶，仿佛你就是这个样子：忧伤，  
+> 仿佛你就是我的灵魂。  
+> 你沉默不语又遥遥在望，我更喜爱，  
+> 柔声细语的蝴蝶，你像倾诉怨艾，  
+> 你远远倾听我的动静，我的声音追不上你，  
+> 请让我随同你的沉默不言不语。  
+> 请让我也怀着你那种沉默向你诉说衷情。  
+> 它像灯光一般明亮，像戒指一般简朴。  
+> 你仿佛夜晚一样，沉静又密布繁星。  
+> 你我沉默有如星星，遥远而又纯净。  
+> 你沉默不语我更喜爱，像你不在我眼前，  
+> 你遥远而又痛苦，仿佛已经死别，  
+> 那你再说一句话，再露一次笑，我就满足，  
+> 我很高兴，高兴这绝非永诀。  
 
 
 瓦，我想，我还会再来看你的。
