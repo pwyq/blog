@@ -279,7 +279,7 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  min2read: true
+  # min2read: true
   separated_meta: true
 
 # Declare license on posts
