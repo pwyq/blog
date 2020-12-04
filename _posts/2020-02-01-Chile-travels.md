@@ -275,35 +275,49 @@ R蹦迪累了的时候坐在楼梯间被“大妈”搭讪，H还教了我一种
 像小学生作文里的那样，“我们依依不舍地”离开了这座城市。
 最后借用聂鲁达的情诗来做个收尾吧：
 
-> Me gusta que usted sea aún es como a través de usted están ausentes.  
-> 我喜欢你是寂静的，仿佛你消失了一样。  
->   
-> Es tan corto el amor y tan largo el olvido.  
-> 爱情太短，遗忘太长。  
->   
-> Usted es como mi alma, una mariposa de los sueños.  
-> 你像我的灵魂，一只梦的蝴蝶。  
->   
-> A nadie te pareces desde que yo te amo.  
-> 自从我爱上你，你就与众不同。  
->   
-> Yo que viví en un puerto desde donde te amaba.La soledad cruzada de sueño y de silencio.  
-> 我住过的港口，爱上你的地方，孤独交织着美梦，交织着宁静。  
->   
-> Déjame que te hable también con tu silencio  claro como una lámpara,simple como un anillo.  
-> 请让我跟你的沉默一起谈谈沉默，你的沉默像灯光一样明亮，像戒指一样简单。  
->   
-> Siempre, siempre te alejas en las tardes  hacia donde el crepúsculo corre borrando estatuas.  
-> 你总是、总是在暮色苍茫时分离去，走向晚霞边跑动边抹去雕像的地方。  
->   
-> Quién escribe tu nombre con letras de humo entre las estrellas del sur?  
-> 是谁用烟云般的字体，在南方的群星间写下你的名字?  
->   
-> Hemos perdido aún este crepúsculo.  Nadie nos vio esta tarde con las manos unidas，mientras la noche azul caía sobre el mundo.  
-> 我们错过了这个晚霞，今天黄昏没人看见我们手拉手，那时蓝色的夜正渐渐落下。  
->   
-> Hemos visto arder tantas veces el lucero besándonos los ojos   y sobre nuestras cabezas destorcerse los crepúsculos en abanicos girantes.  
-> 你和我无数次看到了启明星，一面燃烧，一面亲吻着，曙光在咱们头上像扇面式地盘旋飞舞。  
+
+　　Me Gustas Cuando Callas
+　　Me gustas cuando callas porque estás como ausente,
+　　y me oyes desde lejos, y mi voz no te toca.
+　　Parece que los ojos se te hubieran volado
+　　y parece que un beso te cerrara la boca.
+　　Como todas las cosas están llenas de mi alma
+　　emerges de las cosas, llena del alma mía.
+　　Mariposa de sue?o, te pareces a mi alma,
+　　y te pareces a la palabra melancolía.
+　　Me gustas cuando callas y estás como distante.
+　　Y estás como quejándote, mariposa en arrullo.
+　　Y me oyes desde lejos, y mi voz no te alcanza:
+　　Déjame que me calle con el silencio tuyo.
+　　Déjame que te hable también con tu silencio
+　　claro como una lámpara, simple como un anillo.
+　　Eres como la noche, callada y constelada.
+　　Tu silencio es de estrella, tan lejano y sencillo.
+　　Me gustas cuando callas porque estás como ausente.
+　　Distante y dolorosa como si hubieras muerto.
+　　Una palabra entonces, una sonrisa bastan.
+　　Y estoy alegre, alegre de que no sea cierto. 　
+
+　　我喜欢你默默无言，
+　　你沉默不语我更喜爱，像你不在我眼前，
+　　你远远倾听我的动静，我的声音却追赶不上你,
+　　仿佛一个甜吻把你嘴唇封闭。
+　　一切一切，浸透我的心灵，
+　　你从中浮现，跟我心心相印。
+　　梦幻的蝴蝶，仿佛你就是这个样子：忧伤，
+　　仿佛你就是我的灵魂。
+　　你沉默不语又遥遥在望，我更喜爱，
+　　柔声细语的蝴蝶，你像倾诉怨艾，
+　　你远远倾听我的动静，我的声音追不上你，
+　　请让我随同你的沉默不言不语。
+　　请让我也怀着你那种沉默向你诉说衷情。
+　　它像灯光一般明亮，像戒指一般简朴。
+　　你仿佛夜晚一样，沉静又密布繁星。
+　　你我沉默有如星星，遥远而又纯净。
+　　你沉默不语我更喜爱，像你不在我眼前，
+　　你遥远而又痛苦，仿佛已经死别，
+　　那你再说一句话，再露一次笑，我就满足，
+　　我很高兴，高兴这绝非永诀。
 
 
 瓦，我想，我还会再来看你的。
@@ -329,9 +343,9 @@ R蹦迪累了的时候坐在楼梯间被“大妈”搭讪，H还教了我一种
 3. 在这里，感觉黄面孔和大熊猫一样稀有。
 
 ## Reference
-1.	为什么西班牙殖民城市的中心普遍都有一个武器广场（Plaza de Armas）？ - Hannibal Lecter的回答 - 知乎https://www.zhihu.com/question/39289078/answer/82034437
-2.	https://en.wikipedia.org/wiki/La_Moneda_Palace
-3.	https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat
+1.  为什么西班牙殖民城市的中心普遍都有一个武器广场（Plaza de Armas）？ - Hannibal Lecter的回答 - 知乎https://www.zhihu.com/question/39289078/answer/82034437
+2.  https://en.wikipedia.org/wiki/La_Moneda_Palace
+3.  https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat
 
 
 
