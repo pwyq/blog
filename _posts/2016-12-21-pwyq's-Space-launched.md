@@ -44,5 +44,5 @@ Today I was going to deprecate some old github repositories, I found following:
 <img src="/assets/images/posts/First-Post/now_vs_past.png" alt="Now vs. Past" align="center">
 
 Anyway, this is amazing! Just like finding an Easter egg!
-<a href="http://www.yanqing-wu.com/abolish--blog/">It's still working! Click Me!</a>
+<a href="http://www.yanqingwu.com/abolish--blog/">It's still working! Click Me!</a>
 </p>

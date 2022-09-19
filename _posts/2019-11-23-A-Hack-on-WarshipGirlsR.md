@@ -132,7 +132,7 @@ Thanks for reading ;)
 
 
 [midway-movie]: https://www.imdb.com/title/tt6924650/
-[warship-site]: https://warship.yanqing-wu.com
+[warship-site]: https://warship.yanqingwu.com
 [kancolle-wiki]: https://en.wikipedia.org/wiki/Kantai_Collection
 [1]: https://blog.renqiancheng.com/2019/01/Fiddler-%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%8A%93%E5%8C%85%E6%95%99%E7%A8%8B.html
 [2]: https://www.telerik.com/fiddler

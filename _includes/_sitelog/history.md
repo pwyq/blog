@@ -38,11 +38,13 @@
 * 2019.09.18
     * Come back
     * Use new domain `www.yanqing-wu.com`, and place `PWYQ Space` under the main portfolio site
-
+* 2022.09.18
+    * wow, surprisingly, last update was exactly three years ago. I got in grad school, so I am reactivate my personal site (the site was down between 2021-2022 actually, ssh)
+    * Use new domain `www.yanqingwu.com` (the old domain is too expensive to retrieve)
 
 [2]: http://themes.3rdwavemedia.com/
 [3]: https://github.com/simpleyyt/jekyll-theme-next
-[4]: https://blog.yanqing-wu.com/blog/2017/08/26/Blog-First-Rebuilt
+[4]: https://blog.yanqingwu.com/blog/2017/08/26/Blog-First-Rebuilt
 [5]: https://blog.itswincer.com/posts/dfc84766/
 [6]: /postrules
 [7]: /sitelog

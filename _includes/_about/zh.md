@@ -102,4 +102,4 @@ Lie To Me：小学二年级识破人贩子并逃脱✔
 [site_log]: /sitelog
 [post_rule]: /postrules
 
-[1]: https://warship.yanqing-wu.com
+[1]: https://warship.yanqingwu.com
